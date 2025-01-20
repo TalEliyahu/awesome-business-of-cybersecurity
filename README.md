@@ -1,5 +1,7 @@
 # Awesome Cybersecurity Stocks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+> A curated list of publicly traded cybersecurity companies, ETFs, research tools, and resources.
+
 ## **🛡️ Cybersecurity Stock Lists**
 
 ### **🔍 Endpoint Protection and Threat Detection**
