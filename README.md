@@ -17,66 +17,101 @@
 - [Contributing](#contributing)
 - [License](#license)
 
+---
+
 ## Cybersecurity Stock Lists
 
 ### Endpoint Protection and Threat Detection
-- [CrowdStrike](https://ir.crowdstrike.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001535527)) ([Twitter](https://twitter.com/CrowdStrike)) ([Earnings Transcripts](https://seekingalpha.com/symbol/CRWD/earnings/transcripts)) ([$CRWD](https://finance.yahoo.com/quote/CRWD))
-- [SentinelOne](https://investors.sentinelone.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001768123)) ([Twitter](https://twitter.com/SentinelOne)) ([Earnings Transcripts](https://seekingalpha.com/symbol/S/earnings/transcripts)) ([$S](https://finance.yahoo.com/quote/S))
+
+| Company (IR)                                                           | Ticker                                                               | SEC Filings                                                     | Twitter                                               | Earnings Transcripts                                                      | Description                                                               |
+|------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| [CrowdStrike](https://ir.crowdstrike.com/)                             | [CRWD](https://finance.yahoo.com/quote/CRWD)                         | [Link](https://www.sec.gov/edgar/browse/?CIK=0001535527)        | [@CrowdStrike](https://twitter.com/CrowdStrike)       | [Link](https://seekingalpha.com/symbol/CRWD/earnings/transcripts)         | Offers cloud-native endpoint security and threat intelligence.             |
+| [SentinelOne](https://investors.sentinelone.com/)                     | [S](https://finance.yahoo.com/quote/S)                               | [Link](https://www.sec.gov/edgar/browse/?CIK=0001768123)        | [@SentinelOne](https://twitter.com/SentinelOne)       | [Link](https://seekingalpha.com/symbol/S/earnings/transcripts)            | Provides AI-driven endpoint protection and extended detection & response.  |
+
+---
 
 ### Network Security
-- [Check Point Software Technologies](https://www.checkpoint.com/about-us/investor-relations/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001015922)) ([Twitter](https://twitter.com/CheckPointSW)) ([$CHKP](https://finance.yahoo.com/quote/CHKP))
-- [Palo Alto Networks](https://investors.paloaltonetworks.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001327567)) ([Twitter](https://twitter.com/PaloAltoNtwks)) ([Earnings Transcripts](https://seekingalpha.com/symbol/PANW/earnings/transcripts)) ([$PANW](https://finance.yahoo.com/quote/PANW))
-- [Fortinet](https://investor.fortinet.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001262039)) ([Twitter](https://twitter.com/Fortinet)) ([Earnings Transcripts](https://seekingalpha.com/symbol/FTNT/earnings/transcripts)) ([$FTNT](https://finance.yahoo.com/quote/FTNT))
-- [Cisco](https://investor.cisco.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0000858877)) ([Twitter](https://twitter.com/Cisco)) ([Earnings Transcripts](https://seekingalpha.com/symbol/CSCO/earnings/transcripts)) ([$CSCO](https://finance.yahoo.com/quote/CSCO))
-- [Juniper Networks](https://investor.juniper.net/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001043604)) ([Twitter](https://twitter.com/JuniperNetworks)) ([Earnings Transcripts](https://seekingalpha.com/symbol/JNPR/earnings/transcripts)) ([$JNPR](https://finance.yahoo.com/quote/JNPR))
-- [Radware](https://www.radware.com/investor-relations/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001109345)) ([Twitter](https://twitter.com/radware)) ([Earnings Transcripts](https://seekingalpha.com/symbol/RDWR/earnings/transcripts)) ([$RDWR](https://finance.yahoo.com/quote/RDWR))
+
+| Company (IR)                                                                                | Ticker                                                               | SEC Filings                                                     | Twitter                                                | Earnings Transcripts                                                       | Description                                                           |
+|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| [Check Point Software Technologies](https://www.checkpoint.com/about-us/investor-relations/) | [CHKP](https://finance.yahoo.com/quote/CHKP)                         | [Link](https://www.sec.gov/edgar/browse/?CIK=0001015922)        | [@CheckPointSW](https://twitter.com/CheckPointSW)      | [Link](https://seekingalpha.com/symbol/CHKP/earnings/transcripts)      | Develops firewalls and threat prevention for various environments.    |
+| [Cisco](https://investor.cisco.com/)                                                        | [CSCO](https://finance.yahoo.com/quote/CSCO)                         | [Link](https://www.sec.gov/edgar/browse/?CIK=0000858877)        | [@Cisco](https://twitter.com/Cisco)                    | [Link](https://seekingalpha.com/symbol/CSCO/earnings/transcripts)      | Offers networking, security, and collaboration solutions.             |
+| [Fortinet](https://investor.fortinet.com/)                                                  | [FTNT](https://finance.yahoo.com/quote/FTNT)                         | [Link](https://www.sec.gov/edgar/browse/?CIK=0001262039)        | [@Fortinet](https://twitter.com/Fortinet)              | [Link](https://seekingalpha.com/symbol/FTNT/earnings/transcripts)      | Provides firewalls, endpoint, and cloud security solutions.           |
+| [Juniper Networks](https://investor.juniper.net/)                                           | [JNPR](https://finance.yahoo.com/quote/JNPR)                         | [Link](https://www.sec.gov/edgar/browse/?CIK=0001043604)        | [@JuniperNetworks](https://twitter.com/JuniperNetworks) | [Link](https://seekingalpha.com/symbol/JNPR/earnings/transcripts)      | Supplies networking and cybersecurity for enterprises and carriers.   |
+| [Palo Alto Networks](https://investors.paloaltonetworks.com/)                               | [PANW](https://finance.yahoo.com/quote/PANW)                         | [Link](https://www.sec.gov/edgar/browse/?CIK=0001327567)        | [@PaloAltoNtwks](https://twitter.com/PaloAltoNtwks)    | [Link](https://seekingalpha.com/symbol/PANW/earnings/transcripts)      | Develops SASE, firewall, and AI-based threat detection solutions.     |
+| [Radware](https://www.radware.com/investor-relations/)                                      | [RDWR](https://finance.yahoo.com/quote/RDWR)                         | [Link](https://www.sec.gov/edgar/browse/?CIK=0001109345)        | [@radware](https://twitter.com/radware)                | [Link](https://seekingalpha.com/symbol/RDWR/earnings/transcripts)      | Focuses on application delivery and DDoS protection.                  |
+
+---
 
 ### Identity and Access Management
-- [Okta](https://investor.okta.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001660134)) ([Twitter](https://twitter.com/Okta)) ([Earnings Transcripts](https://seekingalpha.com/symbol/OKTA/earnings/transcripts)) ([$OKTA](https://finance.yahoo.com/quote/OKTA))
-- [CyberArk](https://www.cyberark.com/investors/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001509821)) ([Twitter](https://twitter.com/CyberArk)) ([Earnings Transcripts](https://seekingalpha.com/symbol/CYBR/earnings/transcripts)) ([$CYBR](https://finance.yahoo.com/quote/CYBR))
+
+| Company (IR)                                                               | Ticker                                                               | SEC Filings                                                    | Twitter                                            | Earnings Transcripts                                                   | Description                                                           |
+|---------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
+| [CyberArk](https://www.cyberark.com/investors/)                           | [CYBR](https://finance.yahoo.com/quote/CYBR)                         | [Link](https://www.sec.gov/edgar/browse/?CIK=0001509821)       | [@CyberArk](https://twitter.com/CyberArk)           | [Link](https://seekingalpha.com/symbol/CYBR/earnings/transcripts)     | Specializes in privileged access management and identity security.    |
+| [Okta](https://investor.okta.com/)                                        | [OKTA](https://finance.yahoo.com/quote/OKTA)                         | [Link](https://www.sec.gov/edgar/browse/?CIK=0001660134)       | [@Okta](https://twitter.com/Okta)                  | [Link](https://seekingalpha.com/symbol/OKTA/earnings/transcripts)     | Offers identity management, SSO, and multi-factor authentication.     |
+
+---
 
 ### Cloud and Application Security
-- [Zscaler](https://ir.zscaler.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001713683)) ([Twitter](https://twitter.com/Zscaler)) ([Earnings Transcripts](https://seekingalpha.com/symbol/ZS/earnings/transcripts)) ([$ZS](https://finance.yahoo.com/quote/ZS))
-- [Cloudflare](https://investors.cloudflare.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001477333)) ([Twitter](https://twitter.com/Cloudflare)) ([Earnings Transcripts](https://seekingalpha.com/symbol/NET/earnings/transcripts)) ([$NET](https://finance.yahoo.com/quote/NET))
-- [Akamai Technologies](https://www.akamai.com/company/investor-relations) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001086222)) ([Twitter](https://twitter.com/Akamai)) ([Earnings Transcripts](https://seekingalpha.com/symbol/AKAM/earnings/transcripts)) ([$AKAM](https://finance.yahoo.com/quote/AKAM))
-- [F5, Inc.](https://investors.f5.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001048695)) ([Twitter](https://twitter.com/F5)) ([Earnings Transcripts](https://seekingalpha.com/symbol/FFIV/earnings/transcripts)) ([$FFIV](https://finance.yahoo.com/quote/FFIV))
+
+| Company (IR)                                                                         | Ticker                                                               | SEC Filings                                                    | Twitter                                          | Earnings Transcripts                                                   | Description                                                        |
+|--------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------|
+| [Akamai Technologies](https://www.akamai.com/company/investor-relations)             | [AKAM](https://finance.yahoo.com/quote/AKAM)                         | [Link](https://www.sec.gov/edgar/browse/?CIK=0001086222)       | [@Akamai](https://twitter.com/Akamai)             | [Link](https://seekingalpha.com/symbol/AKAM/earnings/transcripts)     | Provides CDN, DDoS mitigation, and application security services.  |
+| [Cloudflare](https://investors.cloudflare.com/)                                      | [NET](https://finance.yahoo.com/quote/NET)                           | [Link](https://www.sec.gov/edgar/browse/?CIK=0001477333)       | [@Cloudflare](https://twitter.com/Cloudflare)     | [Link](https://seekingalpha.com/symbol/NET/earnings/transcripts)      | Offers global edge network services for CDN, DDoS, and zero trust. |
+| [F5, Inc.](https://investors.f5.com/)                                                | [FFIV](https://finance.yahoo.com/quote/FFIV)                         | [Link](https://www.sec.gov/edgar/browse/?CIK=0001048695)       | [@F5](https://twitter.com/F5)                      | [Link](https://seekingalpha.com/symbol/FFIV/earnings/transcripts)     | Delivers multi-cloud app security, load balancing, and delivery.   |
+| [Zscaler](https://ir.zscaler.com/)                                                   | [ZS](https://finance.yahoo.com/quote/ZS)                             | [Link](https://www.sec.gov/edgar/browse/?CIK=0001713683)       | [@Zscaler](https://twitter.com/Zscaler)           | [Link](https://seekingalpha.com/symbol/ZS/earnings/transcripts)       | Provides zero trust cloud security, secure web gateways, and SASE. |
+
+---
 
 ### Data Protection and Governance
-- [Broadcom (Symantec)](https://investors.broadcom.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001730168)) ([Twitter](https://twitter.com/Broadcom)) ([Earnings Transcripts](https://seekingalpha.com/symbol/AVGO/earnings/transcripts)) ([$AVGO](https://finance.yahoo.com/quote/AVGO))
-- [Varonis](https://ir.varonis.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001342478)) ([Twitter](https://twitter.com/Varonis)) ([Earnings Transcripts](https://seekingalpha.com/symbol/VRNS/earnings/transcripts)) ([$VRNS](https://finance.yahoo.com/quote/VRNS))
-- [Commvault Systems](https://ir.commvault.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001169561)) ([Twitter](https://twitter.com/Commvault)) ([Earnings Transcripts](https://seekingalpha.com/symbol/CVLT/earnings/transcripts)) ([$CVLT](https://finance.yahoo.com/quote/CVLT))
+
+| Company (IR)                                                                    | Ticker                                                               | SEC Filings                                                     | Twitter                                            | Earnings Transcripts                                                    | Description                                                          |
+|--------------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------|-------------------------------------------------------------------------|----------------------------------------------------------------------|
+| [Broadcom (Symantec)](https://investors.broadcom.com/)                        | [AVGO](https://finance.yahoo.com/quote/AVGO)                         | [Link](https://www.sec.gov/edgar/browse/?CIK=0001730168)        | [@Broadcom](https://twitter.com/Broadcom)          | [Link](https://seekingalpha.com/symbol/AVGO/earnings/transcripts)       | Incorporates enterprise security products acquired from Symantec.    |
+| [Commvault Systems](https://ir.commvault.com/)                                 | [CVLT](https://finance.yahoo.com/quote/CVLT)                         | [Link](https://www.sec.gov/edgar/browse/?CIK=0001169561)        | [@Commvault](https://twitter.com/Commvault)        | [Link](https://seekingalpha.com/symbol/CVLT/earnings/transcripts)       | Offers backup, recovery, and data management across cloud & on-prem. |
+| [Varonis](https://ir.varonis.com/)                                             | [VRNS](https://finance.yahoo.com/quote/VRNS)                         | [Link](https://www.sec.gov/edgar/browse/?CIK=0001342478)        | [@Varonis](https://twitter.com/Varonis)            | [Link](https://seekingalpha.com/symbol/VRNS/earnings/transcripts)       | Delivers data governance, security, and analytics for enterprises.   |
+
+---
 
 ### Security Analytics and Threat Intelligence
-- [Tenable Holdings](https://investors.tenable.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001660280)) ([Twitter](https://twitter.com/TenableSecurity)) ([Earnings Transcripts](https://seekingalpha.com/symbol/TENB/earnings/transcripts)) ([$TENB](https://finance.yahoo.com/quote/TENB))
-- [Rapid7](https://investors.rapid7.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001560327)) ([Twitter](https://twitter.com/Rapid7)) ([Earnings Transcripts](https://seekingalpha.com/symbol/RPD/earnings/transcripts)) ([$RPD](https://finance.yahoo.com/quote/RPD))
-- [Qualys](https://investor.qualys.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001107843)) ([Twitter](https://twitter.com/Qualys)) ([Earnings Transcripts](https://seekingalpha.com/symbol/QLYS/earnings/transcripts)) ([$QLYS](https://finance.yahoo.com/quote/QLYS))
-- [Elastic N.V.](https://elastic.co/investor-relations/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001707753)) ([Twitter](https://twitter.com/elastic)) ([Earnings Transcripts](https://seekingalpha.com/symbol/ESTC/earnings/transcripts)) ([$ESTC](https://finance.yahoo.com/quote/ESTC))
-- [SecureWorks](https://investors.secureworks.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001468666)) ([Twitter](https://twitter.com/SecureWorks)) ([Earnings Transcripts](https://seekingalpha.com/symbol/SCWX/earnings/transcripts)) ([$SCWX](https://finance.yahoo.com/quote/SCWX))
+
+| Company (IR)                                                       | Ticker                                                               | SEC Filings                                                     | Twitter                                                 | Earnings Transcripts                                                    | Description                                                     |
+|-------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------|
+| [Elastic N.V.](https://elastic.co/investor-relations/)            | [ESTC](https://finance.yahoo.com/quote/ESTC)                         | [Link](https://www.sec.gov/edgar/browse/?CIK=0001707753)        | [@elastic](https://twitter.com/elastic)                 | [Link](https://seekingalpha.com/symbol/ESTC/earnings/transcripts)       | Offers search-based analytics, SIEM, and observability tools.   |
+| [Qualys](https://investor.qualys.com/)                            | [QLYS](https://finance.yahoo.com/quote/QLYS)                         | [Link](https://www.sec.gov/edgar/browse/?CIK=0001107843)        | [@Qualys](https://twitter.com/Qualys)                   | [Link](https://seekingalpha.com/symbol/QLYS/earnings/transcripts)       | Provides cloud-based vulnerability management and compliance.   |
+| [Rapid7](https://investors.rapid7.com/)                           | [RPD](https://finance.yahoo.com/quote/RPD)                           | [Link](https://www.sec.gov/edgar/browse/?CIK=0001560327)        | [@Rapid7](https://twitter.com/Rapid7)                   | [Link](https://seekingalpha.com/symbol/RPD/earnings/transcripts)        | Offers security analytics, vulnerability management, and detection. |
+| [SecureWorks](https://investors.secureworks.com/)                 | [SCWX](https://finance.yahoo.com/quote/SCWX)                         | [Link](https://www.sec.gov/edgar/browse/?CIK=0001468666)        | [@SecureWorks](https://twitter.com/SecureWorks)         | [Link](https://seekingalpha.com/symbol/SCWX/earnings/transcripts)       | Provides managed security services and threat intelligence.      |
+| [Tenable Holdings](https://investors.tenable.com/)                | [TENB](https://finance.yahoo.com/quote/TENB)                         | [Link](https://www.sec.gov/edgar/browse/?CIK=0001660280)        | [@TenableSecurity](https://twitter.com/TenableSecurity) | [Link](https://seekingalpha.com/symbol/TENB/earnings/transcripts)       | Focuses on cyber exposure & vulnerability management solutions. |
+
+---
 
 ### Cybersecurity ETFs
-- [First Trust NASDAQ Cybersecurity ETF](https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=CIBR) ([$CIBR](https://finance.yahoo.com/quote/CIBR))
-- [ETFMG Prime Cyber Security ETF](https://etfmg.com/funds/hack/) ([$HACK](https://finance.yahoo.com/quote/HACK))
-- [Global X Cybersecurity ETF](https://www.globalxetfs.com/funds/bug/) ([$BUG](https://finance.yahoo.com/quote/BUG))
+
+| Company (IR)                                                                 | Ticker                                                               | Description                                               |
+|------------------------------------------------------------------------------|----------------------------------------------------------------------:|-----------------------------------------------------------|
+| [ETFMG Prime Cyber Security ETF](https://etfmg.com/funds/hack/)             | [HACK](https://finance.yahoo.com/quote/HACK)                         | Aims for diversified cybersecurity exposure.             |
+| [First Trust NASDAQ Cybersecurity ETF](https://www.ftportfolios.com/)        | [CIBR](https://finance.yahoo.com/quote/CIBR)                         | Tracks the Nasdaq CTA Cybersecurity Index.               |
+| [Global X Cybersecurity ETF](https://www.globalxetfs.com/funds/bug/)        | [BUG](https://finance.yahoo.com/quote/BUG)                           | Invests in cybersecurity software and services companies.|
 
 ---
 
 ## Research and Analysis Tools
 
 - **Cybersecurity-Specific Data**
-  - [Statista Cybersecurity Market](https://www.statista.com/outlook/tmo/cybersecurity/worldwide)
+  - [Statista Cybersecurity Market](https://www.statista.com/outlook/tmo/cybersecurity/worldwide)  
   - [CB Insights Cybersecurity Reports](https://www.cbinsights.com/research/cybersecurity/)
 
 ---
 
 ## News and Insights
 
-- [Cybersecurity Ventures](https://cybersecurityventures.com/)
+- [Cybersecurity Ventures](https://cybersecurityventures.com/) – Provides research and reports on cybercrime and market trends.
 
 ---
 
 ## Market Trends
 
-- [Global Cybersecurity Spending Forecast (Statista)](https://www.statista.com/statistics/991304/worldwide-cybersecurity-spending/)
+- [Global Cybersecurity Spending Forecast (Statista)](https://www.statista.com/statistics/991304/worldwide-cybersecurity-spending/) – Shows current and projected cybersecurity spending.
 
 ---
 
