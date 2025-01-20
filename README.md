@@ -26,38 +26,38 @@ Cybersecurity is a growing and dynamic industry as organizations worldwide inves
 ## **Cybersecurity Stock Lists**
 
 ### **Endpoint Protection and Threat Detection**
-- [CrowdStrike](https://ir.crowdstrike.com/) ([$CRWD](https://finance.yahoo.com/quote/CRWD))
-- [SentinelOne](https://investors.sentinelone.com/) ([$S](https://finance.yahoo.com/quote/S))
+- [CrowdStrike](https://ir.crowdstrike.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001535527)) ([$CRWD](https://finance.yahoo.com/quote/CRWD))
+- [SentinelOne](https://investors.sentinelone.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001768123)) ([$S](https://finance.yahoo.com/quote/S))
 
 ### **Network Security**
-- [Check Point Software Technologies](https://www.checkpoint.com/about-us/investor-relations/) ([$CHKP](https://finance.yahoo.com/quote/CHKP))
-- [Palo Alto Networks](https://investors.paloaltonetworks.com/) ([$PANW](https://finance.yahoo.com/quote/PANW))
-- [Fortinet](https://investor.fortinet.com/) ([$FTNT](https://finance.yahoo.com/quote/FTNT))
-- [Cisco](https://investor.cisco.com/) ([$CSCO](https://finance.yahoo.com/quote/CSCO))
-- [Juniper Networks](https://investor.juniper.net/) ([$JNPR](https://finance.yahoo.com/quote/JNPR))
-- [Radware](https://www.radware.com/investor-relations/) ([$RDWR](https://finance.yahoo.com/quote/RDWR))
+- [Check Point Software Technologies](https://www.checkpoint.com/about-us/investor-relations/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001015922)) ([$CHKP](https://finance.yahoo.com/quote/CHKP))
+- [Palo Alto Networks](https://investors.paloaltonetworks.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001327567)) ([$PANW](https://finance.yahoo.com/quote/PANW))
+- [Fortinet](https://investor.fortinet.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001262039)) ([$FTNT](https://finance.yahoo.com/quote/FTNT))
+- [Cisco](https://investor.cisco.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0000858877)) ([$CSCO](https://finance.yahoo.com/quote/CSCO))
+- [Juniper Networks](https://investor.juniper.net/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001043604)) ([$JNPR](https://finance.yahoo.com/quote/JNPR))
+- [Radware](https://www.radware.com/investor-relations/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001109345)) ([$RDWR](https://finance.yahoo.com/quote/RDWR))
 
 ### **Identity and Access Management**
-- [Okta](https://investor.okta.com/) ([$OKTA](https://finance.yahoo.com/quote/OKTA))
-- [CyberArk](https://www.cyberark.com/investors/) ([$CYBR](https://finance.yahoo.com/quote/CYBR))
+- [Okta](https://investor.okta.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001660134)) ([$OKTA](https://finance.yahoo.com/quote/OKTA))
+- [CyberArk](https://www.cyberark.com/investors/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001509821)) ([$CYBR](https://finance.yahoo.com/quote/CYBR))
 
 ### **Cloud and Application Security**
-- [Zscaler](https://ir.zscaler.com/) ([$ZS](https://finance.yahoo.com/quote/ZS))
-- [Cloudflare](https://investors.cloudflare.com/) ([$NET](https://finance.yahoo.com/quote/NET))
-- [Akamai Technologies](https://www.akamai.com/company/investor-relations) ([$AKAM](https://finance.yahoo.com/quote/AKAM))
-- [F5, Inc.](https://investors.f5.com/) ([$FFIV](https://finance.yahoo.com/quote/FFIV))
+- [Zscaler](https://ir.zscaler.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001713683)) ([$ZS](https://finance.yahoo.com/quote/ZS))
+- [Cloudflare](https://investors.cloudflare.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001477333)) ([$NET](https://finance.yahoo.com/quote/NET))
+- [Akamai Technologies](https://www.akamai.com/company/investor-relations) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001086222)) ([$AKAM](https://finance.yahoo.com/quote/AKAM))
+- [F5, Inc.](https://investors.f5.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001048695)) ([$FFIV](https://finance.yahoo.com/quote/FFIV))
 
 ### **Data Protection and Governance**
-- [Broadcom (Symantec)](https://investors.broadcom.com/) ([$AVGO](https://finance.yahoo.com/quote/AVGO))
-- [Varonis](https://ir.varonis.com/) ([$VRNS](https://finance.yahoo.com/quote/VRNS))
-- [Commvault Systems](https://ir.commvault.com/) ([$CVLT](https://finance.yahoo.com/quote/CVLT))
+- [Broadcom (Symantec)](https://investors.broadcom.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001730168)) ([$AVGO](https://finance.yahoo.com/quote/AVGO))
+- [Varonis](https://ir.varonis.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001342478)) ([$VRNS](https://finance.yahoo.com/quote/VRNS))
+- [Commvault Systems](https://ir.commvault.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001169561)) ([$CVLT](https://finance.yahoo.com/quote/CVLT))
 
 ### **Security Analytics and Threat Intelligence**
-- [Tenable Holdings](https://investors.tenable.com/) ([$TENB](https://finance.yahoo.com/quote/TENB))
-- [Rapid7](https://investors.rapid7.com/) ([$RPD](https://finance.yahoo.com/quote/RPD))
-- [Qualys](https://investor.qualys.com/) ([$QLYS](https://finance.yahoo.com/quote/QLYS))
-- [Elastic N.V.](https://elastic.co/investor-relations/) ([$ESTC](https://finance.yahoo.com/quote/ESTC))
-- [SecureWorks](https://investors.secureworks.com/) ([$SCWX](https://finance.yahoo.com/quote/SCWX))
+- [Tenable Holdings](https://investors.tenable.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001660280)) ([$TENB](https://finance.yahoo.com/quote/TENB))
+- [Rapid7](https://investors.rapid7.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001560327)) ([$RPD](https://finance.yahoo.com/quote/RPD))
+- [Qualys](https://investor.qualys.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001107843)) ([$QLYS](https://finance.yahoo.com/quote/QLYS))
+- [Elastic N.V.](https://elastic.co/investor-relations/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001707753)) ([$ESTC](https://finance.yahoo.com/quote/ESTC))
+- [SecureWorks](https://investors.secureworks.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001468666)) ([$SCWX](https://finance.yahoo.com/quote/SCWX))
 
 ### **Cybersecurity ETFs**
 - [First Trust NASDAQ Cybersecurity ETF](https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=CIBR) ([$CIBR](https://finance.yahoo.com/quote/CIBR))
