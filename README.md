@@ -1,6 +1,6 @@
 # **Awesome Cybersecurity Stocks**
 
-A curated list of publicly traded cybersecurity companies, ETFs, tools, resources, and insights for anyone interested in the cybersecurity industry. This repository serves as a one-stop resource for investors and enthusiasts looking to explore the financial side of cybersecurity.
+This repository provides a curated list of publicly traded cybersecurity companies and ETFs, helping investors and enthusiasts explore the financial aspects of the cybersecurity industry.
 
 ---
 
@@ -25,7 +25,6 @@ A curated list of publicly traded cybersecurity companies, ETFs, tools, resource
 
 ## **Introduction**
 
-> **Investment Disclaimer**: This list is for informational purposes only and should not be construed as financial advice. Always do your own research before making investment decisions.
 Cybersecurity is a growing and dynamic industry as organizations worldwide invest heavily to protect their networks, data, and devices from evolving threats. This repository provides a curated collection of publicly traded cybersecurity companies, research tools, and resources to help investors and enthusiasts better understand the financial landscape of cybersecurity.
 
 ---
