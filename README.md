@@ -55,11 +55,6 @@
 
 ---
 
-
----
-
----
-
 ## **Market Trends**
 - [Global Cybersecurity Spending Forecast (Statista)](https://www.statista.com/statistics/991304/worldwide-cybersecurity-spending/)
 - [Cybersecurity Stocks Analysis (Seeking Alpha)](https://seekingalpha.com/)
