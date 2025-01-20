@@ -7,6 +7,13 @@ A curated list of publicly traded cybersecurity companies, ETFs, tools, resource
 ## **Table of Contents**
 1. [Introduction](#introduction)
 2. [Cybersecurity Stock Lists](#cybersecurity-stock-lists)
+   - [Endpoint Protection and Threat Detection](#endpoint-protection-and-threat-detection)
+   - [Network Security](#network-security)
+   - [Identity and Access Management](#identity-and-access-management)
+   - [Cloud and Application Security](#cloud-and-application-security)
+   - [Data Protection and Governance](#data-protection-and-governance)
+   - [Security Analytics and Threat Intelligence](#security-analytics-and-threat-intelligence)
+   - [Cybersecurity ETFs](#cybersecurity-etfs)
 3. [Research and Analysis Tools](#research-and-analysis-tools)
 4. [News and Insights](#news-and-insights)
 5. [Podcasts and Blogs](#podcasts-and-blogs)
@@ -26,13 +33,13 @@ Cybersecurity is a growing and dynamic industry as organizations worldwide inves
 ## **Cybersecurity Stock Lists**
 
 ### **Endpoint Protection and Threat Detection**
-- [CrowdStrike](https://ir.crowdstrike.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001535527)) ([$CRWD](https://finance.yahoo.com/quote/CRWD))
-- [SentinelOne](https://investors.sentinelone.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001768123)) ([$S](https://finance.yahoo.com/quote/S))
+- [CrowdStrike](https://ir.crowdstrike.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001535527)) ([Twitter](https://twitter.com/CrowdStrike)) ([$CRWD](https://finance.yahoo.com/quote/CRWD))
+- [SentinelOne](https://investors.sentinelone.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001768123)) ([Twitter](https://twitter.com/SentinelOne)) ([$S](https://finance.yahoo.com/quote/S))
 
 ### **Network Security**
-- [Check Point Software Technologies](https://www.checkpoint.com/about-us/investor-relations/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001015922)) ([$CHKP](https://finance.yahoo.com/quote/CHKP))
-- [Palo Alto Networks](https://investors.paloaltonetworks.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001327567)) ([$PANW](https://finance.yahoo.com/quote/PANW))
-- [Fortinet](https://investor.fortinet.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001262039)) ([$FTNT](https://finance.yahoo.com/quote/FTNT))
+- [Check Point Software Technologies](https://www.checkpoint.com/about-us/investor-relations/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001015922)) ([Twitter](https://twitter.com/CheckPointSW)) ([$CHKP](https://finance.yahoo.com/quote/CHKP))
+- [Palo Alto Networks](https://investors.paloaltonetworks.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001327567)) ([Twitter](https://twitter.com/PaloAltoNtwks)) ([$PANW](https://finance.yahoo.com/quote/PANW))
+- [Fortinet](https://investor.fortinet.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001262039)) ([Twitter](https://twitter.com/Fortinet)) ([$FTNT](https://finance.yahoo.com/quote/FTNT))
 - [Cisco](https://investor.cisco.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0000858877)) ([$CSCO](https://finance.yahoo.com/quote/CSCO))
 - [Juniper Networks](https://investor.juniper.net/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001043604)) ([$JNPR](https://finance.yahoo.com/quote/JNPR))
 - [Radware](https://www.radware.com/investor-relations/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001109345)) ([$RDWR](https://finance.yahoo.com/quote/RDWR))
