@@ -17,6 +17,8 @@ A curated list of publicly traded cybersecurity companies, ETFs, tools, resource
 ---
 
 ## **Introduction**
+
+> **Investment Disclaimer**: This list is for informational purposes only and should not be construed as financial advice. Always do your own research before making investment decisions.
 Cybersecurity is a growing and dynamic industry as organizations worldwide invest heavily to protect their networks, data, and devices from evolving threats. This repository provides a curated collection of publicly traded cybersecurity companies, research tools, and resources to help investors and enthusiasts better understand the financial landscape of cybersecurity.
 
 ---
@@ -89,12 +91,9 @@ Cybersecurity is a growing and dynamic industry as organizations worldwide inves
 
 ## **Podcasts and Blogs**
 - **Podcasts**
-  - [CyberWire Daily](https://thecyberwire.com/podcasts/cyberwire-daily)
-  - [Invest Like the Best](https://investlikethebest.libsyn.com/)
 
 - **Blogs**
-  - [TechCrunch Cybersecurity](https://techcrunch.com/tag/cybersecurity/)
-  - [Panda Security Blog](https://www.pandasecurity.com/en/mediacenter/)
+
 
 ---
 
@@ -115,3 +114,8 @@ Contributions are welcome! Feel free to submit a pull request or open an issue t
 ---
 
 This repository is a work in progress. Suggestions and contributions are appreciated to make it a comprehensive resource!
+
+
+---
+
+> **Investment Disclaimer**: This list is for informational purposes only and should not be construed as financial advice. Always do your own research before making investment decisions.
