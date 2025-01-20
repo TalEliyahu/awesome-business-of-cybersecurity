@@ -26,21 +26,20 @@ Cybersecurity is a growing and dynamic industry as organizations worldwide inves
 ### **Endpoint Protection and Threat Detection**
 - [CrowdStrike](https://ir.crowdstrike.com/) ([$CRWD](https://finance.yahoo.com/quote/CRWD))
 - [SentinelOne](https://investors.sentinelone.com/) ([$S](https://finance.yahoo.com/quote/S))
-- [BlackBerry](https://investor.blackberry.com/) ([$BB](https://finance.yahoo.com/quote/BB))
 
 ### **Network Security**
+- [Check Point Software Technologies](https://www.checkpoint.com/about-us/investor-relations/) ([$CHKP](https://finance.yahoo.com/quote/CHKP))
 - [Palo Alto Networks](https://investors.paloaltonetworks.com/) ([$PANW](https://finance.yahoo.com/quote/PANW))
 - [Fortinet](https://investor.fortinet.com/) ([$FTNT](https://finance.yahoo.com/quote/FTNT))
 - [Cisco](https://investor.cisco.com/) ([$CSCO](https://finance.yahoo.com/quote/CSCO))
 - [Juniper Networks](https://investor.juniper.net/) ([$JNPR](https://finance.yahoo.com/quote/JNPR))
-- [Arista Networks](https://investors.arista.com/) ([$ANET](https://finance.yahoo.com/quote/ANET))
 - [Radware](https://www.radware.com/investor-relations/) ([$RDWR](https://finance.yahoo.com/quote/RDWR))
 
 ### **Identity and Access Management**
 - [Okta](https://investor.okta.com/) ([$OKTA](https://finance.yahoo.com/quote/OKTA))
 - [CyberArk](https://www.cyberark.com/investors/) ([$CYBR](https://finance.yahoo.com/quote/CYBR))
 
-### **Cloud Security**
+### **Cloud and Application Security**
 - [Zscaler](https://ir.zscaler.com/) ([$ZS](https://finance.yahoo.com/quote/ZS))
 - [Cloudflare](https://investors.cloudflare.com/) ([$NET](https://finance.yahoo.com/quote/NET))
 - [Akamai Technologies](https://www.akamai.com/company/investor-relations) ([$AKAM](https://finance.yahoo.com/quote/AKAM))
@@ -49,10 +48,10 @@ Cybersecurity is a growing and dynamic industry as organizations worldwide inves
 ### **Data Protection and Governance**
 - [Broadcom (Symantec)](https://investors.broadcom.com/) ([$AVGO](https://finance.yahoo.com/quote/AVGO))
 - [Varonis](https://ir.varonis.com/) ([$VRNS](https://finance.yahoo.com/quote/VRNS))
-- [Tenable Holdings](https://investors.tenable.com/) ([$TENB](https://finance.yahoo.com/quote/TENB))
 - [Commvault Systems](https://ir.commvault.com/) ([$CVLT](https://finance.yahoo.com/quote/CVLT))
 
 ### **Security Analytics and Threat Intelligence**
+- [Tenable Holdings](https://investors.tenable.com/) ([$TENB](https://finance.yahoo.com/quote/TENB))
 - [Rapid7](https://investors.rapid7.com/) ([$RPD](https://finance.yahoo.com/quote/RPD))
 - [Qualys](https://investor.qualys.com/) ([$QLYS](https://finance.yahoo.com/quote/QLYS))
 - [Elastic N.V.](https://elastic.co/investor-relations/) ([$ESTC](https://finance.yahoo.com/quote/ESTC))
