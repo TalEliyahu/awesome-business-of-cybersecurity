@@ -50,9 +50,6 @@
 
 ## **News and Insights**
 - [Cybersecurity Ventures](https://cybersecurityventures.com/)
-- [Dark Reading](https://www.darkreading.com/)
-- [Financial Times - Technology](https://www.ft.com/technology)
-
 ---
 
 ## **Market Trends**
