@@ -66,9 +66,9 @@ Cybersecurity is a growing and dynamic industry as organizations worldwide inves
 - [SecureWorks](https://investors.secureworks.com/) ([SEC Filings](https://www.sec.gov/edgar/browse/?CIK=0001468666)) ([Earnings Transcripts](https://seekingalpha.com/symbol/SCWX/earnings/transcripts)) ([$SCWX](https://finance.yahoo.com/quote/SCWX))
 
 ### **📦 Cybersecurity ETFs**
-- [First Trust NASDAQ Cybersecurity ETF](https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=CIBR) ([$CIBR](https://finance.yahoo.com/quote/CIBR))
-- [ETFMG Prime Cyber Security ETF](https://etfmg.com/funds/hack/) ([$HACK](https://finance.yahoo.com/quote/HACK))
-- [Global X Cybersecurity ETF](https://www.globalxetfs.com/funds/bug/) ([$BUG](https://finance.yahoo.com/quote/BUG))
+- [First Trust NASDAQ Cybersecurity ETF](https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=CIBR)  ([$CIBR](https://finance.yahoo.com/quote/CIBR))
+- [ETFMG Prime Cyber Security ETF](https://etfmg.com/funds/hack/)  ([$HACK](https://finance.yahoo.com/quote/HACK))
+- [Global X Cybersecurity ETF](https://www.globalxetfs.com/funds/bug/)  ([$BUG](https://finance.yahoo.com/quote/BUG))
 
 ---
 
@@ -98,6 +98,10 @@ Cybersecurity is a growing and dynamic industry as organizations worldwide inves
 ---
 
 ## **🤝 Contributing**
+
+- 🌟 **Star** this repository if you found it helpful.
+- 🐛 **Report Issues** to suggest fixes or improvements.
+- 🚀 **Submit a Pull Request** to add new stocks or insights.
 Contributions are welcome! Feel free to submit a pull request or open an issue to add new stocks, tools, or resources.
 
 ---
