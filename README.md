@@ -73,18 +73,9 @@ Cybersecurity is a growing and dynamic industry as organizations worldwide inves
 ---
 
 ## **Research and Analysis Tools**
-- **Stock Screeners**
-  - [Yahoo Finance Stock Screener](https://finance.yahoo.com/screener/new)
-  - [Finviz](https://finviz.com/)
-  - [Seeking Alpha](https://seekingalpha.com/)
-
 - **Cybersecurity-Specific Data**
   - [Statista Cybersecurity Market](https://www.statista.com/outlook/tmo/cybersecurity/worldwide)
   - [CB Insights Cybersecurity Reports](https://www.cbinsights.com/research/cybersecurity/)
-
-- **Financial APIs**
-  - [Alpha Vantage](https://www.alphavantage.co/)
-  - [Finnhub](https://finnhub.io/)
 
 ---
 
