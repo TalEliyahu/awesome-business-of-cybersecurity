@@ -22,6 +22,7 @@
 ## Cybersecurity Stock Lists
 
 ### Endpoint Protection and Threat Detection
+Focuses on securing devices such as laptops, mobile devices, and servers against threats like malware and ransomware. Common approaches include Endpoint Detection and Response (EDR) and Extended Detection and Response (XDR), which enable real-time threat monitoring and response. 
 
 | Company (IR)                                                           | Ticker                                                               | SEC Filings                                                     | Twitter                                               | Earnings Transcripts                                                      | Description                                                               |
 |------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
@@ -31,6 +32,7 @@
 ---
 
 ### Network Security
+Protects an organization’s network perimeter and internal traffic. Typical measures include firewalls, Intrusion Prevention Systems (IPS), Virtual Private Networks (VPNs), and DDoS mitigation to block unauthorized access and attacks. 
 
 | Company (IR)                                                                                | Ticker                                                               | SEC Filings                                                     | Twitter                                                | Earnings Transcripts                                                       | Description                                                           |
 |--------------------------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------|
@@ -44,6 +46,7 @@
 ---
 
 ### Identity and Access Management
+Controls user identities, authentication, and authorization. This category commonly includes solutions such as Single Sign-On (SSO), Multi-Factor Authentication (MFA), Privileged Access Management (PAM), and Privileged Identity Management (PIM) to ensure that only the right individuals have appropriate access. 
 
 | Company (IR)                                                               | Ticker                                                               | SEC Filings                                                    | Twitter                                            | Earnings Transcripts                                                   | Description                                                           |
 |---------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------|
@@ -53,6 +56,7 @@
 ---
 
 ### Cloud and Application Security
+Secures cloud services, applications, and containers. It often involves technologies like Web Application Firewalls (WAF), Zero Trust frameworks, and Secure Access Service Edge (SASE) to enforce consistent security policies and monitor for threats in cloud environments. 
 
 | Company (IR)                                                                         | Ticker                                                               | SEC Filings                                                    | Twitter                                          | Earnings Transcripts                                                   | Description                                                        |
 |--------------------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------|
@@ -64,6 +68,7 @@
 ---
 
 ### Data Protection and Governance
+Involves safeguarding data through backup, encryption, and access controls while ensuring compliance with regulations such as GDPR or HIPAA. It covers data integrity, recovery, and lifecycle management.
 
 | Company (IR)                                                                    | Ticker                                                               | SEC Filings                                                     | Twitter                                            | Earnings Transcripts                                                    | Description                                                          |
 |--------------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------|-------------------------------------------------------------------------|----------------------------------------------------------------------|
@@ -74,6 +79,7 @@
 ---
 
 ### Security Analytics and Threat Intelligence
+Uses tools like Security Information and Event Management (SIEM) and vulnerability management solutions, often supplemented with machine learning/AI, to detect, analyze, and respond to cyber threats by correlating security data from various sources. 
 
 | Company (IR)                                                       | Ticker                                                               | SEC Filings                                                     | Twitter                                                 | Earnings Transcripts                                                    | Description                                                     |
 |-------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------|
@@ -86,6 +92,8 @@
 ---
 
 ### Cybersecurity ETFs
+These are exchange-traded funds that invest in a diversified portfolio of companies operating across various cybersecurity domains, offering investors broad exposure to the cybersecurity market.
+
 
 | Company (IR)                                                                 | Ticker                                                               | Description                                               |
 |------------------------------------------------------------------------------|----------------------------------------------------------------------:|-----------------------------------------------------------|
