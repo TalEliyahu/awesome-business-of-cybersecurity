@@ -16,8 +16,6 @@ This repository provides a curated list of publicly traded cybersecurity compani
    - [Cybersecurity ETFs](#cybersecurity-etfs)
 3. [Research and Analysis Tools](#research-and-analysis-tools)
 4. [News and Insights](#news-and-insights)
-5. [Podcasts and Blogs](#podcasts-and-blogs)
-6. [Books on Cybersecurity and Investing](#books-on-cybersecurity-and-investing)
 7. [Market Trends](#market-trends)
 8. [Contributing](#contributing)
 
@@ -86,16 +84,8 @@ Cybersecurity is a growing and dynamic industry as organizations worldwide inves
 
 ---
 
-## **Podcasts and Blogs**
-- **Podcasts**
-
-- **Blogs**
-
 
 ---
-
-## **Books on Cybersecurity and Investing**
-*(To be added later.)*
 
 ---
 
