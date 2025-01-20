@@ -39,9 +39,6 @@ Cybersecurity is a growing and dynamic industry as organizations worldwide inves
 ### **Identity and Access Management**
 - [Okta](https://investor.okta.com/) ([$OKTA](https://finance.yahoo.com/quote/OKTA))
 - [CyberArk](https://www.cyberark.com/investors/) ([$CYBR](https://finance.yahoo.com/quote/CYBR))
-- [ForgeRock](https://investors.forgerock.com/) ([$FORG](https://finance.yahoo.com/quote/FORG))
-- [Ping Identity](https://investor.pingidentity.com/) ([$PING](https://finance.yahoo.com/quote/PING))
-- [OneSpan](https://investors.onespan.com/) ([$OSPN](https://finance.yahoo.com/quote/OSPN))
 
 ### **Cloud Security**
 - [Zscaler](https://ir.zscaler.com/) ([$ZS](https://finance.yahoo.com/quote/ZS))
@@ -50,23 +47,16 @@ Cybersecurity is a growing and dynamic industry as organizations worldwide inves
 - [F5, Inc.](https://investors.f5.com/) ([$FFIV](https://finance.yahoo.com/quote/FFIV))
 
 ### **Data Protection and Governance**
+- [Broadcom (Symantec)](https://investors.broadcom.com/) ([$AVGO](https://finance.yahoo.com/quote/AVGO))
 - [Varonis](https://ir.varonis.com/) ([$VRNS](https://finance.yahoo.com/quote/VRNS))
 - [Tenable Holdings](https://investors.tenable.com/) ([$TENB](https://finance.yahoo.com/quote/TENB))
 - [Commvault Systems](https://ir.commvault.com/) ([$CVLT](https://finance.yahoo.com/quote/CVLT))
-- [Symantec (Broadcom)](https://investors.broadcom.com/) ([$AVGO](https://finance.yahoo.com/quote/AVGO))
-- [McAfee Corp.](https://ir.mcafee.com/) ([$MCFE](https://finance.yahoo.com/quote/MCFE))
 
 ### **Security Analytics and Threat Intelligence**
 - [Rapid7](https://investors.rapid7.com/) ([$RPD](https://finance.yahoo.com/quote/RPD))
 - [Qualys](https://investor.qualys.com/) ([$QLYS](https://finance.yahoo.com/quote/QLYS))
 - [Elastic N.V.](https://elastic.co/investor-relations/) ([$ESTC](https://finance.yahoo.com/quote/ESTC))
 - [SecureWorks](https://investors.secureworks.com/) ([$SCWX](https://finance.yahoo.com/quote/SCWX))
-
-### **Small and Mid-Cap Cybersecurity Companies**
-- [KnowBe4](https://investors.knowbe4.com/) ([$KNBE](https://finance.yahoo.com/quote/KNBE))
-- [Darktrace](https://ir.darktrace.com/) ([$DARK](https://finance.yahoo.com/quote/DARK))
-- [IronNet Cybersecurity](https://ir.ironnet.com/) ([$IRNT](https://finance.yahoo.com/quote/IRNT))
-- [Absolute Software](https://www.absolute.com/company/investor-relations/) ([$ABST](https://finance.yahoo.com/quote/ABST))
 
 ### **Cybersecurity ETFs**
 - [First Trust NASDAQ Cybersecurity ETF](https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=CIBR) ([$CIBR](https://finance.yahoo.com/quote/CIBR))
