@@ -1,9 +1,5 @@
 # **Awesome Cybersecurity Stocks**
 
-This repository provides a curated list of publicly traded cybersecurity companies and ETFs, helping investors and enthusiasts explore the financial aspects of the cybersecurity industry.
-
----
-
 ## **🛡️ Cybersecurity Stock Lists**
 
 ### **🔍 Endpoint Protection and Threat Detection**
