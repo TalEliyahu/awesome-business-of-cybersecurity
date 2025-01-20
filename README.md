@@ -1,6 +1,21 @@
 # Awesome Cybersecurity Stocks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of publicly traded cybersecurity companies, ETFs, research tools, and resources.
+> 
+## Table of Contents
+- [Cybersecurity Stock Lists](#cybersecurity-stock-lists)
+  - [Endpoint Protection and Threat Detection](#endpoint-protection-and-threat-detection)
+  - [Network Security](#network-security)
+  - [Identity and Access Management](#identity-and-access-management)
+  - [Cloud and Application Security](#cloud-and-application-security)
+  - [Data Protection and Governance](#data-protection-and-governance)
+  - [Security Analytics and Threat Intelligence](#security-analytics-and-threat-intelligence)
+  - [Cybersecurity ETFs](#cybersecurity-etfs)
+- [Research and Analysis Tools](#research-and-analysis-tools)
+- [News and Insights](#news-and-insights)
+- [Market Trends](#market-trends)
+- [Contributing](#-contributing)
+- [License](#license)
 
 ## **🛡️ Cybersecurity Stock Lists**
 
