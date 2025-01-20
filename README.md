@@ -76,3 +76,7 @@ This repository is a work in progress. Suggestions and contributions are appreci
 ---
 
 > **Investment Disclaimer**: This list is for informational purposes only and should not be construed as financial advice. Always do your own research before making investment decisions.
+## License
+
+This work is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).  
+© 2025 Tal Eliyahu
