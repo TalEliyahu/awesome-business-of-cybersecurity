@@ -1,5 +1,3 @@
-# **Awesome Cybersecurity Stocks**
-
 ## **🛡️ Cybersecurity Stock Lists**
 
 ### **🔍 Endpoint Protection and Threat Detection**
