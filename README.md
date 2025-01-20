@@ -1,3 +1,5 @@
+# Awesome Cybersecurity Stocks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 ## **🛡️ Cybersecurity Stock Lists**
 
 ### **🔍 Endpoint Protection and Threat Detection**
