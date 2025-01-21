@@ -102,13 +102,14 @@ Uses tools like Security Information and Event Management (SIEM) and vulnerabili
 ---
 
 ### Cybersecurity ETFs
-These are exchange-traded funds that invest in a diversified portfolio of companies operating across various cybersecurity domains, offering investors broad exposure to the cybersecurity market.
 
-| Company (IR)                                                                 | Ticker                                                              | Description                                               |
-|------------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------|
-| [ETFMG Prime Cyber Security ETF](https://etfmg.com/funds/hack/)             | [$HACK](https://finance.yahoo.com/quote/HACK)                         | Aims for diversified cybersecurity exposure.             |
-| [First Trust NASDAQ Cybersecurity ETF](https://www.ftportfolios.com/)        | [$CIBR](https://finance.yahoo.com/quote/CIBR)                         | Tracks the Nasdaq CTA Cybersecurity Index.               |
-| [Global X Cybersecurity ETF](https://www.globalxetfs.com/funds/bug/)          | [$BUG](https://finance.yahoo.com/quote/BUG)                           | Invests in cybersecurity software and services companies.|
+These exchange-traded funds invest in diversified portfolios of companies operating across various cybersecurity domains, offering investors broad exposure to the cybersecurity market.
+
+| ETF Name                                          | Ticker                                                              | Description                                                                                                                              |
+|--------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| [Amplify Cybersecurity ETF](https://amplifyetfs.com/hack/) | [$HACK](https://finance.yahoo.com/quote/HACK)                       | Seeks to provide investment results that generally correspond to the price and yield of the Prime Cyber Defense Index, offering exposure to companies involved in the cybersecurity industry. |
+| [First Trust NASDAQ Cybersecurity ETF](https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=CIBR) | [$CIBR](https://finance.yahoo.com/quote/CIBR)                       | Aims to track the performance of the Nasdaq CTA Cybersecurity Index™, which includes companies engaged in the cybersecurity segment of the technology and industrials sectors. |
+| [Global X Cybersecurity ETF](https://www.globalxetfs.com/funds/bug/) | [$BUG](https://finance.yahoo.com/quote/BUG)                         | Invests in companies that stand to potentially benefit from the increased adoption of cybersecurity technology, focusing on firms involved in developing and managing security protocols to prevent intrusion and attacks. |
 
 ---
 
