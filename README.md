@@ -2,6 +2,8 @@
 
 > A curated list of publicly traded cybersecurity companies, ETFs, research tools, and resources.
 
+> **Investment Disclaimer**: This list is for informational purposes only and should not be construed as financial advice. Always do your own research before making investment decisions.
+
 ## Table of Contents
 - [Cybersecurity Stock Lists](#cybersecurity-stock-lists)
   - [Endpoint Protection and Threat Detection](#endpoint-protection-and-threat-detection)
@@ -140,8 +142,6 @@ These exchange-traded funds invest in diversified portfolios of companies operat
 This repository is a work in progress. Suggestions and contributions are appreciated to make it a comprehensive resource!
 
 ---
-
-> **Investment Disclaimer**: This list is for informational purposes only and should not be construed as financial advice. Always do your own research before making investment decisions.
 
 ## License
 
