@@ -70,11 +70,14 @@ Secures cloud services, applications, and containers. It often involves technolo
 ### Data Protection and Governance
 Involves safeguarding data through backup, encryption, and access controls while ensuring compliance with regulations such as GDPR or HIPAA. It covers data integrity, recovery, and lifecycle management.
 
+
 | Company (IR)                          | Ticker    | SEC Filings                                                     | Twitter                                | Earnings Transcripts                                             | Description                                                       | Revenue Growth (2024) |
 |---------------------------------------|-----------|-----------------------------------------------------------------|----------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------------------|-----------------------|
 | [Broadcom](https://investors.broadcom.com/) | [$AVGO](https://finance.yahoo.com/quote/AVGO) | [Link](https://www.sec.gov/edgar/browse/?CIK=0001730168)          | [@Broadcom](https://twitter.com/Broadcom) &#124; [$AVGO](https://twitter.com/search?q=%24AVGO)  | [Link](https://seekingalpha.com/symbol/AVGO/earnings/transcripts) | Incorporates enterprise security products acquired from Symantec. | 44%                    |
 | [Commvault Systems](https://ir.commvault.com/) | [$CVLT](https://finance.yahoo.com/quote/CVLT) | [Link](https://www.sec.gov/edgar/browse/?CIK=0001169561)          | [@Commvault](https://twitter.com/Commvault) &#124; [$CVLT](https://twitter.com/search?q=%24CVLT) | [Link](https://seekingalpha.com/symbol/CVLT/earnings/transcripts)  | Offers backup, recovery, and data management across cloud & on-prem. | 7%                     |
 | [Varonis](https://ir.varonis.com/)            | [$VRNS](https://finance.yahoo.com/quote/VRNS) | [Link](https://www.sec.gov/edgar/browse/?CIK=0001342478)          | [@Varonis](https://twitter.com/Varonis) &#124; [$VRNS](https://twitter.com/search?q=%24VRNS)  | [Link](https://seekingalpha.com/symbol/VRNS/earnings/transcripts)  | Delivers data governance, security, and analytics for enterprises. | 12.07%                 |
+| [Rubrik](https://www.rubrik.com/)               | [$RBRK](https://finance.yahoo.com/quote/RBRK) | [Link](https://www.sec.gov/edgar/browse/?CIK=1943896)          | [@Rubik](https://twitter.com/Rubik) &#124; [$RBRK](https://twitter.com/search?q=%24RBRK) | [Link](https://seekingalpha.com/symbol/RBRK/earnings/transcripts)  | Provides data protection and cloud-based security services. | 4.68%                    |
+
 ---
 
 ### Security Analytics and Threat Intelligence
