@@ -28,11 +28,9 @@
 
 This list categorizes companies into two main types, reflecting how cybersecurity aligns with their overall business model:
 
-- **🎯 Specialists ("Pure Play")**:  
-  Focus exclusively on cybersecurity, dedicating their entire business to developing security solutions.
+- **🎯 Specialists ("Pure Play")**: Focus exclusively on cybersecurity, dedicating their entire business to developing security solutions.
 
-- **🌐 Multiservice**:  
-  Offer cybersecurity as part of a broader range of technology solutions, such as networking, cloud services, or application delivery.
+- **🌐 Multiservice**: Offer cybersecurity as part of a broader range of technology solutions, such as networking, cloud services, or application delivery.
 
 > **Exclusion**: Tech giants like Microsoft or AWS are not included, as cybersecurity is just one part of their diverse operations.
 
