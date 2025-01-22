@@ -219,6 +219,7 @@ These exchange-traded funds invest in diversified portfolios of companies operat
 - **Continuous Attack Surface Management**: Provides ongoing visibility and management of attack surfaces.
 - **Continuous Vulnerability Management**: Ensures vulnerabilities are consistently identified and addressed.
 - **External Attack Surface Management (EASM)**: Focuses on securing external-facing assets.
+- **Continuous Monitoring of Third-Party Risks**: Evaluates vendor security practices and assigns risk scores based on continuous monitoring.
 
 ### API Security
 
