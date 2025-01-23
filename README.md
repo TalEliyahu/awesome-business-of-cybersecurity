@@ -1,6 +1,6 @@
 # Awesome Cybersecurity Stocks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of publicly traded cybersecurity companies, ETFs, research tools, and resources.
+> An in-depth breakdown of cybersecurity products, categorized for clarity and convenience.
 
 > **Investment Disclaimer**: This list is for informational purposes only and should not be construed as financial advice. Always do your own research before making investment decisions.
 
