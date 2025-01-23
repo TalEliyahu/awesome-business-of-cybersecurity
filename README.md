@@ -229,10 +229,15 @@ These exchange-traded funds invest in diversified portfolios of companies operat
   - **API Gateway Security**: Secures API traffic through centralized gateways.
   - **API Authentication and Authorization**: Enforces secure API access controls.
   - **API Compliance and Governance**: Ensures API security aligns with regulatory requirements.
- 
+
 ### Breach & Attack Simulation
 
 - **Breach & Attack Simulation (BAS)**: Simulates real-world cyberattacks to identify vulnerabilities, validate security controls, and enhance incident response readiness.
+
+### Security Consulting
+
+- **Risk Assessment Services**: Evaluates and mitigates organizational cybersecurity risks.
+- **Compliance Readiness Consulting**: Prepares organizations to meet regulatory requirements through services such as penetration testing, security architecture reviews, and policy alignment. These efforts help organizations identify gaps, implement controls, and strengthen their overall security posture.
 
 ---
 
