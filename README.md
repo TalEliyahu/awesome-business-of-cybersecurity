@@ -15,7 +15,8 @@
   - [Cloud and Application Security](#cloud-and-application-security)
   - [Data Protection and Governance](#data-protection-and-governance)
   - [Security Analytics and Threat Intelligence](#security-analytics-and-threat-intelligence)
-  - [Cybersecurity ETFs](#cybersecurity-etfs)
+- [Non-US Traded Cybersecurity Companies](#non-us-traded-cybersecurity-companies)
+- [Cybersecurity ETFs](#cybersecurity-etfs)
 - [Research and Analysis Tools](#research-and-analysis-tools)
 - [News and Insights](#news-and-insights)
 - [Market Trends](#market-trends)
@@ -155,11 +156,10 @@ These exchange-traded funds invest in diversified portfolios of companies operat
 
 ---
 
-# Awesome Cybersecurity Products
+## Cybersecurity Product Categories
 
 A comprehensive list of cybersecurity products categorized for easy reference.
 
-## Cybersecurity Product Categories
 
 ### **1. Network Security** ![NetSec](https://img.shields.io/badge/NetSec-blue.svg)
 Protects network infrastructure and communications through firewalls, IDS/IPS, segmentation, and traffic monitoring.
