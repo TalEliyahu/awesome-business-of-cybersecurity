@@ -156,88 +156,113 @@ These exchange-traded funds invest in diversified portfolios of companies operat
 
 ## Cybersecurity Product Categories
 
-### Endpoint Protection and Threat Detection
+### Network Security
+
+- **Network Traffic Analysis (NTA)**: Monitors and analyzes network traffic for suspicious activity.
+- **Web Application Firewall (WAF)**: Protects web applications from common threats.
+
+### Endpoint Security
 
 - **Endpoint Detection and Response (EDR)**: Identifies and mitigates endpoint threats in real time.
 - **Extended Detection and Response (XDR)**: Provides cross-layered detection and response.
-- **Security Information and Event Management (SIEM)**: Collects and analyzes security data from across the enterprise.
-- **Extended Information and Event Management (XIEM)**: Enhances traditional SIEM with advanced capabilities.
-- **Network Traffic Analysis (NTA)**: Monitors and analyzes network traffic for suspicious activity.
-- **User and Entity Behavior Analytics (UEBA)**: Detects threats by analyzing behavior patterns.
+- **Mobile Threat Defense (MTD)**: Detects and mitigates threats targeting mobile devices.
 
-### Security Orchestration, Automation, and Response
-
-- **Security Orchestration, Automation, and Response (SOAR)**: Centralizes security operations with automated responses.
-- **Extended Orchestration, Automation, and Response (XOAR)**: Enhances SOAR with additional functionalities for complex environments.
-
-### Identity and Access Management
-
-- **Identity and Access Management (IAM)**: Controls access to systems and data.
-- **Identity Governance and Administration (IGA)**: Manages identities and their access across the organization.
-- **Privileged Access Management (PAM)**: Secures privileged accounts and their access.
-
-### Cloud and Application Security
+### Cloud Security
 
 - **Cloud Access Security Broker (CASB)**: Protects data moving between enterprise users and cloud services.
 - **SaaS Management Platform (SMP)**: Manages and secures SaaS applications.
 
-### Email Security
+### Monitoring and Operations
 
-- **Secure Email Gateway (SEG)**: Filters emails for malicious content and spam.
-- **Anti-Phishing Solutions**: Protects users from phishing attacks.
-- **Cloud Email Security Platforms**: Offers email protection for cloud-based email services.
+- **Security Information and Event Management (SIEM)**: Collects and analyzes security data from across the enterprise.
+- **Extended Information and Event Management (XIEM)**: Enhances traditional SIEM with advanced capabilities.
 
-### Security Analytics and Threat Intelligence
+### Change Management
 
-- **Threat Intelligence Platforms (TIPs)**: Aggregate and analyze threat intelligence from various sources to provide actionable insights, prioritize threats, and integrate with security tools for response.
-- **Behavioral and Insider Threat Analytics**: Tools that monitor user and system behavior to detect anomalies and identify potential threats, including those originating within the organization.
+- **Configuration Monitoring**: Ensures systems and networks are operating with authorized settings.
+- **Patch Management Tools**: Updates software and applications to address vulnerabilities and improve performance.
 
-### Data Security
+### Orchestration and Automation
+
+- **Security Orchestration, Automation, and Response (SOAR)**: Centralizes security operations with automated responses.
+- **Extended Orchestration, Automation, and Response (XOAR)**: Enhances SOAR with additional functionalities for complex environments.
+
+### Threat Detection and Analysis
+
+- **Threat Intelligence Platforms (TIPs)**: Aggregates and analyzes threat intelligence for actionable insights.
+- **User and Entity Behavior Analytics (UEBA)**: Detects threats by analyzing behavior patterns.
+
+### Incident Management and Response
+
+- **Breach & Attack Simulation (BAS)**: Simulates cyberattacks to identify vulnerabilities and validate controls.
+- **Incident Response Platforms**: Coordinates response activities during a security incident.
+
+### Access Management
+
+- **Privileged Access Management (PAM)**: Secures privileged accounts and their access.
+- **Multi-Factor Authentication (MFA)**: Strengthens access control with additional verification steps.
+
+### Identity Management
+
+- **Identity and Access Management (IAM)**: Controls access to systems and data.
+- **Identity Governance and Administration (IGA)**: Manages identities and their access across the organization.
+
+### Data Protection
 
 - **Data Loss Prevention (DLP)**: Prevents unauthorized data exfiltration.
-  - **Endpoint DLP**: Monitors endpoints for data leakage (e.g., web uploads, copy-pasting).
+  - **Endpoint DLP**: Monitors endpoints for data leakage.
   - **Network DLP**: Inspects data in motion over the network.
-  - **Storage DLP**: Secures stored data, including file shares and databases.
+  - **Storage DLP**: Secures stored data.
   - **Email DLP**: Protects data within email message bodies or attachments.
+
+### Data Center Security
+
+- **Physical Security Controls**: Protects data center access from unauthorized personnel.
+- **Data Center Firewalls**: Monitors and secures traffic entering and exiting the data center.
+
+### Cognitive Security
+
+- **Behavioral and Insider Threat Analytics**: Identifies threats by analyzing user and system behavior.
+- **AI-Driven Threat Detection**: Uses artificial intelligence for advanced threat recognition.
+
+### Information Protection
+
+- **Encryption Tools**: Safeguards data with encryption during storage and transmission.
+- **Digital Rights Management (DRM)**: Restricts unauthorized access and usage of sensitive documents.
 
 ### Application Security
 
-- **Web Application Firewall (WAF)**: Protects web applications from common threats.
-- **Dynamic Application Security Testing (DAST)**: Tests running applications for vulnerabilities by simulating attacks.
-- **Static Application Security Testing (SAST)**: Analyzes source code for security vulnerabilities.
+- **Dynamic Application Security Testing (DAST)**: Tests running applications for vulnerabilities.
+- **Static Application Security Testing (SAST)**: Analyzes source code for vulnerabilities.
 - **Interactive Application Security Testing (IAST)**: Combines DAST and SAST for real-time application testing.
-- **Runtime Application Self-Protection (RASP)**: Provides in-app protection by detecting and mitigating attacks in real time while the application is running.
-- **Software Composition Analysis (SCA)**: Identifies vulnerabilities in open-source components and third-party software libraries during development.
+- **Runtime Application Self-Protection (RASP)**: Provides in-app protection by detecting and mitigating attacks in real time.
+- **Software Composition Analysis (SCA)**: Identifies vulnerabilities in open-source components and third-party libraries.
 
-### Mobile Security
+### Vulnerability Management and Assessment
 
-- **Mobile Threat Defense (MTD)**: Detects and mitigates threats targeting mobile devices.
-
-### Attack Surface and Vulnerability Management
-
+- **Continuous Vulnerability Management**: Identifies and remediates vulnerabilities on an ongoing basis.
 - **Cyber Asset Attack Surface Management (CAASM)**: Manages and secures cyber assets to reduce attack surface.
-- **Continuous Attack Surface Management**: Provides ongoing visibility and management of attack surfaces.
-- **Continuous Vulnerability Management**: Ensures vulnerabilities are consistently identified and addressed.
-- **External Attack Surface Management (EASM)**: Focuses on securing external-facing assets.
-- **Continuous Monitoring of Third-Party Risks**: Evaluates vendor security practices and assigns risk scores based on continuous monitoring.
 
-### API Security
+### Email Security
 
-- **API Security Testing**: Tools and features designed to ensure secure API operations:
-  - **API Vulnerability Scanning**: Integrated functionality in platforms to identify and remediate vulnerabilities.
-- **API Security Management**:
-  - **API Gateway Security**: Secures API traffic through centralized gateways.
-  - **API Authentication and Authorization**: Enforces secure API access controls.
-  - **API Compliance and Governance**: Ensures API security aligns with regulatory requirements.
+- **Secure Email Gateway (SEG)**: Filters malicious content and spam.
+- **Anti-Phishing Solutions**: Protects users from phishing attacks.
+- **Cloud Email Security Platforms**: Offers email protection for cloud-based services.
 
-### Breach & Attack Simulation
+### Security Training
 
-- **Breach & Attack Simulation (BAS)**: Simulates real-world cyberattacks to identify vulnerabilities, validate security controls, and enhance incident response readiness.
+- **Phishing Simulations**: Educates employees on recognizing phishing attempts.
+- **Security Awareness Programs**: Enhances understanding of cyber hygiene across the organization.
 
 ### Security Consulting
 
 - **Risk Assessment Services**: Evaluates and mitigates organizational cybersecurity risks.
-- **Compliance Readiness Consulting**: Prepares organizations to meet regulatory requirements through services such as penetration testing, security architecture reviews, and policy alignment. These efforts help organizations identify gaps, implement controls, and strengthen their overall security posture.
+- **Compliance Readiness Consulting**: Prepares organizations for regulatory requirements and provides services like penetration testing and security architecture reviews.
+
+### Application Control
+
+- **Whitelist/Blacklist Management**: Ensures only approved applications run within the enterprise environment.
+- **Application Sandboxing**: Isolates potentially malicious applications from critical systems.
 
 ---
 
