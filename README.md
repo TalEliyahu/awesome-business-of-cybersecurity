@@ -1,6 +1,6 @@
 # Awesome Cybersecurity Stocks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> An in-depth breakdown of cybersecurity products, categorized for clarity and convenience.
+> Publicly traded cybersecurity companies, categorized by their main product domains.
 
 > **Investment Disclaimer**: This list is for informational purposes only and should not be construed as financial advice. Always do your own research before making investment decisions.
 
