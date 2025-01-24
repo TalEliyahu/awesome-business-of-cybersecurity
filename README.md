@@ -65,7 +65,7 @@ Controls user identities, authentication, and authorization. This category commo
 
 | Company | Ticker | Twitter | Description | Domains | Resources | Growth |
 |---------|--------|---------|-------------|---------|-----------|--------|
-| [CyberArk](https://www.cyberark.com/investors/) | [$CYBR](https://finance.yahoo.com/quote/CYBR) | [@CyberArk](https://twitter.com/CyberArk) &#124; [$CYBR](https://twitter.com/search?q=%24CYBR) | Privileged access management. [More](https://www.cyberark.com/blog/) 🎯 | ![IAM](https://img.shields.io/badge/IAM-teal.svg) | - [SEC Filing](https://www.sec.gov/edgar/browse/?CIK=0001509821)<br>- [Earning Transcripts](https://seekingalpha.com/symbol/CYBR/earnings/transcripts) | 30.3% |
+| [CyberArk](https://www.cyberark.com/investors/) | [$CYBR](https://finance.yahoo.com/quote/CYBR) | [@CyberArk](https://twitter.com/CyberArk) &#124; [$CYBR](https://twitter.com/search?q=%24CYBR) | Privileged access management. [More](https://www.cyberark.com/blog/) 🎯 | ![IAM](https://img.shields.io/badge/IAM-teal.svg) | - [SEC Filing](https://www.sec.gov/edgar/browse/?CIK=1598110)<br>- [Earning Transcripts](https://seekingalpha.com/symbol/CYBR/earnings/transcripts) | 30.3% |
 | [Okta](https://investor.okta.com/) | [$OKTA](https://finance.yahoo.com/quote/OKTA) | [@Okta](https://twitter.com/Okta) &#124; [$OKTA](https://twitter.com/search?q=%24OKTA) | Identity and SSO. [More](https://www.okta.com/blog/) 🎯 | ![IAM](https://img.shields.io/badge/IAM-teal.svg) | - [SEC Filing](https://www.sec.gov/edgar/browse/?CIK=0001660134)<br>- [Earning Transcripts](https://seekingalpha.com/symbol/OKTA/earnings/transcripts) | 21.8% |
 
 ---
