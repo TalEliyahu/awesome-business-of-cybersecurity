@@ -38,7 +38,8 @@ This list categorizes companies into two main types, reflecting how cybersecurit
 
 ## Cybersecurity Stock Lists
 
-### Endpoint Protection and Threat Detection
+### Endpoint Protection and Threat Detection <a name="endpoint-protection-and-threat-detection"></a>
+
 Secures devices such as laptops, mobile devices, and servers from threats like malware and ransomware. Common solutions include Endpoint Detection and Response (EDR) and Extended Detection and Response (XDR) for real-time monitoring and response.
 
 | Company                                               | Ticker                                                   | Twitter                                                           | Description                                                     | Domains                                                                                                                                                                                                                                                 | Resources                                                                                                                                                                                             | Growth |
