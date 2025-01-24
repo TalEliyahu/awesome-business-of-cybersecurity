@@ -48,7 +48,6 @@ Secures devices such as laptops, mobile devices, and servers from threats like m
 | [SentinelOne](https://investors.sentinelone.com/)     | [$S](https://finance.yahoo.com/quote/S)                 | [@SentinelOne](https://twitter.com/SentinelOne) &#124; [$S](https://twitter.com/search?q=%24S)       | AI-driven endpoint protection. [More](https://www.sentinelone.com/blog/) 🎯     | [![Endpoint](https://img.shields.io/badge/Endpoint-green.svg)](#endpoint-security) [![ThreatIntel](https://img.shields.io/badge/ThreatIntel-navy.svg)](#threat-intelligence) [![Automation](https://img.shields.io/badge/Automation-orange.svg)](#orchestration-and-automation)            | - [SEC Filing](https://www.sec.gov/edgar/browse/?CIK=0001768123)<br>- [Earning Transcripts](https://seekingalpha.com/symbol/S/earnings/transcripts)                                                   |  46.2% |
 
 ---
-
 ### Network Security <a name="network-security"></a>
 Protects an organization’s network perimeter and internal traffic. Typical measures include firewalls, Intrusion Prevention Systems (IPS), Virtual Private Networks (VPNs), and DDoS mitigation to block unauthorized access and attacks.
 
