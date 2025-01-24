@@ -219,9 +219,6 @@ These exchange-traded funds invest in diversified portfolios of companies operat
 
 - **Data Loss Prevention (DLP)**: Prevents data leakage.  
   - Endpoint DLP, Network DLP, Storage DLP, Email DLP, etc.
-- **Encryption**: At rest/in transit.  
-  - Data/File/Disk Encryption, VPN, TLS/SSL, Key Management, etc.
-- **Data Classification**: Labels data sensitivity (manual/automated).
 
 ---
 
