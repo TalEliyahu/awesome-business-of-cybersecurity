@@ -125,15 +125,6 @@ Uses solutions like Security Information and Event Management (SIEM) and vulnera
 ### Cybersecurity ETFs <a name="cybersecurity-etfs"></a>
 These exchange-traded funds invest in diversified portfolios of companies operating across various cybersecurity domains, offering investors broad exposure to the cybersecurity market.
 
-| ETF Name                             | Ticker | Description                                                                                                                                                               | Total Return for 2024 |
-|--------------------------------------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
-| Amplify Cybersecurity ETF            | $HACK  | Tracks the Prime Cyber Defense Index, focusing on companies directly involved in the cybersecurity industry.                                                             | 23.3%                 |
-| First Trust NASDAQ Cybersecurity ETF | $CIBR  | Aims to match the Nasdaq CTA Cybersecurity Index™, targeting cybersecurity-focused tech and industrials firms.                                                            | 18.2%                 |
-| Global X Cybersecurity ETF           | $BUG   | Invests in companies benefiting from cybersecurity tech adoption, specifically those developing/managing security protocols to prevent intrusions/attacks.              | 9.6%                  |
-
-### Cybersecurity ETFs <a name="cybersecurity-etfs"></a>
-These exchange-traded funds invest in diversified portfolios of companies operating across various cybersecurity domains, offering investors broad exposure to the cybersecurity market.
-
 | ETF Name                             | Ticker  | Description                                                                                                                                                               | Total Return for 2024 |
 |--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
 | [Amplify Cybersecurity ETF](https://www.amplifyetfs.com/hack)            | [$HACK](https://finance.yahoo.com/quote/HACK)  | Tracks the Prime Cyber Defense Index, focusing on companies directly involved in the cybersecurity industry.                                                             | 23.3%                 |
