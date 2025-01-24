@@ -1,6 +1,6 @@
 # Awesome Cybersecurity Stocks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Publicly traded cybersecurity companies, categorized by primary product domains.
+> Publicly traded cybersecurity companies, categorized by primary solutions domains.
 
 ---
 
