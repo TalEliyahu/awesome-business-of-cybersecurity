@@ -174,7 +174,6 @@ Protects network infrastructure and communications through firewalls, IDS/IPS, s
 - **Intrusion Detection Systems/Intrusion Prevention Systems (IDS/IPS)**: Solutions that detect and prevent unauthorized access and threats (e.g., **Snort**, **Suricata**).
 
 ### **2. Endpoint Security** ![Endpoint](https://img.shields.io/badge/Endpoint-green.svg)
-### **2. Endpoint Security** <a name="endpoint-security"></a> ![Endpoint](https://img.shields.io/badge/Endpoint-green.svg)
 
 Secures end-user devices through endpoint protection platforms (EPP), endpoint detection and response (EDR), software control, and device management.
 - **Endpoint Detection and Response (EDR)**: Solutions that identify and mitigate endpoint threats in real time (e.g., **CrowdStrike Falcon**, **VMware Carbon Black**).
@@ -312,6 +311,185 @@ Manages security governance, risk assessment, and regulatory compliance.
 Assesses and monitors security risks from vendors and partners.
 - **Vendor Risk Assessment**: Solutions that evaluate the security posture and risks associated with third-party vendors (e.g., **BitSight**, **RiskRecon**).
 - **Supply Chain Security**: Solutions that monitor and secure risks arising from external dependencies and supply chains (e.g., **CyberGRX**, **Venafi Supply Chain Security**).
+
+---
+
+## Cybersecurity Solutions Categories
+
+### **1. Network Security** <a name="network-security"></a> ![NetSec](https://img.shields.io/badge/NetSec-blue.svg)
+Protects network infrastructure and communications through firewalls, IDS/IPS, segmentation, and traffic monitoring.
+
+- **Network Traffic Analysis (NTA)**: Solutions that monitor and analyze network traffic for suspicious activity (e.g., **Cisco Stealthwatch**, **Darktrace**).
+- **Firewalls**: Solutions that secure network perimeters and control traffic flow (e.g., **Palo Alto Networks Next-Generation Firewall**, **Cisco ASA**).
+- **Intrusion Detection Systems/Intrusion Prevention Systems (IDS/IPS)**: Solutions that detect and prevent unauthorized access and threats (e.g., **Snort**, **Suricata**).
+
+---
+
+### **2. Endpoint Security** <a name="endpoint-security"></a> ![Endpoint](https://img.shields.io/badge/Endpoint-green.svg)
+Secures end-user devices through endpoint protection platforms (EPP), endpoint detection and response (EDR), software control, and device management.
+
+- **Endpoint Detection and Response (EDR)**: Identifies and mitigates endpoint threats in real time (e.g., **CrowdStrike Falcon**, **VMware Carbon Black**).
+- **Extended Detection and Response (XDR)**: Provides cross-layered detection/response across multiple domains (e.g., **Microsoft Defender XDR**, **Palo Alto Networks Cortex XDR**).
+- **Mobile Threat Defense (MTD)**: Detects and mitigates threats targeting mobile devices (e.g., **Lookout**, **Zimperium**).
+- **Endpoint Protection Platforms (EPP)**: Comprehensive security solutions for end-user devices (e.g., **Symantec Endpoint Protection**, **McAfee Endpoint Security**).
+- **Device Management**: Ensures endpoint compliance/security through centralized management (e.g., **Microsoft Intune**, **VMware Workspace ONE**).
+- **Mobile Device Management (MDM)**: Manages and secures mobile devices, especially in BYOD and corporate fleets (e.g., **Jamf Pro**, **Ivanti**).
+
+**Subcategories**  
+- **BYOD Management**: Secures both personal/corporate data on employee-owned devices (e.g., **Cisco Meraki**, **VMware Workspace ONE**).  
+- **Corporate Mobile Fleet Management**: Specialized MDM solutions for managing large mobile device fleets (e.g., **SOTI MobiControl**, **ManageEngine Mobile Device Manager Plus**).
+
+---
+
+### **3. Monitoring and Operations** <a name="monitoring-and-operations"></a> ![Monitoring](https://img.shields.io/badge/Monitoring-yellow.svg)
+Provides continuous monitoring of security events, system health, and operational metrics.
+
+- **Security Information and Event Management (SIEM)**: Collects and analyzes security data (e.g., **Splunk**, **IBM QRadar**).
+- **Extended Information and Event Management (XIEM)**: Enhances SIEM with advanced monitoring and analytics (e.g., **LogRhythm XIEM**, **Exabeam**).
+- **Behavioral and Insider Threat Analytics**: Identifies anomalous user or system behaviors (e.g., **Varonis**, **Securonix**).
+
+---
+
+### **4. Change Management** <a name="change-management"></a> ![ChangeMgmt](https://img.shields.io/badge/ChangeMgmt-lightgrey.svg)
+Controls and tracks modifications to systems, applications, and configurations.
+
+- **Configuration Monitoring**: Ensures systems/networks adhere to authorized configurations (e.g., **Chef InSpec**, **Puppet Enterprise**).
+- **Patch Management**: Automates deployment of patches to address vulnerabilities (e.g., **ManageEngine Patch Manager Plus**, **Ivanti Patch Management**).
+
+---
+
+### **5. Orchestration and Automation** <a name="orchestration-and-automation"></a> ![Automation](https://img.shields.io/badge/Automation-orange.svg)
+Automates security workflows, incident response, and routine security tasks.
+
+- **Security Orchestration, Automation, and Response (SOAR)**: Centralizes security operations and automates incident response (e.g., **Splunk Phantom**, **Palo Alto Networks Cortex XSOAR**).
+- **Extended Orchestration, Automation, and Response (XOAR)**: Enhances SOAR for more complex environments (e.g., **IBM Resilient**, **Google Chronicle SOAR**).
+
+---
+
+### **6. Threat Intelligence** <a name="threat-intelligence"></a> ![ThreatIntel](https://img.shields.io/badge/ThreatIntel-navy.svg)
+Delivers actionable insights about threats, vulnerabilities, and attack patterns.
+
+- **Threat Intelligence Platforms (TIPs)**: Aggregate/analyze intelligence on threats (e.g., **Recorded Future**, **ThreatConnect**).
+- **AI-Driven Threat Detection**: Uses AI to identify and prioritize potential threats (e.g., **Darktrace**, **Vectra AI**).
+- **User and Entity Behavior Analytics (UEBA)**: Detects threats via user/entity behavior patterns (e.g., **Securonix UEBA**, **Exabeam**).
+
+---
+
+### **7. Data Center Security** <a name="data-center-security"></a> ![DataCenter](https://img.shields.io/badge/DataCenter-darkred.svg)
+Protects physical and virtual data center infrastructure, including servers and networking.
+
+- **Physical Security Controls**: Prevent unauthorized access to data center facilities (e.g., **HID Global**, **Bosch Access Control Systems**).
+- **Data Center Firewalls**: Monitor/protect network traffic in data centers (e.g., **Fortinet FortiGate Data Center Firewall**, **Juniper SRX**).
+
+---
+
+### **8. Data Security and Protection** <a name="data-security-and-protection"></a> ![DataSec](https://img.shields.io/badge/DataSec-gold.svg)
+Secures data through encryption, DLP, classification, and access controls.
+
+- **Data Loss Prevention (DLP)**: Prevents unauthorized data leakage/exfiltration.  
+  - **Endpoint DLP**: Monitors endpoint data for breaches (e.g., **Symantec DLP Endpoint**, **Forcepoint Endpoint DLP**).  
+  - **Network DLP**: Inspects data in transit for sensitive info (e.g., **McAfee Total Protection for DLP**, **Trend Micro DLP**).  
+  - **Storage DLP**: Secures data on servers/storage devices (e.g., **Digital Guardian**, **Varonis**).  
+  - **Email DLP**: Protects sensitive data in email (e.g., **Proofpoint**, **Cisco Email Security DLP**).
+
+- **Encryption**: Safeguards data via encryption at rest and in transit.  
+  - **Data Encryption**: File, disk, database encryption (e.g., **BitLocker**, **FileVault**, **Oracle TDE**).  
+  - **Transport Encryption**: TLS/SSL for data in motion, VPN encryption (e.g., **OpenVPN**, **Cisco AnyConnect**).  
+  - **Application-Level Encryption**: End-to-end encryption, field-level encryption (e.g., **Signal**, **Protegrity**).  
+  - **Advanced Techniques**: Homomorphic or quantum-resistant encryption.  
+  - **Key Management**: Key generation, storage, rotation, distribution (e.g., **HashiCorp Vault**, **AWS KMS**).
+
+- **Data Classification**: Labels data by sensitivity (automated or manual).
+
+---
+
+### **9. Identity and Access Management** <a name="identity-and-access-management"></a> ![IAM](https://img.shields.io/badge/IAM-teal.svg)
+Manages user identities, authentication, and access rights across systems.
+
+- **Privileged Access Management (PAM)**: Secures/manages privileged accounts (e.g., **CyberArk**, **BeyondTrust**).
+- **Multi-Factor Authentication (MFA)**: Requires multiple identity verifications (e.g., **Duo Security**, **Okta MFA**).
+- **Identity Governance and Administration (IGA)**: Manages user identities/permissions (e.g., **SailPoint**, **IBM Security IGA**).
+- **Identity and Access Management (IAM)**: Controls user access to systems/data (e.g., **Okta**, **Azure AD**).
+- **Secure Mobile Access**: Uses VPN/MFA to secure mobile access (e.g., **Palo Alto Prisma Access**, **Zscaler Private Access**).
+
+---
+
+### **10. Application Security** <a name="application-security"></a> ![AppSec](https://img.shields.io/badge/AppSec-cyan.svg)
+Protects web applications through testing, WAF, and secure development practices.
+
+- **Dynamic Application Security Testing (DAST)**: Tests running apps for vulnerabilities (e.g., **Burp Suite**, **OWASP ZAP**).
+- **Static Application Security Testing (SAST)**: Analyzes source code (e.g., **SonarQube**, **Checkmarx**).
+- **Interactive Application Security Testing (IAST)**: Combines DAST + SAST (e.g., **Contrast Security**, **Synopsys Seeker**).
+- **Runtime Application Self-Protection (RASP)**: In-app protection at runtime (e.g., **Imperva RASP**, **Signal Sciences RASP**).
+- **Software Composition Analysis (SCA)**: Tracks open-source vulnerabilities (e.g., **Snyk**, **WhiteSource**).
+- **Web Application Firewall (WAF)**: Protects apps from common attacks (e.g., **Akamai Kona**, **Imperva WAF**).
+- **Mobile App Security**: Development-time and runtime protection for mobile apps.
+
+---
+
+### **11. Email Security** <a name="email-security"></a> ![Email](https://img.shields.io/badge/Email-violet.svg)
+Defends against email-based threats (phishing, spam, malware).
+
+- **Secure Email Gateway (SEG)**: Filters out malicious content (e.g., **Proofpoint**, **Mimecast**).
+- **Anti-Phishing**: Protects users from phishing attempts (e.g., **KnowBe4**, **Cofense**).
+- **Cloud Email Security**: Secures hosted email platforms (e.g., **Microsoft 365 ATP**, **Google Workspace Security**).
+
+---
+
+### **12. Security Awareness & Training** <a name="security-awareness-training"></a> ![Training](https://img.shields.io/badge/Training-purple.svg)
+Provides security awareness and technical training for employees.
+
+- **Phishing Simulation**: Trains staff to spot/respond to phishing (e.g., **KnowBe4**, **Cofense PhishMe**).
+- **Security Awareness**: Ongoing education on best practices, policies (e.g., **SANS Security Awareness**).
+
+---
+
+### **13. Consulting** <a name="consulting"></a> ![Consulting](https://img.shields.io/badge/Consulting-brown.svg)
+Expert security advisory, assessments, and implementations.
+
+- **Risk Assessment Services**: Evaluate/mitigate cybersecurity risks (e.g., **Qualys Risk Assessments**, **Rapid7 Risk Management**).
+- **Compliance Readiness Consulting**: Prepare for regulatory requirements (e.g., **Deloitte**, **PwC**).
+- **Penetration Testing**: Simulated attacks to identify vulnerabilities (e.g., **NCC Group**, **Trustwave**).
+
+---
+
+### **14. Vulnerability Management** <a name="vulnerability-management"></a> ![VulnMgmt](https://img.shields.io/badge/VulnMgmt-olivegreen.svg)
+Identifies, assesses, and remediates security vulnerabilities.
+
+- **Continuous Vulnerability Management**: Regularly scans/fixes vulnerabilities (e.g., **Qualys VM**, **Nessus**).
+- **Cyber Asset Attack Surface Management (CAASM)**: Manages and reduces the overall attack surface (e.g., **CyCognito**, **RiskIQ**).
+
+---
+
+### **15. Incident Detection and Response** <a name="incident-detection-and-response"></a> ![IDR](https://img.shields.io/badge/IDR-crimson.svg)
+Detects and responds to security incidents with monitoring and coordinated actions.
+
+- **Breach & Attack Simulation (BAS)**: Simulates attacks to find weaknesses (e.g., **SafeBreach**, **AttackIQ**).
+- **Incident Response Platforms**: Coordinate/manage incident response (e.g., **IBM Resilient**, **ServiceNow Security IR**).
+
+---
+
+### **16. Industrial Control Systems** <a name="industrial-control-systems"></a> ![ICS](https://img.shields.io/badge/ICS-indigo.svg)
+Secures operational technology and industrial automation systems.
+
+- **ICS Security Platforms**: Protect OT systems from cyber threats (e.g., **Nozomi Networks**, **Claroty**).
+- **SCADA Security**: Secures critical infrastructure and control systems (e.g., **Siemens SCADA Security**, **Honeywell Industrial Cybersecurity**).
+
+---
+
+### **17. Governance, Risk, and Compliance** <a name="governance-risk-and-compliance"></a> ![GRC](https://img.shields.io/badge/GRC-silver.svg)
+Manages security governance, risk assessment, and regulatory compliance.
+
+- **Compliance Management**: Tracks adherence to regulations and standards (e.g., **RSA Archer GRC**, **LogicManager**).
+- **Risk Management Platforms**: Identifies and mitigates organizational risks (e.g., **ServiceNow GRC**, **MetricStream**).
+
+---
+
+### **18. Third-Party Risk Management** <a name="third-party-risk-management"></a> ![TPRM](https://img.shields.io/badge/TPRM-tan.svg)
+Assesses and monitors security risks from vendors and partners.
+
+- **Vendor Risk Assessment**: Evaluates the security posture of third-party vendors (e.g., **BitSight**, **RiskRecon**).
+- **Supply Chain Security**: Monitors external dependencies and supply chains (e.g., **CyberGRX**, **Venafi**).
 
 ---
 
