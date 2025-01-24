@@ -31,8 +31,7 @@ This list categorizes companies into two main types, reflecting how cybersecurit
 - **🎯 Specialists ("Pure Play")**: Focus exclusively on cybersecurity, dedicating their entire business to developing security solutions.  
 - **🌐 Multiservice**: Offer cybersecurity as part of a broader range of technology solutions, such as networking, cloud services, or application delivery.
 
-> **Exclusion**: Tech giants like Microsoft or AWS are not included, as cybersecurity is just one part of their diverse operations.
-
+> **Exclusion**: Tech giants like Microsoft or AWS are not included, as cybersecurity is just one part of their diverse operations. Additionally, this list does not include micro-cap or low-cap stocks to ensure focus on established companies and ETFs with significant market presence.
 ---
 
 ## Cybersecurity Stock Lists
