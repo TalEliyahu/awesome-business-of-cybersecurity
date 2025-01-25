@@ -34,7 +34,6 @@ This list categorizes companies into two main types, reflecting how cybersecurit
 > **Exclusion**: Tech giants like Microsoft or AWS are not included, as cybersecurity is just one part of their diverse operations. Additionally, this list does not include micro-cap or low-cap stocks to ensure focus on established companies and ETFs with significant market presence.
 ---
 
-## Cybersecurity Stock Lists **([*TradingView* 📈](https://www.tradingview.com/watchlists/55536943/))**
 ## Cybersecurity Stock Lists **([*TradingView* 📈](https://www.tradingview.com/watchlists/55536943/))** <a name="cybersecurity-stock-lists"></a>
 
 ### Endpoint Protection and Threat Detection <a name="endpoint-protection-and-threat-detection"></a>
