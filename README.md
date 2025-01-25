@@ -304,6 +304,7 @@ Explore resources that offer insights into the business, strategy, and trends sh
 - **Risk Assessment Services:** Evaluate and mitigate cybersecurity risks (e.g., **Qualys Risk**, **Rapid7 Risk**).
 - **Compliance Readiness:** Prepare organizations for regulatory requirements (e.g., **Deloitte**, **PwC**).
 - **Penetration Testing:** Conducts pen-testing to identify vulnerabilities and assess system resilience (e.g., **NCC Group**, **Trustwave**).
+- **AI-Driven Compliance Management:** Leverages AI for automating compliance with regulatory standards (e.g., **Styrk.ai**, **SurePath.ai**).
 
 ---
 
@@ -339,6 +340,7 @@ Explore resources that offer insights into the business, strategy, and trends sh
 
 - **Vendor Risk Assessment:** Evaluates third-party security posture (e.g., **BitSight**, **RiskRecon**).
 - **Supply Chain Security:** Monitors dependencies/supply chain (e.g., **CyberGRX**, **Venafi**).
+- **AI-Driven Third-Party Risk Insights:** Offers automated insights into vendor vulnerabilities (e.g., **Prevalent AI**, **Panorays AI**).
 
 ---
 
