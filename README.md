@@ -35,6 +35,7 @@ This list categorizes companies into two main types, reflecting how cybersecurit
 ---
 
 ## Cybersecurity Stock Lists **([*TradingView* 📈](https://www.tradingview.com/watchlists/55536943/))**
+## Cybersecurity Stock Lists **([*TradingView* 📈](https://www.tradingview.com/watchlists/55536943/))** <a name="cybersecurity-stock-lists"></a>
 
 ### Endpoint Protection and Threat Detection <a name="endpoint-protection-and-threat-detection"></a>
 Secures devices such as laptops, mobile devices, and servers from threats like malware and ransomware. Common solutions include Endpoint Detection and Response (EDR) and Extended Detection and Response (XDR) for real-time monitoring and response.
