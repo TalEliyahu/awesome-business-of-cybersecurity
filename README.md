@@ -17,7 +17,7 @@
 - [Cybersecurity ETFs](#cybersecurity-etfs)
 - [Business of Cybersecurity](#business-of-cybersecurity)
   - [Blogs and Newsletters](#blogs-and-newsletters)
-  - [Reports and Podcasts](#reports-and-podcasts)
+  - [Podcasts](#podcasts)
   - [Market Insights and Research](#market-insights-and-research)
 - [Cybersecurity Solutions Categories](#cybersecurity-solutions-categories)
 - [Contributing](#contributing)
@@ -153,7 +153,7 @@ Explore resources that offer insights into the business, strategy, and trends sh
   A blog and newsletter by Mike Privette with insights on security trends, a weekly newsletter about cybersecurity investments, and product trend reports.
 
 
-### Reports and Podcasts
+### Podcasts
 
 - **[The Cyber Brain](https://cyberbrain.cybersynapse.io/)**  
   Weekly conversations with tech buyers on motivations, challenges, and strategies for cybersecurity marketers and founders.
