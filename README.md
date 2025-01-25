@@ -22,6 +22,28 @@
 - [Contributing](#contributing)
 - [License](#license)
 
+## Table of Contents
+- [Specialists ("Pure Play") vs. Multiservice Cybersecurity](#specialists-pure-play-vs-multiservice-cybersecurity)
+- [Cybersecurity Stock Lists](#cybersecurity-stock-lists)
+  - [Endpoint Protection and Threat Detection](#endpoint-protection-and-threat-detection)
+  - [Network Security](#network-security-stock)
+  - [Identity and Access Management](#identity-and-access-management-stock)
+  - [Cloud and Application Security](#cloud-and-application-security)
+  - [Data Protection and Governance](#data-protection-and-governance)
+  - [Security Analytics and Threat Intelligence](#security-analytics-and-threat-intelligence)
+- [Non-US Traded Cybersecurity Companies](#non-us-traded-cybersecurity-companies)
+- [Cybersecurity ETFs](#cybersecurity-etfs)
+- [Business of Cybersecurity](#business-of-cybersecurity)
+  - [Blogs and Newsletters](#blogs-and-newsletters)
+  - [Reports and Newsletters](#reports-and-newsletters)
+  - [Podcasts](#podcasts)
+  - [Research and Analysis](#research-and-analysis)
+  - [News and Insights](#news-and-insights)
+  - [Market Trends](#market-trends)
+- [Cybersecurity Solutions Categories](#cybersecurity-solutions-categories)
+- [Contributing](#contributing)
+- [License](#license)
+
 ---
 
 ## Specialists ("Pure Play") vs. Multiservice Cybersecurity
@@ -132,25 +154,57 @@ These exchange-traded funds invest in diversified portfolios of companies operat
 
 ---
 
-## Research and Analysis
 
-- Awesome Cybersecurity Stocks Watchlist - https://www.tradingview.com/watchlists/55536943/ 
-- Cybersecurity-Specific Data
+## Business of Cybersecurity
+
+Explore resources that offer insights into the business, strategy, and trends shaping the cybersecurity industry. These blogs, newsletters, reports, and podcasts provide valuable perspectives for professionals, founders, and investors looking to deepen their understanding of this dynamic field.
+
+### Blogs and Newsletters
+
+- **[Venture in Security](https://ventureinsecurity.substack.com/)**  
+  Focuses on the business of cybersecurity, exploring the ecosystem, players, angel investing, venture capital, go-to-market strategies, and product-led growth.
+
+- **[Strategy of Security](https://strategyofsecurity.substack.com/)**  
+  Analyzes the business and strategy of cybersecurity, covering trends, companies, products, and case studies relevant to cybersecurity leaders and operators.
+
+- **[Anton on Security](https://chuvakin.blogspot.com/)**  
+  Dr. Anton Chuvakin shares analysis on market sub-segments, with a focus on log management and emerging cybersecurity challenges.
+
+- **[Return on Security](https://www.returnonsecurity.com/)**  
+  By Mike Privette, this resource includes original content on security trends, a weekly newsletter about cybersecurity investments, and free product trend reports.
+
+### Reports and Newsletters
+
+- **[Momentum Cyber](https://momentumcyber.com/news/)**  
+  Industry reports, news, and insights on mergers, acquisitions, and market movements in cybersecurity.
+
+### Podcasts
+
+- **[Audience 1st](https://cyberbrain.cybersynapse.io/)**  
+  Weekly conversations with tech buyers on motivations, challenges, and strategies for cybersecurity marketers and founders.
+
+- **[Hacker Valley](https://hackervalley.com/podcast)**  
+  Features discussions with cybersecurity marketers about effective go-to-market strategies and lessons from successes and failures.
+
+### Research and Analysis
+
+- **[Awesome Cybersecurity Stocks Watchlist](https://www.tradingview.com/watchlists/55536943/)**  
+  A curated list of publicly traded cybersecurity companies.
+
+- **Cybersecurity-Specific Data**  
   - [Statista Cybersecurity Market](https://www.statista.com/outlook/tmo/cybersecurity/worldwide)  
   - [CB Insights Cybersecurity Reports](https://www.cbinsights.com/research/cybersecurity/)
 
----
+### News and Insights
 
-## News and Insights
+- **[Cybersecurity Ventures](https://cybersecurityventures.com/)**  
+  Research and reports on cybercrime and market trends.
 
-- [Cybersecurity Ventures](https://cybersecurityventures.com/) – Research and reports on cybercrime and market trends.
+### Market Trends
 
----
-
-## Market Trends
-
-- [Global Cybersecurity Spending Forecast (Statista)](https://www.statista.com/statistics/991304/worldwide-cybersecurity-spending/) – Shows current and projected spending.
-
+- **[Global Cybersecurity Spending Forecast (Statista)](https://www.statista.com/statistics/991304/worldwide-cybersecurity-spending/)**  
+  Shows current and projected spending in the cybersecurity market.
+  
 ---
 
 ## Cybersecurity Solutions Categories
