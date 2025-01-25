@@ -303,7 +303,7 @@ Explore resources that offer insights into the business, strategy, and trends sh
 
 - **Risk Assessment Services:** Evaluate and mitigate cybersecurity risks (e.g., **Qualys Risk**, **Rapid7 Risk**).
 - **Compliance Readiness:** Prepare organizations for regulatory requirements (e.g., **Deloitte**, **PwC**).
-- **Penetration Testing:** Conducts testing to identify vulnerabilities and assess system resilience (e.g., **NCC Group**, **Trustwave**).
+- **Penetration Testing:** Conducts pen-testing to identify vulnerabilities and assess system resilience (e.g., **NCC Group**, **Trustwave**).
 
 ---
 
