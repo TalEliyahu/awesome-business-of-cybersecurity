@@ -162,7 +162,7 @@ Explore resources that offer insights into the business, strategy, and trends sh
 
 ### Podcasts
 
-- **[Audience 1st](https://cyberbrain.cybersynapse.io/)**  
+- **[The Cyber Brain](https://cyberbrain.cybersynapse.io/)**  
   Weekly conversations with tech buyers on motivations, challenges, and strategies for cybersecurity marketers and founders.
 
 - **[Hacker Valley](https://hackervalley.com/podcast)**  
