@@ -34,7 +34,7 @@ This list categorizes companies into two main types, reflecting how cybersecurit
 > **Exclusion**: Tech giants like Microsoft or AWS are not included, as cybersecurity is just one part of their diverse operations. Additionally, this list does not include micro-cap or low-cap stocks to ensure focus on established companies and ETFs with significant market presence.
 ---
 
-## Cybersecurity Stock Lists <span style="font-size:0.8em;">([TradingView 📈](https://www.tradingview.com/watchlists/55536943/))</span>
+## Cybersecurity Stock Lists <sub>([TradingView 📈](https://www.tradingview.com/watchlists/55536943/))</sub>
 
 ### Endpoint Protection and Threat Detection <a name="endpoint-protection-and-threat-detection"></a>
 Secures devices such as laptops, mobile devices, and servers from threats like malware and ransomware. Common solutions include Endpoint Detection and Response (EDR) and Extended Detection and Response (XDR) for real-time monitoring and response.
