@@ -143,7 +143,7 @@ Explore resources that offer insights into the business, strategy, and trends sh
 - **[Venture in Security](https://ventureinsecurity.substack.com/)**  
   Focuses on the business of cybersecurity, exploring the ecosystem, players, angel investing, venture capital, go-to-market strategies, and product-led growth.
 
-- **[Strategy of Security](https://strategyofsecurity.substack.com/)**  
+- **[Strategy of Security](https://strategyofsecurity.com)**  
   Analyzes the business and strategy of cybersecurity, covering trends, companies, products, and case studies relevant to cybersecurity leaders and operators.
 
 - **[Anton on Security](https://chuvakin.blogspot.com/)**  
