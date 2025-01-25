@@ -134,7 +134,8 @@ These exchange-traded funds invest in diversified portfolios of companies operat
 
 ## Research and Analysis
 
-- **Cybersecurity-Specific Data**
+- Awesome Cybersecurity Stocks Watchlist - https://www.tradingview.com/watchlists/55536943/ 
+- Cybersecurity-Specific Data
   - [Statista Cybersecurity Market](https://www.statista.com/outlook/tmo/cybersecurity/worldwide)  
   - [CB Insights Cybersecurity Reports](https://www.cbinsights.com/research/cybersecurity/)
 
