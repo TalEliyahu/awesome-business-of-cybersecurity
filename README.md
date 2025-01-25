@@ -204,7 +204,7 @@ Explore resources that offer insights into the business, strategy, and trends sh
 - **Endpoint Detection and Response (EDR)**: Real-time endpoint threat detection (e.g., **CrowdStrike Falcon**, **Carbon Black**).
 - **Extended Detection and Response (XDR)**: Cross-layer detection/response (e.g., **Microsoft Defender XDR**, **Palo Alto Cortex XDR**).
 - **Mobile Threat Defense (MTD)**: Protects mobile devices (e.g., **Lookout**, **Zimperium**).
-- **Endpoint Protection Platforms (EPP)**: Comprehensive device security (e.g., **Symantec**, **McAfee Endpoint**).
+- **Endpoint Protection Platforms (EPP)**: Comprehensive device security (e.g., **Symantec**, **Trend Micro Apex One**).
 - **Device Management**: Centralized endpoint compliance/security (e.g., **Microsoft Intune**, **Workspace ONE**).
 - **Mobile Device Management (MDM)**: Manages/locks down mobile fleets (e.g., **Jamf Pro**, **Ivanti**).
 
