@@ -155,9 +155,6 @@ Explore resources that offer insights into the business, strategy, and trends sh
 
 ### Reports and Podcasts
 
-- **[Momentum Cyber](https://momentumcyber.com/news/)**  
-  Industry reports, news, and insights on mergers, acquisitions, and market movements in cybersecurity.
-
 - **[The Cyber Brain](https://cyberbrain.cybersynapse.io/)**  
   Weekly conversations with tech buyers on motivations, challenges, and strategies for cybersecurity marketers and founders.
 
@@ -171,6 +168,9 @@ Explore resources that offer insights into the business, strategy, and trends sh
 
 - **[Cybersecurity Ventures](https://cybersecurityventures.com/)**  
   Research and reports on cybercrime and market trends.
+
+- **[Momentum Cyber](https://momentumcyber.com/news/)**  
+  Industry reports, news, and insights on mergers, acquisitions, and market movements in cybersecurity.
 
 - **[Statista: Global Cybersecurity Spending Forecast](https://www.statista.com/statistics/991304/worldwide-cybersecurity-spending/)**  
   Shows current and projected spending in the cybersecurity market.
