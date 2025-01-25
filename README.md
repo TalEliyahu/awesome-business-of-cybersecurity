@@ -181,7 +181,7 @@ Explore resources that offer insights into the business, strategy, and trends sh
 - **[TechCrunch: Cybersecurity](https://techcrunch.com/tag/cybersecurity/)**  
   Provides updates on startup news, market trends, and developments within the cybersecurity industry.
   
-- **[Forrester: Cybersecurity Blog](https://www.forrester.com/blogs/category/cybersecurity/)**  
+- **[Forrester: Cybersecurity Trends](https://www.forrester.com/blogs/category/cybersecurity/)**  
   Insights on cybersecurity strategies, technologies, and market trends from industry experts.
   
 ---
