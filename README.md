@@ -208,7 +208,7 @@ Explore resources that offer insights into the business, strategy, and trends sh
 - **Endpoint Detection and Response (EDR):** Real-time endpoint threat detection (e.g., **CrowdStrike Falcon**, **Carbon Black**).
 - **Extended Detection and Response (XDR):** Cross-layer detection/response (e.g., **Microsoft Defender XDR**, **Palo Alto Cortex XDR**).
 - **Mobile Threat Defense (MTD):** Protects mobile devices (e.g., **Lookout**, **Zimperium**).
-- **Endpoint Protection Platforms (EPP):** Comprehensive device security (e.g., **Symantec**, **Trend Micro Apex One**).
+- **Endpoint Protection Platforms (EPP):** Comprehensive device security (e.g., **Symantec Endpoint Security**, **Trend Micro Apex One**).
 - **Device Management:** Centralized endpoint compliance/security (e.g., **Microsoft Intune**, **Workspace ONE**).
 - **Mobile Device Management (MDM):** Manages/locks down mobile fleets (e.g., **Jamf Pro**, **Ivanti**).
 
@@ -293,7 +293,7 @@ Explore resources that offer insights into the business, strategy, and trends sh
 
 - **Secure Email Gateway (SEG):** Filters malicious email (e.g., **Proofpoint**, **Mimecast**).
 - **Anti-Phishing:** Educates/detects phishing (e.g., **KnowBe4**, **Cofense**).
-- **Cloud Email Security:** Secures hosted email (e.g., **Office 365 ATP**, **Google Workspace**).
+- **Cloud Email Security:** Secures hosted email (e.g., **Microsoft Office 365 Defender**, **Google Workspace**).
 - **AI-Enhanced Email Threat Detection:** Identifies AI-crafted phishing attempts using advanced NLP and behavioral analysis (e.g., **Tessian**, **Abnormal Security**).
 
 ---
