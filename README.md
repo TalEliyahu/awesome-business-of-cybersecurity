@@ -131,6 +131,8 @@ These exchange-traded funds invest in diversified portfolios of companies operat
 | [First Trust NASDAQ Cybersecurity ETF](https://www.ftportfolios.com/retail/etf/EtfSummary.aspx?Ticker=CIBR) | [$CIBR](https://finance.yahoo.com/quote/CIBR) | Aims to match the Nasdaq CTA Cybersecurity Index™, targeting cybersecurity-focused tech and industrials firms.                                                            | 18.2%                 | $7.53 billion    |
 | [Global X Cybersecurity ETF](https://www.globalxetfs.com/funds/bug/)           | [$BUG](https://finance.yahoo.com/quote/BUG)   | Invests in companies benefiting from cybersecurity tech adoption, specifically those developing/managing security protocols to prevent intrusions/attacks.              | 9.6%                  | $823.43 million  |
 
+[▲ Back to Top](#table-of-contents)
+
 ---
 
 
@@ -190,7 +192,8 @@ Explore resources that offer insights into the business, strategy, and trends sh
 - **[CyberSeek Interactive Heatmap](https://www.cyberseek.org/heatmap.html)**  
   Visualizes supply, demand, and career pathways in the cybersecurity job market.
 
-  
+[▲ Back to Top](#table-of-contents)
+
 ---
 
 ## Cybersecurity Solutions Categories
@@ -349,6 +352,8 @@ Explore resources that offer insights into the business, strategy, and trends sh
 - **Supply Chain Security:** Monitors dependencies/supply chain (e.g., **CyberGRX**, **Venafi**).
 - **AI-Driven Third-Party Risk Insights:** Offers automated insights into vendor vulnerabilities (e.g., **Prevalent AI**, **Panorays AI**).
 
+[▲ Back to Top](#table-of-contents)
+
 ---
 
 ## Contributing
@@ -358,6 +363,7 @@ Explore resources that offer insights into the business, strategy, and trends sh
 - 🚀 **Submit a Pull Request** to add new stocks or insights.
 
 ## Disclaimers
+
 - **Investment Disclaimer**: This list is for informational purposes only and should not be construed as financial advice. Always do your own research before making investment decisions.
 - **Trademark Disclaimer**: All product or company names are trademarks™ or registered® trademarks of their respective holders. Use does not imply endorsement.
 
