@@ -289,6 +289,8 @@ This section outlines 18 distinct cybersecurity solution categories, each suppor
 - **SCA:** Open-source vulnerability tracking (e.g., **Snyk**, **WhiteSource**).
 - **WAF:** Web app firewall (e.g., **Akamai Kona**, **Imperva WAF**).
 - **Mobile App Security:** Dev-time & runtime protection (e.g., **Veracode Mobile**, **NowSecure**).
+- **Container Security:** Protects containerized applications throughout their lifecycle, ensuring secure deployment, runtime protection, and compliance (e.g., **Sysdig Secure**, **Aqua Security**).
+- **Software Supply Chain Security:** Ensures the security of software supply chains by identifying misconfigurations, secrets, and vulnerabilities in code repositories and dependencies (e.g., **GitGuardian**, **JFrog Xray**, **Sonatype Nexus**).
 - **AI for Application Security:** Identifies vulnerabilities during development and deployment (e.g., **Mobb.ai**, **Pixee.ai**).
 
 ---
@@ -323,6 +325,8 @@ This section outlines 18 distinct cybersecurity solution categories, each suppor
 
 - **Continuous Vulnerability Management:** Regular scans/remediation (e.g., **Qualys VM**, **Nessus**).
 - **CAASM (Cyber Asset Attack Surface Mgmt):** Reduces overall attack surface (e.g., **CyCognito**, **RiskIQ**).
+- **SBOM Tracking:** Manages and tracks Software Bill of Materials for transparency and security in software components (e.g., **Anchore**, **CycloneDX**).
+
 
 ---
 
