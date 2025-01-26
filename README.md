@@ -183,6 +183,13 @@ Explore resources that offer insights into the business, strategy, and trends sh
   
 - **[Forrester: Cybersecurity Trends](https://www.forrester.com/blogs/category/cybersecurity/)**  
   Insights on cybersecurity strategies, technologies, and market trends from industry experts.
+
+- **[Gartner: Cybersecurity Trends](https://www.gartner.com/en/cybersecurity/topics/cybersecurity-trends)**  
+  Research on emerging challenges, solutions, and strategic insights shaping the cybersecurity landscape.
+
+- **[CyberSeek Interactive Heatmap](https://www.cyberseek.org/heatmap.html)**  
+  Visualizes supply, demand, and career pathways in the cybersecurity job market.
+
   
 ---
 
