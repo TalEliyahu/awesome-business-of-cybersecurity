@@ -361,12 +361,21 @@ Explore resources that offer insights into the business, strategy, and trends sh
 - **Investment Disclaimer**: This list is for informational purposes only and should not be construed as financial advice. Always do your own research before making investment decisions.
 - **Trademark Disclaimer**: All product or company names are trademarks™ or registered® trademarks of their respective holders. Use does not imply endorsement.
 
-[▲ Back to Top](#table-of-contents)
+## Contact
 
+- **Email**: [tal.eliyahu@owasp.org](mailto:tal.eliyahu@owasp.org)
+- **LinkedIn**: [Tal Eliyahu](https://www.linkedin.com/in/adgnj)
+- **Twitter**: [@Eliyahu_Tal_](https://x.com/Eliyahu_Tal_)
+
+## License
+
+This work is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).  
+© 2025 Tal Eliyahu
+
+[▲ Back to Top](#table-of-contents)
 
 ---
 
-## License
 
 This work is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).  
 © 2025 Tal Eliyahu
