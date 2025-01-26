@@ -373,9 +373,3 @@ This work is licensed under the [MIT License](https://choosealicense.com/license
 © 2025 Tal Eliyahu
 
 [▲ Back to Top](#table-of-contents)
-
----
-
-
-This work is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).  
-© 2025 Tal Eliyahu
