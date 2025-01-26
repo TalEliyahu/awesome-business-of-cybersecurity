@@ -290,7 +290,7 @@ This section outlines 18 distinct cybersecurity solution categories, each suppor
 - **WAF:** Web app firewall (e.g., **Akamai Kona**, **Imperva WAF**).
 - **Mobile App Security:** Dev-time & runtime protection (e.g., **Veracode Mobile**, **NowSecure**).
 - **Container Security:** Protects containerized applications throughout their lifecycle, ensuring secure deployment, runtime protection, and compliance (e.g., **Sysdig Secure**, **Aqua Security**).
-- **Software Supply Chain Security:** Ensures the security of software supply chains by identifying misconfigurations, secrets, and vulnerabilities in code repositories and dependencies (e.g., **GitGuardian**, **JFrog Xray**, **Sonatype Nexus**).
+- **Software Supply Chain Security:** Protects against risks in software development pipelines, including vulnerabilities, misconfigurations, and secrets in code repositories (e.g., **GitGuardian**, **JFrog Xray**, **Sonatype Nexus**).
 - **AI for Application Security:** Identifies vulnerabilities during development and deployment (e.g., **Mobb.ai**, **Pixee.ai**).
 
 ---
