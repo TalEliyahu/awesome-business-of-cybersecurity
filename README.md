@@ -357,7 +357,12 @@ Explore resources that offer insights into the business, strategy, and trends sh
 - 🐛 **Report Issues** to suggest fixes or improvements.
 - 🚀 **Submit a Pull Request** to add new stocks or insights.
 
-> **Investment Disclaimer**: This list is for informational purposes only and should not be construed as financial advice. Always do your own research before making investment decisions.
+## Disclaimers
+- **Investment Disclaimer**: This list is for informational purposes only and should not be construed as financial advice. Always do your own research before making investment decisions.
+- **Trademark Disclaimer**: All product or company names are trademarks™ or registered® trademarks of their respective holders. Use does not imply endorsement.
+
+[▲ Back to Top](#table-of-contents)
+
 
 ---
 
