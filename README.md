@@ -291,6 +291,8 @@ This section outlines 18 distinct cybersecurity solution categories, each suppor
 - **Mobile App Security:** Dev-time & runtime protection (e.g., **Veracode Mobile**, **NowSecure**).
 - **Container Security:** Protects containerized applications throughout their lifecycle, ensuring secure deployment, runtime protection, and compliance (e.g., **Sysdig Secure**, **Aqua Security**).
 - **Software Supply Chain Security:** Protects against risks in software development pipelines, including vulnerabilities, misconfigurations, and secrets in code repositories (e.g., **GitGuardian**, **JFrog Xray**, **Sonatype Nexus**).
+- **SBOM Tracking:** Manages and tracks Software Bill of Materials for transparency and security in software components (e.g., **Anchore**, **CycloneDX**).
+- **AIBOM (AI Bill of Materials)**: Tracks and documents datasets, models, and dependencies in AI systems to enhance transparency and ensure secure deployment.
 - **AI for Application Security:** Identifies vulnerabilities during development and deployment (e.g., **Mobb.ai**, **Pixee.ai**).
 
 ---
@@ -325,9 +327,6 @@ This section outlines 18 distinct cybersecurity solution categories, each suppor
 
 - **Continuous Vulnerability Management:** Regular scans/remediation (e.g., **Qualys VM**, **Nessus**).
 - **CAASM (Cyber Asset Attack Surface Mgmt):** Reduces overall attack surface (e.g., **CyCognito**, **RiskIQ**).
-- **SBOM Tracking:** Manages and tracks Software Bill of Materials for transparency and security in software components (e.g., **Anchore**, **CycloneDX**).
-
-
 ---
 
 ### **15. Incident Detection and Response** <a name="incident-detection-and-response"></a> ![IDR](https://img.shields.io/badge/IDR-crimson.svg)
