@@ -216,11 +216,7 @@ This section outlines 18 distinct cybersecurity solution categories, each suppor
 - **Mobile Threat Defense (MTD):** Protects mobile devices (e.g., **Lookout**, **Zimperium**).
 - **Endpoint Protection Platforms (EPP):** Comprehensive device security (e.g., **Symantec Endpoint Security**, **Trend Micro Apex One**).
 - **Device Management:** Centralized endpoint compliance/security (e.g., **Microsoft Intune**, **Workspace ONE**).
-- **Mobile Device Management (MDM):** Manages/locks down mobile fleets (e.g., **Jamf Pro**, **Ivanti**).
-
-**Subcategories**  
-- **BYOD Management:** Secures personal devices in a corporate setting (e.g., **Cisco Meraki**, **VMware Workspace ONE**).  
-- **Corporate Mobile Fleet:** Specialized MDM for large deployments (e.g., **SOTI MobiControl**, **ManageEngine Mobile Device Manager Plus**).
+- **Mobile Device Management (MDM):** Centralized management and security of mobile devices, supporting diverse needs such as corporate fleets, personal devices in BYOD environments, and large-scale deployments (e.g., **Cisco Meraki**, **VMware Workspace ONE**, **Jamf Pro**, **Ivanti**, **SOTI MobiControl**, **ManageEngine Mobile Device Manager Plus**).
 
 ---
 
