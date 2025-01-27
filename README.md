@@ -145,16 +145,16 @@ Explore resources that offer insights into the business, strategy, and trends sh
 ### Blogs and Newsletters
 
 - **[Venture in Security](https://ventureinsecurity.substack.com/)**  
-  Focuses on the business of cybersecurity, exploring the ecosystem, players, angel investing, venture capital, go-to-market strategies, and product-led growth.
+  [Ross Haleliuk](https://x.com/rosshaleliuk) explores the business of cybersecurity, focusing on the ecosystem, players, angel investing, venture capital, go-to-market strategies, and product-led growth.
 
 - **[Strategy of Security](https://strategyofsecurity.com)**  
-  Analyzes the business and strategy of cybersecurity, covering trends, companies, products, and case studies relevant to cybersecurity leaders and operators.
+  [Cole Grolmus](https://x.com/colegrolmus) analyzes the business and strategy of cybersecurity, covering trends, companies, products, and case studies relevant to cybersecurity leaders and operators.
 
 - **[Anton on Security](https://chuvakin.blogspot.com/)**  
-  Dr. Anton Chuvakin shares analysis on market sub-segments, with a focus on log management and emerging cybersecurity challenges.
+  [Dr. Anton Chuvakin](https://x.com/anton_chuvakin) shares analysis on market sub-segments, with a focus on log management and emerging cybersecurity challenges.
 
 - **[Return on Security](https://www.returnonsecurity.com/)**  
-  A blog and newsletter by Mike Privette with insights on security trends, a weekly newsletter about cybersecurity investments, and product trend reports.
+  [Mike Privette](https://x.com/mikepsecuritee) provides insights on security trends, a weekly newsletter about cybersecurity investments, and product trend reports.
 
 
 ### Podcasts
