@@ -312,7 +312,7 @@ This section outlines 18 distinct cybersecurity solution categories, each suppor
 
 ---
 
-### **13. Consulting** <a name="consulting"></a> ![Consulting](https://img.shields.io/badge/Consulting-brown.svg)
+### **13. Professional Services & Consulting** <a name="consulting"></a> ![Consulting](https://img.shields.io/badge/Consulting-brown.svg)
 
 - **Risk Assessment Services:** Evaluate and mitigate cybersecurity risks (e.g., **Qualys Risk**, **Rapid7 Risk**).
 - **Compliance Readiness:** Prepare organizations for regulatory requirements (e.g., **Deloitte**, **PwC**).
