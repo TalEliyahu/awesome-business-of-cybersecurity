@@ -319,6 +319,9 @@ This section outlines 18 distinct cybersecurity solution categories, each suppor
 - **Adversarial Simulation and Vulnerability Assessments:** Simulates real-world attack scenarios and conducts detailed assessments to uncover vulnerabilities in applications, systems, and networks, offering actionable insights for improving security resilience (e.g., **NCC Group**, **Trustwave**).
 - **AI-Driven Compliance Management:** Leverages AI for automating compliance with regulatory standards (e.g., **Styrk.ai**, **SurePath.ai**).
 - **Managed Detection and Response (MDR)**: Combines advanced threat detection, 24/7 monitoring, and response services to identify and mitigate threats (e.g., **CrowdStrike Falcon Complete**, **Rapid7 MDR**).
+- **Incident Response Services**: Expert-led investigation, containment, and recovery during or after security incidents, minimizing impact and reducing recovery time (e.g., **Palo Alto Networks Unit 42**).
+
+
   
 ---
 
