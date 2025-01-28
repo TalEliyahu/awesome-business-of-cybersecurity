@@ -318,6 +318,7 @@ This section outlines 18 distinct cybersecurity solution categories, each suppor
 - **Compliance Readiness:** Prepare organizations for regulatory requirements (e.g., **Deloitte**, **PwC**).
 - **Penetration Testing:** Conducts pen-testing to identify vulnerabilities and assess system resilience (e.g., **NCC Group**, **Trustwave**).
 - **AI-Driven Compliance Management:** Leverages AI for automating compliance with regulatory standards (e.g., **Styrk.ai**, **SurePath.ai**).
+- **Managed Detection and Response (MDR)**: Combines advanced threat detection, 24/7 monitoring, and response services to identify and mitigate threats (e.g., **CrowdStrike Falcon Complete**, **Rapid7 MDR**).
 
 ---
 
