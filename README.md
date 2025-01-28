@@ -264,6 +264,7 @@ This section outlines 18 distinct cybersecurity solution categories, each suppor
 - **Data Loss Prevention (DLP):** Prevents data leakage.  
   - Endpoint DLP, Network DLP, Storage DLP, Email DLP, etc.
 - **AI-Based Data Flow Mapping:** Automates the discovery of sensitive data flows and risks (e.g., **1Touch.io**, **Cyberhaven**).
+- **Cloud Access Security Broker (CASB)**: Provides visibility, compliance enforcement, and data protection for cloud-based services, ensuring secure usage of SaaS, IaaS, and PaaS environments (e.g., **Cisco Cloudlock**, **Forcepoint CASB**).
 
 ---
 
