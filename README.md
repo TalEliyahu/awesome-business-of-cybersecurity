@@ -207,6 +207,7 @@ This section outlines 18 distinct cybersecurity solution categories, each suppor
 - **Firewalls:** Secures network perimeters/controls traffic flow (e.g., **Palo Alto Networks NGFW**, **Cisco ASA**).
 - **Intrusion Detection/Prevention Systems (IDS/IPS):** Detects/prevents unauthorized access (e.g., **Snort**, **Suricata**).
 - **Micro-Segmentation**: Restricts lateral movement within networks by enforcing security policies at a granular level, enhancing zero-trust architectures (e.g., **Illumio Core**).
+- **Network Access Control (NAC)**: Enforces security policies by controlling device access to enterprise networks, ensuring compliance before granting access (e.g., **Aruba ClearPass**).
 
 ---
 
