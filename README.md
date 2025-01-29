@@ -291,7 +291,7 @@ This section outlines 18 distinct cybersecurity solution categories, each suppor
 - **SCA:** Open-source vulnerability tracking (e.g., **Snyk**, **WhiteSource**).
 - **WAF:** Web app firewall (e.g., **Akamai Kona**, **Imperva WAF**).
 - **Mobile App Security:** Dev-time & runtime protection (e.g., **Veracode Mobile**, **NowSecure**).
-- **Container Security:** Protects containerized applications throughout their lifecycle, ensuring secure deployment, runtime protection, and compliance (e.g., **Sysdig Secure**, **Aqua Security**).
+- **Cloud Workload Protection Platforms (CWPP)**: Provides comprehensive security for cloud-native workloads, including containers, virtual machines, and serverless functions. Features include vulnerability scanning, runtime monitoring, and compliance enforcement (e.g., **Aqua Security**, **Sysdig Secure**, **Prisma Cloud**).
 - **Software Supply Chain Security:** Protects against risks in software development pipelines, including vulnerabilities, misconfigurations, and secrets in code repositories (e.g., **GitGuardian**, **JFrog Xray**, **Sonatype Nexus**).
 - **SBOM Tracking:** Manages and tracks Software Bill of Materials for transparency and security in software components (e.g., **Anchore**, **CycloneDX**).
 - **AIBOM (AI Bill of Materials)**: Tracks and documents datasets, models, and dependencies in AI systems to enhance transparency and ensure secure deployment.
