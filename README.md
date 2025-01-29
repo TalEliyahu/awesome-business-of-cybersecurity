@@ -206,6 +206,7 @@ This section outlines 18 distinct cybersecurity solution categories, each suppor
 - **Network Traffic Analysis (NTA):** Monitors/analyzes network traffic for suspicious activity (e.g., **Cisco Stealthwatch**, **Darktrace**).
 - **Firewalls:** Secures network perimeters/controls traffic flow (e.g., **Palo Alto Networks NGFW**, **Cisco ASA**).
 - **Intrusion Detection/Prevention Systems (IDS/IPS):** Detects/prevents unauthorized access (e.g., **Snort**, **Suricata**).
+- **Micro-Segmentation**: Restricts lateral movement within networks by enforcing security policies at a granular level, enhancing zero-trust architectures (e.g., **Illumio Core**).
 
 ---
 
