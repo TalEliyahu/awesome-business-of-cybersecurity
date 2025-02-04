@@ -4,6 +4,7 @@
 ---
 
 ## Table of Contents
+- [2024 Cybersecurity Market Snapshot](#2024-cybersecurity-market-snapshot)
 - [Specialists ("Pure Play") vs. Multiservice Cybersecurity](#specialists-pure-play-vs-multiservice-cybersecurity)
 - [Cybersecurity Stock Lists](#cybersecurity-stock-lists)
   - [Endpoint Protection and Threat Detection](#endpoint-protection-and-threat-detection)
@@ -23,7 +24,14 @@
 - [License](#license)
 
 ---
+## 2024 Cybersecurity Market Snapshot [![Report](https://img.shields.io/badge/Report-Return%20on%20Security-blue.svg)](https://www.returnonsecurity.com/)
 
+- **4% Increase in Funding:** Total funding reached **$14B** across 621 rounds.
+- **M&A Activity:** 271 transactions completed, valued at **$45.7B**.
+- **AI-Focused Investments:** Grew by **96% YoY** (from ~$181.5M in 2023 to ~$369.9M in 2024). Notably, seed-stage funding surged by 226%, and pre-seed AI deals increased from 6.69% to 16.5% of all pre-seed rounds.
+- **Business Model Trends:** Product-based companies dominated funding (88% of total, ~$12.3B), while service/hybrid models are gaining traction.
+- **Geographical Distribution:** The U.S. led with ~$10.9B (83% global share); Europe, Israel, and Asia contributed significant, but smaller, amounts.
+  
 ## Specialists ("Pure Play") vs. Multiservice Cybersecurity
 
 This list categorizes companies into two main types, reflecting how cybersecurity aligns with their overall business model:
