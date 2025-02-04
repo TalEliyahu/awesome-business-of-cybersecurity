@@ -25,7 +25,7 @@
 
 ---
 <a name="2024-cybersecurity-market-snapshot"></a>
-## 2024 Cybersecurity Market Snapshot [![Report](https://img.shields.io/badge/Report-Return%20on%20Security-blue.svg)](https://www.returnonsecurity.com/)
+## 2024 Cybersecurity Market Snapshot [![Report](https://img.shields.io/badge/Report-Return%20on%20Security-blue.svg)](https://www.returnonsecurity.com/p/the-state-of-the-cybersecurity-market-in-2024)
 
 - **4% Increase in Funding:** Total funding reached **$14B** across 621 rounds.
 - **M&A Activity:** 271 transactions completed, valued at $45.7B.
