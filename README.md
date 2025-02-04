@@ -24,6 +24,7 @@
 - [License](#license)
 
 ---
+<a name="2024-cybersecurity-market-snapshot"></a>
 ## 2024 Cybersecurity Market Snapshot [![Report](https://img.shields.io/badge/Report-Return%20on%20Security-blue.svg)](https://www.returnonsecurity.com/)
 
 - **4% Increase in Funding:** Total funding reached **$14B** across 621 rounds.
