@@ -169,6 +169,9 @@ Explore resources that offer insights into the business, strategy, and trends sh
 - **[Return on Security](https://www.returnonsecurity.com/)**  
   [Mike Privette](https://x.com/mikepsecuritee) provides insights on security trends, a weekly newsletter about cybersecurity investments, and product trend reports.
 
+- **[SecMoves](https://www.linkedin.com/newsletters/secmoves-6890336717535006720/)**  
+  Karl Sharman, **[Forgepoint Capital](https://forgepointcap.com/)**, tracks the latest talent shifts, funding rounds, acquisitions, and job opportunities across the cybersecurity industry. 
+
 
 ### Podcasts
 
