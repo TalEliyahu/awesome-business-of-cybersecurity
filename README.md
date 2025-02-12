@@ -294,6 +294,8 @@ This section outlines 18 distinct cybersecurity solution categories, each suppor
 - **IAM:** Controls system/data access (e.g., **Okta**, **Azure AD**).
 - **Secure Mobile Access:** VPN/MFA for mobile users (e.g., **Palo Alto Prisma Access**, **Zscaler Private Access**).
 - **AI for Identity Security:** Enhances identity verification processes with behavior analysis and fraud detection (e.g., **Twine Security**, **RedBlock.ai**).
+- **Customer Identity & Access Management (CIAM):** Manages customer authentication, consent, and security for external users (e.g., Auth0, Ping Identity, ForgeRock).
+- **Identity Verification (IDV) & Identity Proofing:** Uses biometrics and document validation to verify real-world identity (e.g., Onfido, Jumio, ID.me, Persona).
 
 ---
 
