@@ -213,7 +213,7 @@ Explore resources that offer insights into the business, strategy, and trends sh
 
 ---
 
-## Cybersecurity Solutions Categories
+## [↑](#table-of-contents)Cybersecurity Solutions Categories
 This section outlines 18 distinct cybersecurity solution categories, each supported by real-world vendor examples and AI-driven offerings to address diverse security challenges.
 
 ### **1. Network Security** <a name="network-security"></a> ![NetSec](https://img.shields.io/badge/NetSec-blue.svg)
@@ -383,26 +383,24 @@ This section outlines 18 distinct cybersecurity solution categories, each suppor
 
 ---
 
-## Contributing
+## [↑](#table-of-contents)Contributing
 
 - 🌟 **Star** this repository if you found it helpful.
 - 🐛 **Report Issues** to suggest fixes or improvements.
 - 🚀 **Submit a Pull Request** to add new stocks or insights.
 
-## Disclaimers
+## [↑](#table-of-contents)Disclaimers
 
 - **Investment Disclaimer**: This list is for informational purposes only and should not be construed as financial advice. Always do your own research before making investment decisions.
 - **Trademark Disclaimer**: All product or company names are trademarks™ or registered® trademarks of their respective holders. Use does not imply endorsement.
 
-## Contact
+## [↑](#table-of-contents)Contact
 
 - **Email**: [tal.eliyahu@owasp.org](mailto:tal.eliyahu@owasp.org)
 - **LinkedIn**: [Tal Eliyahu](https://www.linkedin.com/in/adgnj)
 - **Twitter**: [@Eliyahu_Tal_](https://x.com/Eliyahu_Tal_)
 
-## License
+## [↑](#table-of-contents)License
 
 This work is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).  
 © 2025 Tal Eliyahu
-
-[▲ Back to Top](#table-of-contents)
