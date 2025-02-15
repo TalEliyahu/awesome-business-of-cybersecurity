@@ -118,7 +118,7 @@ Uses solutions like Security Information and Event Management (SIEM) and vulnera
 
 ---
 
-### Non-US Traded Cybersecurity Companies <a name="non-us-traded-cybersecurity-companies"></a>
+### [↑](#table-of-contents)Non-US Traded Cybersecurity Companies <a name="non-us-traded-cybersecurity-companies"></a>
 These cybersecurity companies are listed on international stock exchanges outside of the United States, offering a wide range of security solutions across various domains.
 
 | **Company (IR)**                                                       | **Ticker / Stock Exchange**                                    | **Twitter**                                                                               | **Description**                                                                                                                         | **Domains**                                                                                                                                                                                              | **Revenue Growth (2024)** |
