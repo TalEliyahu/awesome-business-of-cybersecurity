@@ -137,7 +137,7 @@ These cybersecurity companies are listed on international stock exchanges outsid
 
 ---
 
-### Cybersecurity ETFs <a name="cybersecurity-etfs"></a>
+### [↑](#table-of-contents)Cybersecurity ETFs <a name="cybersecurity-etfs"></a>
 These exchange-traded funds invest in diversified portfolios of companies operating across various cybersecurity domains, offering investors broad exposure to the cybersecurity market.
 
 | ETF Name                             | Ticker  | Description                                                                                                                                                               | Total Return for 2024 | AUM (USD)        |
@@ -146,16 +146,13 @@ These exchange-traded funds invest in diversified portfolios of companies operat
 | [First Trust NASDAQ Cybersecurity ETF](https://www.ftportfolios.com/retail/etf/EtfSummary.aspx?Ticker=CIBR) | [$CIBR](https://finance.yahoo.com/quote/CIBR) | Aims to match the Nasdaq CTA Cybersecurity Index™, targeting cybersecurity-focused tech and industrials firms.                                                            | 18.2%                 | $7.53 billion    |
 | [Global X Cybersecurity ETF](https://www.globalxetfs.com/funds/bug/)           | [$BUG](https://finance.yahoo.com/quote/BUG)   | Invests in companies benefiting from cybersecurity tech adoption, specifically those developing/managing security protocols to prevent intrusions/attacks.              | 9.6%                  | $823.43 million  |
 
-[▲ Back to Top](#table-of-contents)
-
 ---
 
-
-## Business of Cybersecurity
+## [↑](#table-of-contents)Business of Cybersecurity
 
 Explore resources that offer insights into the business, strategy, and trends shaping the cybersecurity industry. These blogs, newsletters, reports, and podcasts provide valuable perspectives for professionals, founders, and investors looking to deepen their understanding of this dynamic field.
 
-### Blogs and Newsletters
+### [↑](#table-of-contents)Blogs and Newsletters
 
 - **[Venture in Security](https://ventureinsecurity.substack.com/)**  
   [Ross Haleliuk](https://x.com/rosshaleliuk) explores the business of cybersecurity, focusing on the ecosystem, players, angel investing, venture capital, go-to-market strategies, and product-led growth.
@@ -172,7 +169,7 @@ Explore resources that offer insights into the business, strategy, and trends sh
 - **[SecMoves](https://www.linkedin.com/newsletters/secmoves-6890336717535006720/)**  
   [Karl Sharman](https://www.linkedin.com/in/karl-sharmancybersecurity/), [Forgepoint Capital](https://forgepointcap.com/), tracks the latest talent shifts, funding rounds, acquisitions, and job opportunities across the cybersecurity industry.  
 
-### Podcasts
+### [↑](#table-of-contents)Podcasts
 
 - **[The Cyber Brain](https://cyberbrain.cybersynapse.io/)**  
   Weekly conversations with tech buyers on motivations, challenges, and strategies for cybersecurity marketers and founders.
@@ -208,8 +205,6 @@ Explore resources that offer insights into the business, strategy, and trends sh
 
 - **[CyberSeek Interactive Heatmap](https://www.cyberseek.org/heatmap.html)**  
   Visualizes supply, demand, and career pathways in the cybersecurity job market.
-
-[▲ Back to Top](#table-of-contents)
 
 ---
 
@@ -342,8 +337,6 @@ This section outlines 18 distinct cybersecurity solution categories, each suppor
 - **Managed Detection and Response (MDR)**: Combines advanced threat detection, 24/7 monitoring, and response services to identify and mitigate threats (e.g., **CrowdStrike Falcon Complete**, **Rapid7 MDR**).
 - **Incident Response Services**: Expert-led investigation, containment, and recovery during or after security incidents, minimizing impact and reducing recovery time (e.g., **Palo Alto Networks Unit 42**).
 
-
-  
 ---
 
 ### **14. Vulnerability Management** <a name="vulnerability-management"></a> ![VulnMgmt](https://img.shields.io/badge/VulnMgmt-olivegreen.svg)
@@ -378,8 +371,6 @@ This section outlines 18 distinct cybersecurity solution categories, each suppor
 - **Vendor Risk Assessment:** Evaluates third-party security posture (e.g., **BitSight**, **RiskRecon**).
 - **Supply Chain Security:** Monitors dependencies/supply chain (e.g., **CyberGRX**, **Venafi**).
 - **AI-Driven Third-Party Risk Insights:** Offers automated insights into vendor vulnerabilities (e.g., **Prevalent AI**, **Panorays AI**).
-
-[▲ Back to Top](#table-of-contents)
 
 ---
 
