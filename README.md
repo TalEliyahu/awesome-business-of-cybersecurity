@@ -33,7 +33,7 @@
 - **Business Model Trends:** Product-based companies dominated funding (**88%** of total, **$12.3B**), while service/hybrid models are gaining traction.
 - **Geographical Distribution:** The U.S. led with **$10.9B** (83% global share); Europe, Israel, and Asia contributed significant, but smaller, amounts.
   
-## [↑](#table-of-contents)Specialists ("Pure Play") vs. Multiservice Cybersecurity
+## Specialists ("Pure Play") vs. Multiservice Cybersecurity
 
 This list categorizes companies into two main types, reflecting how cybersecurity aligns with their overall business model:
 
@@ -180,7 +180,7 @@ Explore resources that offer insights into the business, strategy, and trends sh
 - **[Hacker Valley](https://hackervalley.com/podcast)**  
   Features discussions with cybersecurity marketers about effective go-to-market strategies and lessons from successes and failures.
 
-### Market Insights and Research
+### [↑](#table-of-contents)Market Insights and Research
 
 - **[Awesome Cybersecurity Stocks Watchlist](https://www.tradingview.com/watchlists/55536943/)**  
   A curated list of publicly traded cybersecurity companies.
