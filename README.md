@@ -33,7 +33,7 @@
 - **Business Model Trends:** Product-based companies dominated funding (**88%** of total, **$12.3B**), while service/hybrid models are gaining traction.
 - **Geographical Distribution:** The U.S. led with **$10.9B** (83% global share); Europe, Israel, and Asia contributed significant, but smaller, amounts.
   
-## Specialists ("Pure Play") vs. Multiservice Cybersecurity
+## [↑]Specialists ("Pure Play") vs. Multiservice Cybersecurity
 
 This list categorizes companies into two main types, reflecting how cybersecurity aligns with their overall business model:
 
