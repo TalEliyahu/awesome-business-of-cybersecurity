@@ -205,6 +205,9 @@ Explore resources that offer insights into the business, strategy, and trends sh
 - **[CyberSeek Interactive Heatmap](https://www.cyberseek.org/heatmap.html)**  
   Visualizes supply, demand, and career pathways in the cybersecurity job market.
 
+- **[Solganick: Cybersecurity M&A Update Q4 2024 + 2025 Outlook](https://solganick.com/wp-content/uploads/2025/01/Solganick-Cybersecurity-Mergers-Update-Q4-2024.pdf)**  
+  Covers Q4 2024 mergers and acquisitions activity in cybersecurity with insights into 2025 trends and strategic 
+
 ---
 
 ## [↑](#table-of-contents)Cybersecurity Solutions Categories
