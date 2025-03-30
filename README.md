@@ -1,6 +1,5 @@
-# Awesome Cybersecurity Stocks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
->A curated list of publicly traded cybersecurity companies, organized by their core solutions and specialized domains. This resource is designed for investors, professionals, and enthusiasts looking to explore and analyze the diverse landscape of the cybersecurity market, encompassing 18 distinct solution categories and AI-driven offerings to address a wide range of security challenges.
-
+# Awesome Business of Cybersecurity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+> A resource exploring the cybersecurity market with a focus on publicly traded companies, industry strategy, and AI capabilities. Organized by core solutions and specialized domains, it offers a structured way to analyze how cybersecurity companies operate, compete, and evolve across 18 solution categories and beyond.
 ---
 
 ## Table of Contents
