@@ -14,7 +14,7 @@
   - [Security Analytics and Threat Intelligence](#security-analytics-and-threat-intelligence)
 - [Non-US Traded Cybersecurity Companies](#non-us-traded-cybersecurity-companies)
 - [Cybersecurity ETFs](#cybersecurity-etfs)
-- [Business of Cybersecurity](#business-of-cybersecurity)
+- [Cybersecurity Business Intelligence](#cybersecurity-business-intelligence)
   - [Blogs and Newsletters](#blogs-and-newsletters)
   - [Podcasts](#podcasts)
   - [Market Insights and Research](#market-insights-and-research)
@@ -147,7 +147,7 @@ These exchange-traded funds invest in diversified portfolios of companies operat
 
 ---
 
-## [↑](#table-of-contents)Business of Cybersecurity
+## [↑](#table-of-contents) Cybersecurity Business Intelligence
 
 Explore resources that offer insights into the business, strategy, and trends shaping the cybersecurity industry. These blogs, newsletters, reports, and podcasts provide valuable perspectives for professionals, founders, and investors looking to deepen their understanding of this dynamic field.
 
