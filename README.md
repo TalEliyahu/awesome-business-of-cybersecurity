@@ -1,5 +1,5 @@
 # Awesome Business of Cybersecurity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> A resource exploring the cybersecurity market with a focus on publicly traded companies, industry strategy, and AI capabilities. Organized by core solutions and specialized domains, it offers a structured way to analyze how cybersecurity companies operate, compete, and evolve across 18 solution categories and beyond.
+> Exploring the cybersecurity market with a focus on publicly traded companies, industry strategy, and AI capabilities. Organized by core solutions and specialized domains, it offers a structured way to analyze how cybersecurity companies operate, compete, and evolve across 18 solution categories and beyond.
 ---
 
 ## Table of Contents
