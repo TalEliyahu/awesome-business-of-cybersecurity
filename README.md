@@ -208,6 +208,8 @@ Explore resources that offer insights into the business, strategy, and trends sh
 - **[Cybersecurity M&A Update: Q4 2024 + 2025 Outlook](https://solganick.com/wp-content/uploads/2025/01/Solganick-Cybersecurity-Mergers-Update-Q4-2024.pdf)**  
   Covers Q4 2024 mergers and acquisitions activity in cybersecurity, with insights from Solganick into 2025 trends and strategic outlooks.
 
+- **[Cybersecurity Industry Reports](https://pinpointsearchgroup.com/cybersecurity-industry-reports/)**  
+  Publishes monthly and quarterly reports on cybersecurity vendor funding, M&A activity, and IPOs. Tracks early-stage investment trends, market segments, and lead investors across domains like automation, GRC, detection/response, and quantum.
 ---
 
 ## [↑](#table-of-contents)Cybersecurity Solutions Categories
