@@ -14,6 +14,7 @@
   - [Security Analytics and Threat Intelligence](#security-analytics-and-threat-intelligence)
 - [Non-US Traded Cybersecurity Companies](#non-us-traded-cybersecurity-companies)
 - [Cybersecurity ETFs](#cybersecurity-etfs)
+- [Key Cybersecurity Startup Competitions](#key-cybersecurity-startup-competitions)
 - [Business Intelligence](#business-intelligence)
   - [Blogs and Newsletters](#blogs-and-newsletters)
   - [Podcasts](#podcasts)
@@ -144,6 +145,19 @@ These exchange-traded funds invest in diversified portfolios of companies operat
 | [Amplify Cybersecurity ETF](https://www.amplifyetfs.com/hack)            | [$HACK](https://finance.yahoo.com/quote/HACK)  | Tracks the Prime Cyber Defense Index, focusing on companies directly involved in the cybersecurity industry.                                                             | 23.3%                 | $1.94 billion    |
 | [First Trust NASDAQ Cybersecurity ETF](https://www.ftportfolios.com/retail/etf/EtfSummary.aspx?Ticker=CIBR) | [$CIBR](https://finance.yahoo.com/quote/CIBR) | Aims to match the Nasdaq CTA Cybersecurity Index™, targeting cybersecurity-focused tech and industrials firms.                                                            | 18.2%                 | $7.53 billion    |
 | [Global X Cybersecurity ETF](https://www.globalxetfs.com/funds/bug/)           | [$BUG](https://finance.yahoo.com/quote/BUG)   | Invests in companies benefiting from cybersecurity tech adoption, specifically those developing/managing security protocols to prevent intrusions/attacks.              | 9.6%                  | $823.43 million  |
+
+---
+
+### [↑](#table-of-contents)Key Cybersecurity Startup Competitions <a name="key-cybersecurity-startup-competitions"></a>
+
+Cybersecurity startup competitions like RSA Innovation Sandbox, Black Hat Startup Spotlight, and GISEC Cyber Stars are more than just exposure — they’re credibility accelerators. Finalists often go on to raise significant capital, secure design partners, and attract top-tier talent. For practical tips on how to stand out, see: [How to Pitch at RSA, Black Hat, and GISEC Cyber Stars](https://gist.github.com/TalEliyahu/0fe9e775940b6921073f2b71c2a214f7)
+
+- **[RSA Innovation Sandbox](https://www.rsaconference.com/rsac-programs/innovation/innovation-sandbox)** — San Francisco, USA  
+- **[Black Hat Startup Spotlight](https://www.blackhat.com/us-25/spotlight.html)** — Las Vegas, USA  
+- **[GISEC Cyber Stars](https://www.gisec.ae/cyberstars)** — Dubai, UAE  
+- **[SC Awards](https://www.scworld.com/sc-awards)** — US / Europe  
+- **[ECSO STARtup Award](https://ecs-org.eu/activities/european-cybersecurity-startup-award/)** — Europe  
+- **[Cybersecurity Excellence Awards](https://cybersecurity-excellence-awards.com/)** — Global (Virtual)
 
 ---
 
