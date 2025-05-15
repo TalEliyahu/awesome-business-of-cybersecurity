@@ -150,7 +150,7 @@ These exchange-traded funds invest in diversified portfolios of companies operat
 
 ### [↑](#table-of-contents)Key Cybersecurity Startup Competitions <a name="key-cybersecurity-startup-competitions"></a>
 
-Cybersecurity startup competitions like RSA Innovation Sandbox, Black Hat Startup Spotlight, and GISEC Cyber Stars are more than just exposure — they’re credibility accelerators. Finalists often go on to raise significant capital, secure design partners, and attract top-tier talent. For practical tips on how to stand out, see: [How to Pitch at RSA, Black Hat, and GISEC Cyber Stars](https://gist.github.com/TalEliyahu/0fe9e775940b6921073f2b71c2a214f7)
+Cybersecurity startup competitions like RSA Innovation Sandbox, Black Hat Startup Spotlight, and GISEC Cyber Stars are more than just exposure — they’re credibility accelerators. Finalists often go on to raise significant capital, secure design partners, and attract top-tier talent. For practical tips on how to stand out, see: [How to Pitch at RSA, Black Hat, and GISEC Cyber Stars](https://www.linkedin.com/pulse/how-win-cybersecurity-oscar-tal-eliyahu-aobec/)
 
 - **[RSA Innovation Sandbox](https://www.rsaconference.com/rsac-programs/innovation/innovation-sandbox)** — San Francisco, USA  
 - **[Black Hat Startup Spotlight](https://www.blackhat.com/us-25/spotlight.html)** — Las Vegas, USA  
@@ -407,7 +407,7 @@ This section outlines 18 distinct cybersecurity solution categories, each suppor
 
 ## [↑](#table-of-contents)Contact
 
-- **Email**: [tal.eliyahu@owasp.org](mailto:tal.eliyahu@owasp.org)
+- **Email**: [tal.eliyahu@innovguard.com](mailto:tal.eliyahu@innovguard.com)
 - **LinkedIn**: [Tal Eliyahu](https://www.linkedin.com/in/adgnj)
 - **Twitter**: [@Eliyahu_Tal_](https://x.com/Eliyahu_Tal_)
 
