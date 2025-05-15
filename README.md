@@ -41,7 +41,75 @@ This list categorizes companies into two main types, reflecting how cybersecurit
 - **🌐 Multiservice**: Offer cybersecurity as part of a broader range of technology solutions, such as networking, cloud services, or application delivery.
 
 > **Exclusion**: Tech giants like Microsoft or AWS are not included, as cybersecurity is just one part of their diverse operations. Additionally, this list does not include micro-cap or low-cap stocks to ensure focus on established companies and ETFs with significant market presence.
+
 ---
+
+## [↑](#table-of-contents)Business Intelligence
+
+Explore resources that offer insights into the business, strategy, and trends shaping the cybersecurity industry. These blogs, newsletters, reports, and podcasts provide valuable perspectives for professionals, founders, and investors looking to deepen their understanding of this dynamic field.
+
+### [↑](#table-of-contents)Blogs and Newsletters
+
+- **[Venture in Security](https://ventureinsecurity.substack.com/)**  
+  [Ross Haleliuk](https://x.com/rosshaleliuk) explores the business of cybersecurity, focusing on the ecosystem, players, angel investing, venture capital, go-to-market strategies, and product-led growth.
+
+- **[Strategy of Security](https://strategyofsecurity.com)**  
+  [Cole Grolmus](https://x.com/colegrolmus) analyzes the business and strategy of cybersecurity, covering trends, companies, products, and case studies relevant to cybersecurity leaders and operators.
+
+- **[Anton on Security](https://chuvakin.blogspot.com/)**  
+  [Dr. Anton Chuvakin](https://x.com/anton_chuvakin) shares analysis on market sub-segments, with a focus on log management and emerging cybersecurity challenges.
+
+- **[Return on Security](https://www.returnonsecurity.com/)**  
+  [Mike Privette](https://x.com/mikepsecuritee) provides insights on security trends, a weekly newsletter about cybersecurity investments, and product trend reports.
+
+- **[SecMoves](https://www.linkedin.com/newsletters/secmoves-6890336717535006720/)**  
+  [Karl Sharman](https://www.linkedin.com/in/karl-sharmancybersecurity/), [Forgepoint Capital](https://forgepointcap.com/), tracks the latest talent shifts, funding rounds, acquisitions, and job opportunities across the cybersecurity industry.  
+
+### [↑](#table-of-contents)Podcasts
+
+- **[The Cyber Brain](https://cyberbrain.cybersynapse.io/)**  
+  Weekly conversations with tech buyers on motivations, challenges, and strategies for cybersecurity marketers and founders.
+
+- **[Hacker Valley](https://hackervalley.com/podcast)**  
+  Features discussions with cybersecurity marketers about effective go-to-market strategies and lessons from successes and failures.
+
+### [↑](#table-of-contents)Market Insights and Research
+
+- **[Awesome Cybersecurity Stocks Watchlist](https://www.tradingview.com/watchlists/55536943/)**  
+  A curated list of publicly traded cybersecurity companies.
+
+- **[Cybersecurity Ventures](https://cybersecurityventures.com/)**  
+  Research and reports on cybercrime and market trends.
+
+- **[Momentum Cyber](https://momentumcyber.com/news/)**  
+  Industry reports, news, and insights on mergers, acquisitions, and market movements in cybersecurity.
+
+- **[Statista: Global Cybersecurity Spending Forecast](https://www.statista.com/statistics/991304/worldwide-cybersecurity-spending/)**  
+  Shows current and projected spending in the cybersecurity market.
+
+- **[CB Insights: Cybersecurity Reports](https://www.cbinsights.com/research/cybersecurity/)**  
+  Offers data-driven insights on the cybersecurity market.
+
+- **[TechCrunch: Cybersecurity](https://techcrunch.com/tag/cybersecurity/)**  
+  Provides updates on startup news, market trends, and developments within the cybersecurity industry.
+  
+- **[Forrester: Cybersecurity Trends](https://www.forrester.com/blogs/category/cybersecurity/)**  
+  Insights on cybersecurity strategies, technologies, and market trends from industry experts.
+
+- **[Gartner: Cybersecurity Trends](https://www.gartner.com/en/cybersecurity/topics/cybersecurity-trends)**  
+  Research on emerging challenges, solutions, and strategic insights shaping the cybersecurity landscape.
+
+- **[CyberSeek Interactive Heatmap](https://www.cyberseek.org/heatmap.html)**  
+  Visualizes supply, demand, and career pathways in the cybersecurity job market.
+
+- **[Solganick: Cybersecurity and Tech M&A Reports](https://solganick.com/category/quarterly-update/)**  
+  Quarterly reports covering M&A activity in cybersecurity, cloud, AI, and IT services. Includes deal volume, valuation multiples, sector breakdowns, strategic buyer trends, and forward-looking outlooks. Useful for tracking consolidation patterns, acquisition themes, and investment momentum across enterprise tech.
+
+- **[Pinpoint Search Group: Cybersecurity Industry Reports](https://pinpointsearchgroup.com/cybersecurity-industry-reports/)**  
+  Publishes monthly and quarterly reports on cybersecurity vendor funding, M&A activity, and IPOs. Tracks early-stage investment trends, market segments, and lead investors across domains like automation, GRC, detection/response, and quantum.
+
+---
+
 
 ## Cybersecurity Stock Lists **([*TradingView* 📈](https://www.tradingview.com/watchlists/55536943/))** <a name="cybersecurity-stock-lists"></a>
 
@@ -159,73 +227,6 @@ Cybersecurity startup competitions like RSA Innovation Sandbox, Black Hat Startu
 - **[ECSO STARtup Award](https://ecs-org.eu/activities/european-cybersecurity-startup-award/)** — Europe  
 - **[Cybersecurity Excellence Awards](https://cybersecurity-excellence-awards.com/)** — Global (Virtual)
 
----
-
-## [↑](#table-of-contents)Business Intelligence
-
-Explore resources that offer insights into the business, strategy, and trends shaping the cybersecurity industry. These blogs, newsletters, reports, and podcasts provide valuable perspectives for professionals, founders, and investors looking to deepen their understanding of this dynamic field.
-
-### [↑](#table-of-contents)Blogs and Newsletters
-
-- **[Venture in Security](https://ventureinsecurity.substack.com/)**  
-  [Ross Haleliuk](https://x.com/rosshaleliuk) explores the business of cybersecurity, focusing on the ecosystem, players, angel investing, venture capital, go-to-market strategies, and product-led growth.
-
-- **[Strategy of Security](https://strategyofsecurity.com)**  
-  [Cole Grolmus](https://x.com/colegrolmus) analyzes the business and strategy of cybersecurity, covering trends, companies, products, and case studies relevant to cybersecurity leaders and operators.
-
-- **[Anton on Security](https://chuvakin.blogspot.com/)**  
-  [Dr. Anton Chuvakin](https://x.com/anton_chuvakin) shares analysis on market sub-segments, with a focus on log management and emerging cybersecurity challenges.
-
-- **[Return on Security](https://www.returnonsecurity.com/)**  
-  [Mike Privette](https://x.com/mikepsecuritee) provides insights on security trends, a weekly newsletter about cybersecurity investments, and product trend reports.
-
-- **[SecMoves](https://www.linkedin.com/newsletters/secmoves-6890336717535006720/)**  
-  [Karl Sharman](https://www.linkedin.com/in/karl-sharmancybersecurity/), [Forgepoint Capital](https://forgepointcap.com/), tracks the latest talent shifts, funding rounds, acquisitions, and job opportunities across the cybersecurity industry.  
-
-### [↑](#table-of-contents)Podcasts
-
-- **[The Cyber Brain](https://cyberbrain.cybersynapse.io/)**  
-  Weekly conversations with tech buyers on motivations, challenges, and strategies for cybersecurity marketers and founders.
-
-- **[Hacker Valley](https://hackervalley.com/podcast)**  
-  Features discussions with cybersecurity marketers about effective go-to-market strategies and lessons from successes and failures.
-
-### [↑](#table-of-contents)Market Insights and Research
-
-- **[Awesome Cybersecurity Stocks Watchlist](https://www.tradingview.com/watchlists/55536943/)**  
-  A curated list of publicly traded cybersecurity companies.
-
-- **[Cybersecurity Ventures](https://cybersecurityventures.com/)**  
-  Research and reports on cybercrime and market trends.
-
-- **[Momentum Cyber](https://momentumcyber.com/news/)**  
-  Industry reports, news, and insights on mergers, acquisitions, and market movements in cybersecurity.
-
-- **[Statista: Global Cybersecurity Spending Forecast](https://www.statista.com/statistics/991304/worldwide-cybersecurity-spending/)**  
-  Shows current and projected spending in the cybersecurity market.
-
-- **[CB Insights: Cybersecurity Reports](https://www.cbinsights.com/research/cybersecurity/)**  
-  Offers data-driven insights on the cybersecurity market.
-
-- **[TechCrunch: Cybersecurity](https://techcrunch.com/tag/cybersecurity/)**  
-  Provides updates on startup news, market trends, and developments within the cybersecurity industry.
-  
-- **[Forrester: Cybersecurity Trends](https://www.forrester.com/blogs/category/cybersecurity/)**  
-  Insights on cybersecurity strategies, technologies, and market trends from industry experts.
-
-- **[Gartner: Cybersecurity Trends](https://www.gartner.com/en/cybersecurity/topics/cybersecurity-trends)**  
-  Research on emerging challenges, solutions, and strategic insights shaping the cybersecurity landscape.
-
-- **[CyberSeek Interactive Heatmap](https://www.cyberseek.org/heatmap.html)**  
-  Visualizes supply, demand, and career pathways in the cybersecurity job market.
-
-- **[Solganick: Cybersecurity and Tech M&A Reports](https://solganick.com/category/quarterly-update/)**  
-  Quarterly reports covering M&A activity in cybersecurity, cloud, AI, and IT services. Includes deal volume, valuation multiples, sector breakdowns, strategic buyer trends, and forward-looking outlooks. Useful for tracking consolidation patterns, acquisition themes, and investment momentum across enterprise tech.
-
-- **[Pinpoint Search Group: Cybersecurity Industry Reports](https://pinpointsearchgroup.com/cybersecurity-industry-reports/)**  
-  Publishes monthly and quarterly reports on cybersecurity vendor funding, M&A activity, and IPOs. Tracks early-stage investment trends, market segments, and lead investors across domains like automation, GRC, detection/response, and quantum.
-
-  
 ---
 
 ## [↑](#table-of-contents)Cybersecurity Solutions Categories
