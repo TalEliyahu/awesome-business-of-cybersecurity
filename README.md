@@ -118,7 +118,8 @@ Cybersecurity startup competitions like RSA Innovation Sandbox, Black Hat Startu
 - **[Black Hat Startup Spotlight](https://www.blackhat.com/us-25/spotlight.html)** — Las Vegas, USA  
 - **[GISEC Cyber Stars](https://www.gisec.ae/cyberstars)** — Dubai, UAE  
 - **[SC Awards](https://www.scworld.com/sc-awards)** — US / Europe  
-- **[ECSO STARtup Award](https://ecs-org.eu/activities/european-cybersecurity-startup-award/)** — Europe  
+- **[ECSO STARtup Award](https://ecs-org.eu/activities/european-cybersecurity-startup-award/)** — Europe
+- **[National Cyber Awards](https://thenationalcyberawards.org/apply-nominate/)** — UK 
 - **[Cybersecurity Excellence Awards](https://cybersecurity-excellence-awards.com/)** — Global (Virtual)
 
 ---
