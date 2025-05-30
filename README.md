@@ -118,18 +118,22 @@ Explore resources that offer insights into the business, strategy, and trends sh
 
 These firms are among the most active and influential investors in the cybersecurity space. Their portfolios and track records help shape the future of security innovation, often backing the industry's most successful startups.
 
-| VC Firm                  | Portfolio Startups                                                                 |
-|--------------------------|-------------------------------------------------------------------------------------|
-| **Sequoia Capital**      | Wiz, FireEye, Netskope, Carbon Black, Confluera                                     |
-| **Index Ventures**       | Wiz, Robin AI, DeepScribe                                                           |
-| **Cyberstarts**          | Wiz, Island, Fireblocks, Akeyless, Cycode                                          |
-| **Forgepoint Capital**   | Arctic Wolf, Pentera, ReversingLabs, Bishop Fox, Cysiv                             |
-| **TenEleven Ventures**   | Darktrace, Cylance, Verodin, Nozomi Networks, Dragos, BitSight                     |
-| **NightDragon**          | Illumio, Arctic Wolf, SafeGuard Cyber, iboss, vArmour                              |
-| **Evolution Equity**     | Snyk, SecurityScorecard, Cado Security, Quantexa, Logpoint                         |
-| **YL Ventures**          | Axonius, Orca Security, Grip Security, Hunters.ai, Cycode                          |
-| **Paladin Capital Group**| Digital Shadows, Expel, RiskLens, Panaseer, IronNet                                |
-| **Sapphire Ventures**    | Auth0, Ping Identity, SentinelOne, Exabeam, StackHawk                              |
+### [↑](#table-of-contents)Top Cybersecurity Investors <a name="top-cybersecurity-investors"></a>
+
+These firms are among the most active and influential investors in the cybersecurity space. Their portfolios and track records help shape the future of security innovation, often backing the industry's most successful startups.
+
+| Firm                     | HQ Location       | VC Investments | Median Deal Size | VC-Backed Exits | Select Portfolio Companies                    |
+|--------------------------|-------------------|----------------|------------------|------------------|------------------------------------------------|
+| **Insight Partners**     | New York           | 92             | $56M             | 13               | Wiz, Island, Veeam                             |
+| **Sequoia Capital**      | Menlo Park, CA     | 86             | $37.1M           | 6                | Armis, Chainguard, Cyera                       |
+| **Accel**                | Palo Alto          | 70             | $50M             | 13               | Snyk, 1Password, Crowdstrike                   |
+| **Ten Eleven Ventures**  | Burlingame, CA     | 60             | $17.3M           | 13               | Ping Identity, Harmonic, Barracuda             |
+| **Andreessen Horowitz**  | Menlo Park, CA     | 55             | $29M             | 7                | EigenLayer, Doppel, Cygnvs                     |
+| **Lightspeed**           | Menlo Park, CA     | 55             | $50.8M           | 10               | Wiz, Endor Labs, Rubrik, Arctic Wolf           |
+| **Bessemer Venture**     | Redwood City, CA   | 55             | $40M             | 11               | Clarity, Unframe AI, Torq                      |
+| **Alumni Ventures**      | Manchester, NH     | 54             | $8.4M            | 5                | Lacework, Elastio, Akto                        |
+| **Gaingels**             | Burlington, VT     | 51             | $7M              | 6                | Jericho, AttackIQ, Corelight                   |
+| **Forgepoint Capital**   | San Mateo, CA      | 49             | $19M             | 13               | Huntress, Cyberhaven, Sphere                   |
 
 ---
 
