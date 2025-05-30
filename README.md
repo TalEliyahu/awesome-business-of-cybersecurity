@@ -118,7 +118,7 @@ Explore resources that offer insights into the business, strategy, and trends sh
 
 These firms are among the most active and influential investors in the cybersecurity space. Their portfolios and track records help shape the future of security innovation, often backing the industry's most successful startups.
 
-| Firm                     | HQ Location       | VC Investments | Median Deal Size | VC-Backed Exits | Select Portfolio Companies                    |
+| Firm                     | HQ Location       |  Investments | Median Deal Size | Exits | Select Portfolio Companies                    |
 |--------------------------|-------------------|----------------|------------------|------------------|------------------------------------------------|
 | **Insight Partners**     | New York           | 92             | $56M             | 13               | Wiz, Island, Veeam                             |
 | **Sequoia Capital**      | Menlo Park, CA     | 86             | $37.1M           | 6                | Armis, Chainguard, Cyera                       |
