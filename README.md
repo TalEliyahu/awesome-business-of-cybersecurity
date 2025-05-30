@@ -108,6 +108,9 @@ Explore resources that offer insights into the business, strategy, and trends sh
 - **[Pinpoint Search Group: Cybersecurity Industry Reports](https://pinpointsearchgroup.com/cybersecurity-industry-reports/)**  
   Publishes monthly and quarterly reports on cybersecurity vendor funding, M&A activity, and IPOs. Tracks early-stage investment trends, market segments, and lead investors across domains like automation, GRC, detection/response, and quantum.
 
+- **[Cybersecurity Pitch Deck Examples](https://bestpitchdeck.com/cybersecurity/)**  
+  A collection of pitch deck examples from startups.
+  
 ---
 
 ### [↑](#table-of-contents)Key Cybersecurity Startup Competitions <a name="key-cybersecurity-startup-competitions"></a>
