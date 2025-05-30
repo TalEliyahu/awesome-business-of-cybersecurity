@@ -118,10 +118,6 @@ Explore resources that offer insights into the business, strategy, and trends sh
 
 These firms are among the most active and influential investors in the cybersecurity space. Their portfolios and track records help shape the future of security innovation, often backing the industry's most successful startups.
 
-### [↑](#table-of-contents)Top Cybersecurity Investors <a name="top-cybersecurity-investors"></a>
-
-These firms are among the most active and influential investors in the cybersecurity space. Their portfolios and track records help shape the future of security innovation, often backing the industry's most successful startups.
-
 | Firm                     | HQ Location       | VC Investments | Median Deal Size | VC-Backed Exits | Select Portfolio Companies                    |
 |--------------------------|-------------------|----------------|------------------|------------------|------------------------------------------------|
 | **Insight Partners**     | New York           | 92             | $56M             | 13               | Wiz, Island, Veeam                             |
