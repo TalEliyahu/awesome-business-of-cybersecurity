@@ -9,6 +9,7 @@
   - [Blogs and Newsletters](#blogs-and-newsletters)
   - [Podcasts](#podcasts)
   - [Market Insights and Research](#market-insights-and-research)
+  - [Top Cybersecurity Investors](#top-cybersecurity-investors)
 - [Key Cybersecurity Startup Competitions](#key-cybersecurity-startup-competitions)
 - [Cybersecurity Stock Lists](#cybersecurity-stock-lists)
   - [Endpoint Protection and Threat Detection](#endpoint-protection-and-threat-detection)
@@ -111,6 +112,25 @@ Explore resources that offer insights into the business, strategy, and trends sh
 - **[Cybersecurity Pitch Deck Examples](https://bestpitchdeck.com/cybersecurity/)**  
   A collection of pitch deck examples from startups.
   
+---
+
+### [↑](#table-of-contents)Top Cybersecurity Investors <a name="top-cybersecurity-investors"></a>
+
+These firms are among the most active and influential investors in the cybersecurity space. Their portfolios and track records help shape the future of security innovation, often backing the industry's most successful startups.
+
+| VC Firm                  | Portfolio Startups                                                                 |
+|--------------------------|-------------------------------------------------------------------------------------|
+| **Sequoia Capital**      | Wiz, FireEye, Netskope, Carbon Black, Confluera                                     |
+| **Index Ventures**       | Wiz, Robin AI, DeepScribe                                                           |
+| **Cyberstarts**          | Wiz, Island, Fireblocks, Akeyless, Cycode                                          |
+| **Forgepoint Capital**   | Arctic Wolf, Pentera, ReversingLabs, Bishop Fox, Cysiv                             |
+| **TenEleven Ventures**   | Darktrace, Cylance, Verodin, Nozomi Networks, Dragos, BitSight                     |
+| **NightDragon**          | Illumio, Arctic Wolf, SafeGuard Cyber, iboss, vArmour                              |
+| **Evolution Equity**     | Snyk, SecurityScorecard, Cado Security, Quantexa, Logpoint                         |
+| **YL Ventures**          | Axonius, Orca Security, Grip Security, Hunters.ai, Cycode                          |
+| **Paladin Capital Group**| Digital Shadows, Expel, RiskLens, Panaseer, IronNet                                |
+| **Sapphire Ventures**    | Auth0, Ping Identity, SentinelOne, Exabeam, StackHawk                              |
+
 ---
 
 ### [↑](#table-of-contents)Key Cybersecurity Startup Competitions <a name="key-cybersecurity-startup-competitions"></a>
