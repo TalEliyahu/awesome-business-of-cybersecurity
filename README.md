@@ -253,7 +253,9 @@ These exchange-traded funds invest in diversified portfolios of companies operat
 ---
 
 ## [↑](#table-of-contents)Cybersecurity Solutions Categories
-This section outlines 18 distinct cybersecurity solution categories, each supported by real-world vendor examples and AI-driven offerings to address diverse security challenges.
+This section outlines 18 cybersecurity solution categories, each supported by real-world vendor examples and AI-driven offerings to address diverse security challenges. [Maturity models](https://github.com/TalEliyahu/awesome-CISO-maturity-models) often used by security engineering teams help measure and track how capabilities across these categories are structured and scaled in organizations.
+
+
 
 ### **1. Network Security** <a name="network-security"></a> ![NetSec](https://img.shields.io/badge/NetSec-blue.svg)
 
