@@ -1,9 +1,10 @@
 # Awesome Business of Cybersecurity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > Exploring the cybersecurity market with a focus on publicly traded companies, industry strategy, and AI capabilities. Organized by core solutions and specialized domains, it offers a structured way to analyze how cybersecurity companies operate, compete, and evolve across 18 solution categories and beyond.
+
 ---
 
 ## Table of Contents
-- [2024 Cybersecurity Market Snapshot](#2024-cybersecurity-market-snapshot)
+- [2025 Cybersecurity Market Snapshot](#2025-cybersecurity-market-snapshot)
 - [Specialists ("Pure Play") vs. Multiservice Cybersecurity](#specialists-pure-play-vs-multiservice-cybersecurity)
 - [Business Intelligence](#business-intelligence)
   - [Blogs and Newsletters](#blogs-and-newsletters)
@@ -25,15 +26,17 @@
 - [License](#license)
 
 ---
-<a name="2024-cybersecurity-market-snapshot"></a>
-## 2024 Cybersecurity Market Snapshot [![Report](https://img.shields.io/badge/Report-Return%20on%20Security-blue.svg)](https://www.returnonsecurity.com/p/the-state-of-the-cybersecurity-market-in-2024)
+<a name="2025-cybersecurity-market-snapshot"></a>
+## 2025 Cybersecurity Market Snapshot [![Report](https://img.shields.io/badge/Report-Return%20on%20Security-blue.svg)](https://www.returnonsecurity.com/)
 
-- **4% Increase in Funding:** Total funding reached **$14B** across 621 rounds.
-- **M&A Activity:** 271 transactions completed, valued at $45.7B.
-- **AI-Focused Investments:** Grew by **96% YoY** (from ~$181.5M in 2023 to **$369.9M** in 2024). Notably, seed-stage funding surged by **226%**, and pre-seed AI deals increased from 6.69% to **16.5%** of all pre-seed rounds.
-- **Business Model Trends:** Product-based companies dominated funding (**88%** of total, **$12.3B**), while service/hybrid models are gaining traction.
-- **Geographical Distribution:** The U.S. led with **$10.9B** (83% global share); Europe, Israel, and Asia contributed significant, but smaller, amounts.
-  
+- **Funding Recovery:** Cybersecurity companies raised **$25.1B** across **743 deals** in 2025, up **59%** from 2024.
+- **M&A Activity:** The market recorded **$76.4B** across **320 deals**, led by Google’s **$32B** acquisition of Wiz, the largest deal in industry history.
+- **Capital Concentration:** **48 mega-rounds** of **$100M+** captured **65%** of all cybersecurity funding in 2025.
+- **AI Security Reality Check:** Despite the hype, **AI Security accounted for just 2.6% of total cybersecurity funding** in 2025, reaching about **$661M** and remaining outside the top 10 funding categories.
+- **Geographic Concentration:** The **U.S. and Israel absorbed 91%** of global cybersecurity funding. The U.S. reached **$18.5B**, Israel **$2.5B**, and Europe **$1.33B**.
+- **Public Market Performance:** Only **5 of 14** pure-play cybersecurity stocks finished 2025 in positive territory, while the **Return on Security Cyber Index returned -6.5%**.
+- **Market Structure Shift:** 2025 highlighted **“The Great Bundling”** - cyber companies buying IT, IT companies buying cyber, and adjacent industrial players entering security through acquisition.
+
 ## Specialists ("Pure Play") vs. Multiservice Cybersecurity
 
 This list categorizes companies into two main types, reflecting how cybersecurity aligns with their overall business model:
