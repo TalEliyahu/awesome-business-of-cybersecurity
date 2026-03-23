@@ -243,7 +243,7 @@ These exchange-traded funds invest in diversified portfolios of companies operat
 | ETF Name | Ticker | Description | Total Return for 2025 | AUM (USD) |
 |--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|------------------|
 | [Amplify Cybersecurity ETF](https://www.amplifyetfs.com/hack) | [$HACK](https://finance.yahoo.com/quote/HACK) | Tracks the Nasdaq ISE Cyber Security™ Select Index, focusing on companies directly involved in the cybersecurity industry. | 8.0% | $1.93 billion |
-| [First Trust NASDAQ Cybersecurity ETF](https://www.ftportfolios.com/retail/etf/EtfSummary.aspx?Ticker=CIBR) | [$CIBR](https://finance.yahoo.com/quote/CIBR) | Aims to match the Nasdaq CTA Cybersecurity Index™, targeting cybersecurity-focused tech and industrials firms. | 13.1% | $9.55 billion |
+| [First Trust Nasdaq Cybersecurity ETF](https://www.ftportfolios.com/retail/etf/EtfSummary.aspx?Ticker=CIBR) | [$CIBR](https://finance.yahoo.com/quote/CIBR) | Aims to match the Nasdaq CTA Cybersecurity Index™, targeting cybersecurity-focused tech and industrials firms. | 13.1% | $9.55 billion |
 | [Global X Cybersecurity ETF](https://www.globalxetfs.com/funds/bug/) | [$BUG](https://finance.yahoo.com/quote/BUG) | Invests in companies benefiting from cybersecurity tech adoption, specifically those developing/managing security protocols to prevent intrusions and attacks. | -5.19% | $820.37 million |
 
 ---
