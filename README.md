@@ -119,20 +119,20 @@ Explore resources that offer insights into the business, strategy, and trends sh
 
 ### [↑](#table-of-contents)Top Cybersecurity Investors <a name="top-cybersecurity-investors"></a>
 
-These firms are among the most active and influential investors in the cybersecurity space. Their portfolios and track records help shape the future of security innovation, often backing the industry's most successful startups.
+These firms are among the most active and influential investors in the cybersecurity space. Their portfolios and track records help shape the future of security innovation, often backing many of the industry's most successful startups.
 
-| Firm                     | HQ Location       |  Investments | Median Deal Size | Exits | Select Portfolio Companies                    |
-|--------------------------|-------------------|----------------|------------------|------------------|------------------------------------------------|
-| **Insight Partners**     | New York           | 92             | $56M             | 13               | Wiz, Island, Veeam                             |
-| **Sequoia Capital**      | Menlo Park, CA     | 86             | $37.1M           | 6                | Armis, Chainguard, Cyera                       |
-| **Accel**                | Palo Alto          | 70             | $50M             | 13               | Snyk, 1Password, Crowdstrike                   |
-| **Ten Eleven Ventures**  | Burlingame, CA     | 60             | $17.3M           | 13               | Ping Identity, Harmonic, Barracuda             |
-| **Andreessen Horowitz**  | Menlo Park, CA     | 55             | $29M             | 7                | EigenLayer, Doppel, Cygnvs                     |
-| **Lightspeed**           | Menlo Park, CA     | 55             | $50.8M           | 10               | Wiz, Endor Labs, Rubrik, Arctic Wolf           |
-| **Bessemer Venture**     | Redwood City, CA   | 55             | $40M             | 11               | Clarity, Unframe AI, Torq                      |
-| **Alumni Ventures**      | Manchester, NH     | 54             | $8.4M            | 5                | Lacework, Elastio, Akto                        |
-| **Gaingels**             | Burlington, VT     | 51             | $7M              | 6                | Jericho, AttackIQ, Corelight                   |
-| **Forgepoint Capital**   | San Mateo, CA      | 49             | $19M             | 13               | Huntress, Cyberhaven, Sphere                   |
+| Firm | HQ Location | Investments | Median Deal Size | Backed Exits | Select Portfolio Companies |
+|------|-------------|------------:|-----------------:|-------------:|----------------------------|
+| **Insight Partners** | New York | 92 | $56M | 13 | Mate Security, Abnormal AI, Torq |
+| **Sequoia Capital** | Menlo Park, CA | 86 | $37.1M | 6 | Kela, Irregular, Island |
+| **Accel** | Palo Alto | 70 | $50M | 13 | Prophet Security, Legion, Vega |
+| **Ten Eleven Ventures** | Burlingame, CA | 60 | $17.3M | 13 | VulnCheck, Guardare, HiddenLayer |
+| **Andreessen Horowitz** | Menlo Park, CA | 55 | $29M | 7 | Material Security, Wiz, Yubico |
+| **Lightspeed** | Menlo Park, CA | 55 | $50.8M | 10 | Virtue AI, Wiz, Axonius |
+| **Bessemer Venture** | Redwood City, CA | 55 | $40M | 11 | Doppel, Eye Security, Torq |
+| **Alumni Ventures** | Manchester, NH | 54 | $8.4M | 5 | Lacework, Elastio, Akto |
+| **Gaingels** | Burlington, VT | 51 | $7M | 6 | Jericho, AttackIQ, Corelight |
+| **Forgepoint Capital** | San Mateo, CA | 49 | $19M | 13 | Huntress, Cyberhaven, SPHERE |
 
 ---
 
@@ -158,6 +158,7 @@ Secures devices such as laptops, mobile devices, and servers from threats like m
 |-------------|---------|---------|-------------------------------|
 | **[CrowdStrike](https://ir.crowdstrike.com/)** <br> - [Stock Info](https://finance.yahoo.com/quote/CRWD) • [SEC Filing](https://www.sec.gov/edgar/browse/?CIK=0001535527) • [Earning Transcripts](https://seekingalpha.com/symbol/CRWD/earnings/transcripts) • [More](https://www.crowdstrike.com/blog/) 🎯 | [@CrowdStrike](https://twitter.com/CrowdStrike) &#124; [$CRWD](https://twitter.com/search?q=%24CRWD) | [![Endpoint](https://img.shields.io/badge/Endpoint-green.svg)](#endpoint-protection-and-threat-detection) [![ThreatIntel](https://img.shields.io/badge/ThreatIntel-navy.svg)](#threat-intelligence) [![IDR](https://img.shields.io/badge/IDR-crimson.svg)](#incident-detection-and-response) | 29% |
 | **[SentinelOne](https://investors.sentinelone.com/)** <br> - [Stock Info](https://finance.yahoo.com/quote/S) • [SEC Filing](https://www.sec.gov/edgar/browse/?CIK=1583708) • [Earning Transcripts](https://seekingalpha.com/symbol/S/earnings/transcripts) • [More](https://www.sentinelone.com/blog/) 🎯 | [@SentinelOne](https://twitter.com/SentinelOne) &#124; [$S](https://twitter.com/search?q=%24S) | [![Endpoint](https://img.shields.io/badge/Endpoint-green.svg)](#endpoint-protection-and-threat-detection) [![ThreatIntel](https://img.shields.io/badge/ThreatIntel-navy.svg)](#threat-intelligence) [![Automation](https://img.shields.io/badge/Automation-orange.svg)](#automation-and-orchestration) | 32% |
+| **[Gen Digital](https://investor.gendigital.com/)** <br> - [Stock Info](https://finance.yahoo.com/quote/GEN) • [SEC Filing](https://www.sec.gov/edgar/browse/?CIK=0000849399) • [Earning Transcripts](https://seekingalpha.com/symbol/GEN/earnings/transcripts) • [More](https://www.gendigital.com/blog) 🎯 | [@GenDigitalInc](https://x.com/GenDigitalInc) &#124; [$GEN](https://x.com/search?q=%24GEN) | [![Endpoint](https://img.shields.io/badge/Endpoint-green.svg)](#endpoint-protection-and-threat-detection) [![IAM](https://img.shields.io/badge/IAM-teal.svg)](#identity-and-access-management) | 4% |
 
 ---
 
@@ -172,6 +173,7 @@ Protects an organization’s network perimeter and internal traffic. Typical mea
 | **[Fortinet](https://investor.fortinet.com/)** <br> - [Stock Info](https://finance.yahoo.com/quote/FTNT) • [SEC Filing](https://www.sec.gov/edgar/browse/?CIK=0001262039) • [Earning Transcripts](https://seekingalpha.com/symbol/FTNT/earnings/transcripts) • [More](https://www.fortinet.com/blog) 🌐 | [@Fortinet](https://twitter.com/Fortinet) &#124; [$FTNT](https://twitter.com/search?q=%24FTNT) | [![NetSec](https://img.shields.io/badge/NetSec-blue.svg)](#network-security) [![Endpoint](https://img.shields.io/badge/Endpoint-green.svg)](#endpoint-security) [![AppSec](https://img.shields.io/badge/AppSec-cyan.svg)](#application-security) [![Email](https://img.shields.io/badge/Email-violet.svg)](#email-security) | 14% |
 | **[Palo Alto Networks](https://investors.paloaltonetworks.com/)** <br> - [Stock Info](https://finance.yahoo.com/quote/PANW) • [SEC Filing](https://www.sec.gov/edgar/browse/?CIK=0001327567) • [Earning Transcripts](https://seekingalpha.com/symbol/PANW/earnings/transcripts) • [More](https://www.paloaltonetworks.com/blog) 🎯 | [@PaloAltoNtwks](https://twitter.com/PaloAltoNtwks) &#124; [$PANW](https://twitter.com/search?q=%24PANW) | [![NetSec](https://img.shields.io/badge/NetSec-blue.svg)](#network-security) [![ThreatIntel](https://img.shields.io/badge/ThreatIntel-navy.svg)](#threat-intelligence) [![AppSec](https://img.shields.io/badge/AppSec-cyan.svg)](#application-security) | 15% |
 | **[Radware](https://www.radware.com/investor-relations/)** <br> - [Stock Info](https://finance.yahoo.com/quote/RDWR) • [SEC Filing](https://www.sec.gov/edgar/browse/?CIK=1094366) • [Earning Transcripts](https://seekingalpha.com/symbol/RDWR/earnings/transcripts) • [More](https://www.radware.com/blog/) 🌐 | [@radware](https://twitter.com/radware) &#124; [$RDWR](https://twitter.com/search?q=%24RDWR) | [![AppSec](https://img.shields.io/badge/AppSec-cyan.svg)](#application-security) [![NetSec](https://img.shields.io/badge/NetSec-blue.svg)](#network-security) [![DataCenter](https://img.shields.io/badge/DataCenter-darkred.svg)](#data-center-security) | 10% |
+| **[NETSCOUT](https://ir.netscout.com/)** <br> - [Stock Info](https://finance.yahoo.com/quote/NTCT) • [SEC Filing](https://www.sec.gov/edgar/browse/?CIK=0001078075) • [Earning Transcripts](https://seekingalpha.com/symbol/NTCT/earnings/transcripts) • [More](https://www.netscout.com/blog) 🌐 | [@NETSCOUT](https://x.com/NETSCOUT) &#124; [$NTCT](https://x.com/search?q=%24NTCT) | [![NetSec](https://img.shields.io/badge/NetSec-blue.svg)](#network-security) [![DDoS](https://img.shields.io/badge/DDoS-red.svg)](#ddos-protection) [![Monitoring](https://img.shields.io/badge/Monitoring-yellow.svg)](#monitoring-and-operations) | -0.8% |
 
 ---
 
@@ -181,6 +183,7 @@ Controls user identities, authentication, and authorization. This category commo
 | Company (IR) | Twitter | Domains | Revenue Growth (Fiscal 2025) |
 |-------------|---------|---------|-------------------------------|
 | **[Okta](https://investor.okta.com/)** <br> - [Stock Info](https://finance.yahoo.com/quote/OKTA) • [SEC Filing](https://www.sec.gov/edgar/browse/?CIK=0001660134) • [Earning Transcripts](https://seekingalpha.com/symbol/OKTA/earnings/transcripts) • [More](https://www.okta.com/blog/) 🎯 | [@Okta](https://twitter.com/Okta) &#124; [$OKTA](https://twitter.com/search?q=%24OKTA) | [![IAM](https://img.shields.io/badge/IAM-teal.svg)](#identity-and-access-management) | 15% |
+| **[Telos](https://investors.telos.com/)** <br> - [Stock Info](https://finance.yahoo.com/quote/TLS) • [SEC Filing](https://www.sec.gov/edgar/browse/?CIK=0000320121) • [Earning Transcripts](https://seekingalpha.com/symbol/TLS/earnings/transcripts) • [More](https://www.telos.com/blog/) 🎯 | [@telosnews](https://x.com/telosnews) &#124; [$TLS](https://x.com/search?q=%24TLS) | [![IAM](https://img.shields.io/badge/IAM-teal.svg)](#identity-and-access-management) [![GRC](https://img.shields.io/badge/GRC-silver.svg)](#governance-risk-and-compliance) | 52.2% |
 
 ---
 
@@ -193,6 +196,7 @@ Secures cloud services, applications, and containers. It often involves technolo
 | **[Cloudflare](https://investors.cloudflare.com/)** <br> - [Stock Info](https://finance.yahoo.com/quote/NET) • [SEC Filing](https://www.sec.gov/edgar/browse/?CIK=0001477333) • [Earning Transcripts](https://seekingalpha.com/symbol/NET/earnings/transcripts) • [More](https://www.cloudflare.com/blog) 🌐 | [@Cloudflare](https://twitter.com/Cloudflare) &#124; [$NET](https://twitter.com/search?q=%24NET) | [![NetSec](https://img.shields.io/badge/NetSec-blue.svg)](#network-security) [![AppSec](https://img.shields.io/badge/AppSec-cyan.svg)](#application-security) | 30% |
 | **[F5](https://investors.f5.com/)** <br> - [Stock Info](https://finance.yahoo.com/quote/FFIV) • [SEC Filing](https://www.sec.gov/edgar/browse/?CIK=0001048695) • [Earning Transcripts](https://seekingalpha.com/symbol/FFIV/earnings/transcripts) • [More](https://www.f5.com/blog) 🌐 | [@F5](https://twitter.com/F5) &#124; [$FFIV](https://twitter.com/search?q=%24FFIV) | [![AppSec](https://img.shields.io/badge/AppSec-cyan.svg)](#application-security) [![NetSec](https://img.shields.io/badge/NetSec-blue.svg)](#network-security) | 10% |
 | **[Zscaler](https://ir.zscaler.com/)** <br> - [Stock Info](https://finance.yahoo.com/quote/ZS) • [SEC Filing](https://www.sec.gov/edgar/browse/?CIK=0001713683) • [Earning Transcripts](https://seekingalpha.com/symbol/ZS/earnings/transcripts) • [More](https://www.zscaler.com/blog) 🎯 | [@Zscaler](https://twitter.com/Zscaler) &#124; [$ZS](https://twitter.com/search?q=%24ZS) | [![AppSec](https://img.shields.io/badge/AppSec-cyan.svg)](#application-security) | 23% |
+| **[Synopsys](https://investor.synopsys.com/)** <br> - [Stock Info](https://finance.yahoo.com/quote/SNPS) • [SEC Filing](https://www.sec.gov/edgar/browse/?CIK=0000883241) • [Earning Transcripts](https://seekingalpha.com/symbol/SNPS/earnings/transcripts) • [More](https://www.synopsys.com/blogs/software-security/) 🌐 | [@Synopsys](https://x.com/Synopsys) &#124; [$SNPS](https://x.com/search?q=%24SNPS) | [![AppSec](https://img.shields.io/badge/AppSec-cyan.svg)](#application-security) | 15% |
 
 ---
 
@@ -225,26 +229,27 @@ These cybersecurity companies are listed on international stock exchanges outsid
 
 | **Company (IR)** | **Ticker / Stock Exchange** | **Twitter** | **Description** | **Domains** | **Revenue Growth (Latest Reported 2025)** |
 |---|---|---|---|---|---|
-| [Cyberoo](https://cyberoo.com/en/investors-relations/) | [$CYB.MI](https://finance.yahoo.com/quote/CYB.MI) - Borsa Italiana | [@CYBEROO_ITALIA](https://twitter.com/CYBEROO_ITALIA) &#124; [$CYB](https://twitter.com/search?q=%24CYB) | Provides MDR, threat protection, and cybersecurity services for businesses. [More](https://cyberoo.com/en/choose-your-cybersecurity-blog/) 🎯 | [![Monitoring](https://img.shields.io/badge/Monitoring-yellow.svg)](#monitoring-and-operations) [![ThreatIntel](https://img.shields.io/badge/ThreatIntel-navy.svg)](#threat-intelligence) [![Consulting](https://img.shields.io/badge/Consulting-brown.svg)](#consulting) [![IDR](https://img.shields.io/badge/IDR-crimson.svg)](#incident-detection-and-response) | -0.4%* |
-| [NCC Group](https://www.nccgroupplc.com/investor-relations/) | [$NCC.L](https://finance.yahoo.com/quote/NCC.L) - LSE | [@NCCGroupplc](https://twitter.com/NCCGroupplc) &#124; [$NCC](https://twitter.com/search?q=%24NCC) | Cybersecurity consulting, managed services, and software security testing. [More](https://www.nccgroup.com/uk/newsroom/) 🎯 | [![Consulting](https://img.shields.io/badge/Consulting-brown.svg)](#consulting) | -7.2% |
-| [Thales](https://www.thalesgroup.com/en/investors) | [$HO.PA](https://finance.yahoo.com/quote/HO.PA) - Euronext Paris | [@ThalesGroup](https://twitter.com/ThalesGroup) &#124; [$HO](https://twitter.com/search?q=%24HO) | Develops digital security solutions (encryption, IAM, secure communications). 🌐 | [![DataSec](https://img.shields.io/badge/DataSec-gold.svg)](#data-security-and-protection) [![IAM](https://img.shields.io/badge/IAM-teal.svg)](#identity-and-access-management) | 7.6% |
-| [Trend Micro](https://www.trendmicro.com/en_us/about/investor-relations.html) | [$4704.T](https://finance.yahoo.com/quote/4704.T) - Tokyo Stock Exchange | [@TrendMicro](https://twitter.com/TrendMicro) &#124; [$4704](https://twitter.com/search?q=%244704) | Threat detection, cloud security, and endpoint protection. [More](https://www.trendmicro.com/en_us/research.html) 🎯 | [![Endpoint](https://img.shields.io/badge/Endpoint-green.svg)](#endpoint-security) [![NetSec](https://img.shields.io/badge/NetSec-blue.svg)](#network-security) [![Email](https://img.shields.io/badge/Email-violet.svg)](#email-security) | 2% |
-| [Yubico AB](https://investors.yubico.com/en/) | [$YUBICO.ST](https://finance.yahoo.com/quote/YUBICO.ST) - Nasdaq Stockholm | [@Yubico](https://twitter.com/Yubico) &#124; [$YUBICO](https://twitter.com/search?q=%24YUBICO) | Hardware-based authentication (YubiKeys) for orgs and individuals. 🎯 | [![IAM](https://img.shields.io/badge/IAM-teal.svg)](#identity-and-access-management) | -4.7% |
-| [AhnLab Inc.](https://company.ahnlab.com/en/index.do) | [$053800.KQ](https://finance.yahoo.com/quote/053800.KQ) - KOSDAQ | [@AhnLabGlobal](https://x.com/AhnLabGlobal) | Endpoint security, network security, and threat intelligence. 🎯 | [![Endpoint](https://img.shields.io/badge/Endpoint-green.svg)](#endpoint-security) [![NetSec](https://img.shields.io/badge/NetSec-blue.svg)](#network-security) [![ThreatIntel](https://img.shields.io/badge/ThreatIntel-navy.svg)](#threat-intelligence) | 2.7% |
-| [Digital Arts Inc.](https://www.daj.jp/en/ir/) | [$2326.T](https://finance.yahoo.com/quote/2326.T) - Tokyo Stock Exchange | [@DA_IDL](https://x.com/DA_IDL) | Network and data security for business and education. 🎯 | [![NetSec](https://img.shields.io/badge/NetSec-blue.svg)](#network-security) [![DataSec](https://img.shields.io/badge/DataSec-gold.svg)](#data-security-and-protection) | 7.2% |
-| [HENNGE K.K.](https://hennge.com/global/ir/) | [$4475.T](https://finance.yahoo.com/quote/4475.T) - Tokyo Stock Exchange | [@henngepr](https://x.com/henngepr) | Cloud security and email security solutions for business. 🎯 | [![CloudSec](https://img.shields.io/badge/CloudSec-purple.svg)](#cloud-and-application-security) [![Email](https://img.shields.io/badge/Email-violet.svg)](#email-security) | 30.6% |
-| [secunet Security Networks AG](https://www.secunet.com/en/about-us/investors) | [$YSN.DE](https://finance.yahoo.com/quote/YSN.DE) - XETRA | [@secunet_AG](https://x.com/secunet_AG) &#124; [$YSN](https://x.com/search?q=%24YSN) | Secure networking, identity access management, and cybersecurity consulting. 🎯 | [![NetSec](https://img.shields.io/badge/NetSec-blue.svg)](#network-security) [![IAM](https://img.shields.io/badge/IAM-teal.svg)](#identity-and-access-management) [![Consulting](https://img.shields.io/badge/Consulting-brown.svg)](#consulting) | 11% |
+| **[Cyberoo](https://cyberoo.com/en/investors-relations/)** [More](https://cyberoo.com/en/choose-your-cybersecurity-blog/) 🎯 | [$CYB.MI](https://finance.yahoo.com/quote/CYB.MI) - Borsa Italiana | [@CYBEROO_ITALIA](https://twitter.com/CYBEROO_ITALIA) &#124; [$CYB](https://twitter.com/search?q=%24CYB) | Provides MDR, threat protection, and cybersecurity services for businesses. | [![Monitoring](https://img.shields.io/badge/Monitoring-yellow.svg)](#monitoring-and-operations) [![ThreatIntel](https://img.shields.io/badge/ThreatIntel-navy.svg)](#threat-intelligence) [![Consulting](https://img.shields.io/badge/Consulting-brown.svg)](#consulting) [![IDR](https://img.shields.io/badge/IDR-crimson.svg)](#incident-detection-and-response) | -0.4%* |
+| **[NCC Group](https://www.nccgroupplc.com/investor-relations/)** [More](https://www.nccgroup.com/uk/newsroom/) 🎯 | [$NCC.L](https://finance.yahoo.com/quote/NCC.L) - LSE | [@NCCGroupplc](https://twitter.com/NCCGroupplc) &#124; [$NCC](https://twitter.com/search?q=%24NCC) | Cybersecurity consulting, managed services, and software security testing. | [![Consulting](https://img.shields.io/badge/Consulting-brown.svg)](#consulting) | -7.2% |
+| **[Thales](https://www.thalesgroup.com/en/investors)** 🌐 | [$HO.PA](https://finance.yahoo.com/quote/HO.PA) - Euronext Paris | [@ThalesGroup](https://twitter.com/ThalesGroup) &#124; [$HO](https://twitter.com/search?q=%24HO) | Develops digital security solutions (encryption, IAM, secure communications). | [![DataSec](https://img.shields.io/badge/DataSec-gold.svg)](#data-security-and-protection) [![IAM](https://img.shields.io/badge/IAM-teal.svg)](#identity-and-access-management) | 7.6% |
+| **[Trend Micro](https://www.trendmicro.com/en_us/about/investor-relations.html)** [More](https://www.trendmicro.com/en_us/research.html) 🎯 | [$4704.T](https://finance.yahoo.com/quote/4704.T) - Tokyo Stock Exchange | [@TrendMicro](https://twitter.com/TrendMicro) &#124; [$4704](https://twitter.com/search?q=%244704) | Threat detection, cloud security, and endpoint protection. | [![Endpoint](https://img.shields.io/badge/Endpoint-green.svg)](#endpoint-security) [![NetSec](https://img.shields.io/badge/NetSec-blue.svg)](#network-security) [![Email](https://img.shields.io/badge/Email-violet.svg)](#email-security) | 2% |
+| **[Yubico AB](https://investors.yubico.com/en/)** 🎯 | [$YUBICO.ST](https://finance.yahoo.com/quote/YUBICO.ST) - Nasdaq Stockholm | [@Yubico](https://twitter.com/Yubico) &#124; [$YUBICO](https://twitter.com/search?q=%24YUBICO) | Hardware-based authentication (YubiKeys) for orgs and individuals. | [![IAM](https://img.shields.io/badge/IAM-teal.svg)](#identity-and-access-management) | -4.7% |
+| **[AhnLab Inc.](https://company.ahnlab.com/en/index.do)** 🎯 | [$053800.KQ](https://finance.yahoo.com/quote/053800.KQ) - KOSDAQ | [@AhnLabGlobal](https://x.com/AhnLabGlobal) | Endpoint security, network security, and threat intelligence. | [![Endpoint](https://img.shields.io/badge/Endpoint-green.svg)](#endpoint-security) [![NetSec](https://img.shields.io/badge/NetSec-blue.svg)](#network-security) [![ThreatIntel](https://img.shields.io/badge/ThreatIntel-navy.svg)](#threat-intelligence) | 2.7% |
+| **[Digital Arts Inc.](https://www.daj.jp/en/ir/)** 🎯 | [$2326.T](https://finance.yahoo.com/quote/2326.T) - Tokyo Stock Exchange | [@DA_IDL](https://x.com/DA_IDL) | Network and data security for business and education. | [![NetSec](https://img.shields.io/badge/NetSec-blue.svg)](#network-security) [![DataSec](https://img.shields.io/badge/DataSec-gold.svg)](#data-security-and-protection) | 7.2% |
+| **[HENNGE K.K.](https://hennge.com/global/ir/)** 🎯 | [$4475.T](https://finance.yahoo.com/quote/4475.T) - Tokyo Stock Exchange | [@henngepr](https://x.com/henngepr) | Cloud security and email security solutions for business. | [![CloudSec](https://img.shields.io/badge/CloudSec-purple.svg)](#cloud-and-application-security) [![Email](https://img.shields.io/badge/Email-violet.svg)](#email-security) | 30.6% |
+| **[secunet Security Networks AG](https://www.secunet.com/en/about-us/investors)** 🎯 | [$YSN.DE](https://finance.yahoo.com/quote/YSN.DE) - XETRA | [@secunet_AG](https://x.com/secunet_AG) &#124; [$YSN](https://x.com/search?q=%24YSN) | Secure networking, identity access management, and cybersecurity consulting. | [![NetSec](https://img.shields.io/badge/NetSec-blue.svg)](#network-security) [![IAM](https://img.shields.io/badge/IAM-teal.svg)](#identity-and-access-management) [![Consulting](https://img.shields.io/badge/Consulting-brown.svg)](#consulting) | 11% |
 
 ---
 
 ### [↑](#table-of-contents)Cybersecurity ETFs <a name="cybersecurity-etfs"></a>
+
 These exchange-traded funds invest in diversified portfolios of companies operating across various cybersecurity domains, offering investors broad exposure to the cybersecurity market.
 
 | ETF Name | Ticker | Description | Total Return for 2025 | AUM (USD) |
 |--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|------------------|
 | [Amplify Cybersecurity ETF](https://www.amplifyetfs.com/hack) | [$HACK](https://finance.yahoo.com/quote/HACK) | Tracks the Nasdaq ISE Cyber Security™ Select Index, focusing on companies directly involved in the cybersecurity industry. | 8.0% | $1.93 billion |
-| [First Trust Nasdaq Cybersecurity ETF](https://www.ftportfolios.com/retail/etf/EtfSummary.aspx?Ticker=CIBR) | [$CIBR](https://finance.yahoo.com/quote/CIBR) | Aims to match the Nasdaq CTA Cybersecurity Index™, targeting cybersecurity-focused tech and industrials firms. | 13.1% | $9.55 billion |
-| [Global X Cybersecurity ETF](https://www.globalxetfs.com/funds/bug/) | [$BUG](https://finance.yahoo.com/quote/BUG) | Invests in companies benefiting from cybersecurity tech adoption, specifically those developing/managing security protocols to prevent intrusions and attacks. | -5.19% | $820.37 million |
+| [First Trust NASDAQ Cybersecurity ETF](https://www.ftportfolios.com/retail/etf/EtfSummary.aspx?Ticker=CIBR) | [$CIBR](https://finance.yahoo.com/quote/CIBR) | Aims to match the Nasdaq CTA Cybersecurity Index™, targeting cybersecurity-focused tech and industrials firms. | 13.1% | $9.55 billion |
+| [Global X Cybersecurity ETF](https://www.globalxetfs.com/funds/bug/) | [$BUG](https://finance.yahoo.com/quote/BUG) | Invests in companies benefiting from cybersecurity tech adoption, specifically those developing and managing security protocols to prevent intrusions and attacks. | -5.19% | $820.37 million |
 
 ---
 
@@ -255,7 +260,7 @@ This section outlines 18 cybersecurity solution categories, each supported by re
 
 ### **1. Network Security** <a name="network-security"></a> ![NetSec](https://img.shields.io/badge/NetSec-blue.svg)
 
-- **Network Traffic Analysis (NTA):** Monitors/analyzes network traffic for suspicious activity (e.g., **Cisco Stealthwatch**, **Darktrace**).
+- **Network Traffic Analysis (NTA):** Monitors/analyzes network traffic for suspicious activity (e.g., **Cisco Stealthwatch**, **ExtraHop Reveal(x)**).
 - **Firewalls:** Secures network perimeters/controls traffic flow (e.g., **Palo Alto Networks NGFW**, **Cisco ASA**).
 - **Intrusion Detection/Prevention Systems (IDS/IPS):** Detects/prevents unauthorized access (e.g., **Snort**, **Suricata**).
 - **Micro-Segmentation**: Restricts lateral movement within networks by enforcing security policies at a granular level, enhancing zero-trust architectures (e.g., **Illumio Core**).
@@ -300,7 +305,7 @@ This section outlines 18 cybersecurity solution categories, each supported by re
 ### **6. Threat Intelligence** <a name="threat-intelligence"></a> ![ThreatIntel](https://img.shields.io/badge/ThreatIntel-navy.svg)
 
 - **Threat Intelligence Platforms (TIPs):** Aggregate/analyze threat data (e.g., **Recorded Future**, **ThreatConnect**).
-- **AI-Driven Threat Detection:** Uses AI for threat detection (e.g., **Darktrace**, **Vectra AI**).
+- **AI-Driven Threat Detection:** Uses AI for threat detection (e.g., **Vectra AI**, **Cynet**).
 - **User/Entity Behavior Analytics (UEBA):** Analyzes activity patterns to detect potential security incidents before they escalate (e.g., **Securonix UEBA**, **Exabeam**).
 - **Deepfake Detection:** Identifies AI-generated content for media integrity (e.g., **Reality Defender**, **Truepic**).
 
@@ -309,7 +314,7 @@ This section outlines 18 cybersecurity solution categories, each supported by re
 ### **7. Data Center Security** <a name="data-center-security"></a> ![DataCenter](https://img.shields.io/badge/DataCenter-darkred.svg)
 
 - **Physical Security Controls:** Prevents unauthorized data center access (e.g., **HID Global**, **Bosch**).
-- **Data Center Firewalls:** Monitors/protects traffic within DCs (e.g., **Fortinet FortiGate DC Firewall**, **Juniper SRX**).
+- **Data Center Firewalls:** Monitors/protects traffic within DCs (e.g., **Fortinet FortiGate DC Firewall**, **Cisco Secure Firewall**).
 
 ---
 
@@ -325,7 +330,7 @@ This section outlines 18 cybersecurity solution categories, each supported by re
 
 ### **9. Identity and Access Management** <a name="identity-and-access-management"></a> ![IAM](https://img.shields.io/badge/IAM-teal.svg)
 
-- **Privileged Access Management (PAM):** Secures privileged accounts (e.g., **CyberArk**, **BeyondTrust**).
+- **Privileged Access Management (PAM):** Secures privileged accounts (e.g., **Delinea**, **BeyondTrust**).
 - **Multi-Factor Authentication (MFA):** Multiple identity verifications (e.g., **Duo**, **Okta MFA**).
 - **IGA (Identity Governance/Admin):** Manages user permissions (e.g., **SailPoint**, **IBM Security IGA**).
 - **IAM:** Controls system/data access (e.g., **Okta**, **Azure AD**).
