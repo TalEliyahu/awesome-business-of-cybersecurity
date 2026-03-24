@@ -33,7 +33,7 @@
 - **M&A Activity:** The market recorded **$76.4B** across **320 deals**, led by Google’s **$32B** acquisition of Wiz, the largest deal in industry history.
 - **Capital Concentration:** **48 mega-rounds** of **$100M+** captured **65%** of all cybersecurity funding in 2025.
 - **AI Security Reality Check:** Despite the hype, **AI Security accounted for just 2.6% of total cybersecurity funding** in 2025, reaching about **$661M** and remaining outside the top 10 funding categories.
-- **Geographic Concentration:** The **U.S. and Israel absorbed 91%** of global cybersecurity funding. The U.S. reached **$18.5B**, Israel **$2.5B**, and Europe **$1.33B**.
+- **Geographic Concentration:** The **U.S. accounted for ~74%** of global cybersecurity funding (**$18.5B** of **$25.1B**). **Europe** reached **$1.33B**.
 - **Public Market Performance:** Only **5 of 14** pure-play cybersecurity stocks finished 2025 in positive territory, while the **Return on Security Cyber Index returned -6.5%**.
 - **Market Structure Shift:** 2025 highlighted **“The Great Bundling”** - cyber companies buying IT, IT companies buying cyber, and adjacent industrial players entering security through acquisition.
 
