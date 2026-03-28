@@ -252,7 +252,6 @@ These exchange-traded funds invest in diversified portfolios of companies operat
 This section outlines 18 cybersecurity solution categories, each supported by real-world vendor examples and AI-driven offerings to address diverse security challenges. [Maturity models](https://github.com/TalEliyahu/awesome-CISO-maturity-models) often used by security engineering teams help measure and track how capabilities across these categories are structured and scaled in organizations.
 
 
-
 ### **1. Network Security** <a name="network-security"></a> ![NetSec](https://img.shields.io/badge/NetSec-blue.svg)
 
 - **Network Traffic Analysis (NTA):** Monitors/analyzes network traffic for suspicious activity (e.g., **Cisco Stealthwatch**, **ExtraHop Reveal(x)**).
@@ -260,6 +259,9 @@ This section outlines 18 cybersecurity solution categories, each supported by re
 - **Intrusion Detection/Prevention Systems (IDS/IPS):** Detects/prevents unauthorized access (e.g., **Snort**, **Suricata**).
 - **Micro-Segmentation**: Restricts lateral movement within networks by enforcing security policies at a granular level, enhancing zero-trust architectures (e.g., **Illumio Core**).
 - **Network Access Control (NAC)**: Enforces security policies by controlling device access to enterprise networks, ensuring compliance before granting access (e.g., **Aruba ClearPass**).
+- **Zero Trust Network Access (ZTNA):** Provides identity- and context-based access to specific applications rather than broad network-level access (e.g., **Zscaler Private Access**, **Cloudflare Access**, **Netskope ZTNA**).
+- **Secure Web Gateway (SWG):** Protects users from malicious web traffic and enforces web access policies (e.g., **Cloudflare Gateway**, **Zscaler Internet Access**, **Netskope SWG**).
+- **DDoS Protection:** Detects and mitigates distributed denial-of-service attacks against networks and internet-facing services (e.g., **Cloudflare DDoS Protection**, **Akamai Prolexic**, **Radware DefensePro**).
 
 ---
 
@@ -279,6 +281,7 @@ This section outlines 18 cybersecurity solution categories, each supported by re
 - **SIEM (Security Info and Event Management):** Centralized platforms for collecting, analyzing, and correlating security data to uncover potential threats (e.g., **Splunk**, **IBM QRadar**).
 - **XIEM (Extended IEM):** Enhances traditional SIEM capabilities with advanced analytics and machine learning for deeper insights. (e.g., **LogRhythm XIEM**, **Exabeam**).
 - **Behavioral/Insider Threat Analytics:** Detects anomalous and malicious activity by analyzing user and entity behavior patterns (e.g., **Varonis**, **Securonix**).
+- **Network Detection and Response (NDR):** Continuously analyzes network telemetry to detect suspicious behavior, lateral movement, and hidden threats (e.g., **ExtraHop RevealX**, **Vectra AI**, **Darktrace /TREIS**).
 
 ---
 
@@ -320,6 +323,7 @@ This section outlines 18 cybersecurity solution categories, each supported by re
 - **AI-Based Data Flow Mapping:** Automates the discovery of sensitive data flows and risks (e.g., **1Touch.io**, **Cyberhaven**).
 - **Cloud Access Security Broker (CASB)**: Provides visibility, compliance enforcement, and data protection for cloud-based services, ensuring secure usage of SaaS, IaaS, and PaaS environments (e.g., **Cisco Cloudlock**, **Forcepoint CASB**).
 - **Airgap Security**: Utilizes physical or virtual isolation to protect systems from network threats, ensuring no direct network connectivity for critical systems.
+- **Data Security Posture Management (DSPM):** Discovers, classifies, and monitors sensitive data exposure across cloud and hybrid environments (e.g., **Varonis DSPM**, **Microsoft Purview DSPM**, **Symmetry Systems**).
 
 ---
 
@@ -329,10 +333,12 @@ This section outlines 18 cybersecurity solution categories, each supported by re
 - **Multi-Factor Authentication (MFA):** Multiple identity verifications (e.g., **Duo**, **Okta MFA**).
 - **IGA (Identity Governance/Admin):** Manages user permissions (e.g., **SailPoint**, **IBM Security IGA**).
 - **IAM:** Controls system/data access (e.g., **Okta**, **Azure AD**).
+- **Single Sign-On (SSO):** Allows users to authenticate once and securely access multiple connected applications and services (e.g., **Okta SSO**, **Microsoft Entra ID**, **Ping Identity**).
 - **Secure Mobile Access:** VPN/MFA for mobile users (e.g., **Palo Alto Prisma Access**, **Zscaler Private Access**).
 - **AI for Identity Security:** Enhances identity verification processes with behavior analysis and fraud detection (e.g., **Twine Security**, **RedBlock.ai**).
-- **Customer Identity & Access Management (CIAM):** Manages customer authentication, consent, and security for external users (e.g., Auth0, Ping Identity, ForgeRock).
-- **Identity Verification (IDV) & Identity Proofing:** Uses biometrics and document validation to verify real-world identity (e.g., Onfido, Jumio, ID.me, Persona).
+- **Customer Identity & Access Management (CIAM):** Manages customer authentication, consent, and security for external users (e.g., **Auth0**, **Ping Identity**, **ForgeRock**).
+- **Identity Verification (IDV) & Identity Proofing:** Uses biometrics and document validation to verify real-world identity (e.g., **Onfido**, **Jumio**, **ID.me**, **Persona**).
+- **Identity Threat Detection and Response (ITDR):** Detects, investigates, and responds to identity-based attacks, including compromised credentials and attacks against identity infrastructure (e.g., **Microsoft Defender for Identity**, **CrowdStrike Falcon Identity Protection**, **Silverfort**).
 
 ---
 
@@ -344,6 +350,8 @@ This section outlines 18 cybersecurity solution categories, each supported by re
 - **RASP:** In-app runtime protection (e.g., **Imperva RASP**, **Signal Sciences RASP**).
 - **SCA:** Open-source vulnerability tracking (e.g., **Snyk**, **WhiteSource**).
 - **WAF:** Web app firewall (e.g., **Akamai Kona**, **Imperva WAF**).
+- **API Security:** Protects APIs from abuse, attacks, and data exposure through discovery, schema validation, authentication controls, and traffic inspection (e.g., **Cloudflare API Shield**, **Salt Security**, **Noname Security**).
+- **WAAP (Web Application and API Protection):** Unified protection layer for web apps and APIs, typically combining WAF, API protection, bot mitigation, and DDoS defenses (e.g., **Cloudflare WAAP**, **Akamai App & API Protector**, **F5 Distributed Cloud WAAP**).
 - **Mobile App Security:** Dev-time & runtime protection (e.g., **Veracode Mobile**, **NowSecure**).
 - **Cloud Workload Protection Platforms (CWPP)**: Provides comprehensive security for cloud-native workloads, including containers, virtual machines, and serverless functions. Features include vulnerability scanning, runtime monitoring, and compliance enforcement (e.g., **Aqua Security**, **Sysdig Secure**, **Prisma Cloud**).
 - **Software Supply Chain Security:** Protects against risks in software development pipelines, including vulnerabilities, misconfigurations, and secrets in code repositories (e.g., **GitGuardian**, **JFrog Xray**, **Sonatype Nexus**).
@@ -385,6 +393,9 @@ This section outlines 18 cybersecurity solution categories, each supported by re
 
 - **Continuous Vulnerability Management:** Regular scans/remediation (e.g., **Qualys VM**, **Nessus**).
 - **CAASM (Cyber Asset Attack Surface Mgmt):** Reduces overall attack surface (e.g., **CyCognito**, **RiskIQ**).
+- **Attack Surface Management (ASM):** Continuously discovers and monitors internal and external assets that expand the organization’s attack surface (e.g., **Tenable Attack Surface Management**, **Palo Alto Cortex Xpanse**, **CrowdStrike Falcon Exposure Management**).
+- **External Attack Surface Management (EASM):** Focuses on internet-facing assets, shadow IT, and externally exposed weaknesses (e.g., **Microsoft Defender EASM**, **Palo Alto Cortex Xpanse**, **Mandiant Advantage Attack Surface Management**).
+
 ---
 
 ### **15. Incident Detection and Response** <a name="incident-detection-and-response"></a> ![IDR](https://img.shields.io/badge/IDR-crimson.svg)
@@ -398,6 +409,8 @@ This section outlines 18 cybersecurity solution categories, each supported by re
 
 - **ICS Security Platforms:** Protect operational tech from cyber threats (e.g., **Nozomi Networks**, **Claroty**).
 - **SCADA Security:** Secures critical infrastructure (e.g., **Siemens SCADA**, **Honeywell Industrial Cybersecurity**).
+- **Operational Technology (OT) Security:** Protects industrial and operational environments such as plants, utilities, and manufacturing systems from cyber threats (e.g., **Nozomi Networks**, **Claroty**, **Dragos**).
+- **IoT Security:** Protects connected enterprise and industrial devices by improving visibility, posture, and threat detection across unmanaged device fleets (e.g., **Microsoft Defender for IoT**, **Armis**, **Forescout**).
 
 ---
 
@@ -405,7 +418,7 @@ This section outlines 18 cybersecurity solution categories, each supported by re
 
 - **Compliance Management:** Tracks adherence to standards (e.g., **RSA Archer GRC**, **LogicManager**).
 - **Risk Management:** Identifies/mitigates organizational risks (e.g., **ServiceNow GRC**, **MetricStream**).
-
+- 
 ---
 
 ### **18. Third-Party Risk Management** <a name="third-party-risk-management"></a> ![TPRM](https://img.shields.io/badge/TPRM-tan.svg)
