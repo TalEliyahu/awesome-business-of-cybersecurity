@@ -61,9 +61,6 @@ Explore resources that offer insights into the business, strategy, and trends sh
 - **[Anton on Security](https://chuvakin.blogspot.com/)**  
   [Dr. Anton Chuvakin](https://x.com/anton_chuvakin) shares analysis on market sub-segments, with a focus on log management and emerging cybersecurity challenges.
 
-- **[SecMoves](https://www.linkedin.com/newsletters/secmoves-6890336717535006720/)**  
-  [Karl Sharman](https://www.linkedin.com/in/karl-sharmancybersecurity/) tracks the latest talent shifts, funding rounds, acquisitions, and job opportunities across the cybersecurity industry.
-
 ### [↑](#table-of-contents)Podcasts
 
 - **[The Cyber Brain](https://cyberbrain.cybersynapse.io/)**  
